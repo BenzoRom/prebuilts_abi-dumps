@@ -546,11 +546,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_pointer<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::value"
+     "name" : "android::trait_pointer<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
-   "name" : "android::trait_pointer<key_value_pair_t<int, ThreadInfo> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
+   "name" : "android::trait_pointer<key_value_pair_t<int, ThreadInfo>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
    "self_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
    "size" : 4,
@@ -740,11 +740,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_copy<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::value"
+     "name" : "android::trait_trivial_copy<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
-   "name" : "android::trait_trivial_copy<key_value_pair_t<int, ThreadInfo> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:287:3)",
+   "name" : "android::trait_trivial_copy<key_value_pair_t<int, ThreadInfo>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:287:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
    "size" : 4,
@@ -1029,11 +1029,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_ctor<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::value"
+     "name" : "android::trait_trivial_ctor<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
-   "name" : "android::trait_trivial_ctor<key_value_pair_t<int, ThreadInfo> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:281:3)",
+   "name" : "android::trait_trivial_ctor<key_value_pair_t<int, ThreadInfo>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:281:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
    "size" : 4,
@@ -1318,11 +1318,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_dtor<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::value"
+     "name" : "android::trait_trivial_dtor<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
-   "name" : "android::trait_trivial_dtor<key_value_pair_t<int, ThreadInfo> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:284:3)",
+   "name" : "android::trait_trivial_dtor<key_value_pair_t<int, ThreadInfo>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:284:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
    "size" : 4,
@@ -1607,11 +1607,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_move<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::value"
+     "name" : "android::trait_trivial_move<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
-   "name" : "android::trait_trivial_move<key_value_pair_t<int, ThreadInfo> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:290:3)",
+   "name" : "android::trait_trivial_move<key_value_pair_t<int, ThreadInfo>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:290:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE6$valueE",
    "size" : 4,
@@ -1912,27 +1912,27 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::is_pointer"
+     "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::is_pointer"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::has_trivial_ctor"
+     "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::has_trivial_ctor"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::has_trivial_dtor"
+     "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::has_trivial_dtor"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::has_trivial_copy"
+     "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::has_trivial_copy"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::has_trivial_move"
+     "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::has_trivial_move"
     }
    ],
    "linker_set_key" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE17$has_trivial_copyE",
-   "name" : "android::traits<key_value_pair_t<int, ThreadInfo> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
+   "name" : "android::traits<key_value_pair_t<int, ThreadInfo>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
    "referenced_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE17$has_trivial_copyE",
    "self_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE17$has_trivial_copyE",
    "size" : 4,
@@ -2360,7 +2360,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::do_compare",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::do_compare",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE10do_compareEPKvS7_",
    "parameters" :
    [
@@ -2380,7 +2380,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::do_destroy",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::do_destroy",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE10do_destroyEPvj",
    "parameters" :
    [
@@ -2400,7 +2400,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::do_construct",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::do_construct",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE12do_constructEPvj",
    "parameters" :
    [
@@ -2420,7 +2420,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::do_move_forward",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::do_move_forward",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE15do_move_forwardEPvPKvj",
    "parameters" :
    [
@@ -2443,7 +2443,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::do_move_backward",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::do_move_backward",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE16do_move_backwardEPvPKvj",
    "parameters" :
    [
@@ -2466,7 +2466,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::do_copy",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::do_copy",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE7do_copyEPvPKvj",
    "parameters" :
    [
@@ -2489,7 +2489,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >::do_splat",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>::do_splat",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEE8do_splatEPvPKvj",
    "parameters" :
    [
@@ -2871,7 +2871,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> > &",
+   "name" : "const android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>> &",
    "referenced_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIRKN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 4,
@@ -2925,7 +2925,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > &",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "size" : 4,
@@ -3198,7 +3198,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> > *",
+   "name" : "const android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>> *",
    "referenced_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIPKN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 4,
@@ -3297,7 +3297,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> > *",
+   "name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>> *",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIPN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 4,
@@ -3471,7 +3471,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >",
+   "name" : "const android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 20,
@@ -3541,7 +3541,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "size" : 12,
@@ -4372,7 +4372,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >",
+   "name" : "android::SortedVector<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
@@ -4547,7 +4547,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "android::trait_pointer<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >",
+   "name" : "android::trait_pointer<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 1,
@@ -4781,7 +4781,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "android::use_trivial_move<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >",
+   "name" : "android::use_trivial_move<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>",
    "referenced_type" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 1,
@@ -4820,7 +4820,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "android::trait_trivial_copy<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >",
+   "name" : "android::trait_trivial_copy<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 1,
@@ -4993,7 +4993,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "android::trait_trivial_ctor<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >",
+   "name" : "android::trait_trivial_ctor<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 1,
@@ -5166,7 +5166,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "android::trait_trivial_dtor<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >",
+   "name" : "android::trait_trivial_dtor<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 1,
@@ -5339,7 +5339,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "android::trait_trivial_move<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >",
+   "name" : "android::trait_trivial_move<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 1,
@@ -5566,7 +5566,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
-   "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo> >",
+   "name" : "android::traits<android::key_value_pair_t<int, android::ProcessCallStack::ThreadInfo>>",
    "referenced_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "self_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_16ProcessCallStack10ThreadInfoEEEEE",
    "size" : 1,

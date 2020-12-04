@@ -737,7 +737,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware14confirmationui7support6NullOrINS2_5arrayIhLj32EEEEE",
-   "name" : "android::hardware::confirmationui::support::NullOr<android::hardware::confirmationui::support::array<unsigned char, 32> >",
+   "name" : "android::hardware::confirmationui::support::NullOr<android::hardware::confirmationui::support::array<unsigned char, 32>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware14confirmationui7support6NullOrINS2_5arrayIhLj32EEEEE",
    "self_type" : "_ZTIN7android8hardware14confirmationui7support6NullOrINS2_5arrayIhLj32EEEEE",

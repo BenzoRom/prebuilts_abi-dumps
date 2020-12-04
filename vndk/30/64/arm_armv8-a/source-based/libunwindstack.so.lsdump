@@ -2065,15 +2065,7 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__112__hash_tableINS_17__hash_value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairINS_10shared_ptrIN11unwindstack3ElfEEEbEEEENS_22__unordered_map_hasherIS7_SE_NS_4hashIS7_EELb1EEENS_21__unordered_map_equalIS7_SE_NS_8equal_toIS7_EELb1EEENS5_ISE_EEED2Ev"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__112__hash_tableINS_17__hash_value_typeIjN11unwindstack13DwarfLocationEEENS_22__unordered_map_hasherIjS4_NS_4hashIjEELb1EEENS_21__unordered_map_equalIjS4_NS_8equal_toIjEELb1EEENS_9allocatorIS4_EEE14__assign_multiINS_21__hash_const_iteratorIPNS_11__hash_nodeIS4_PvEEEEEEvT_SN_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__112__hash_tableINS_17__hash_value_typeIjN11unwindstack13DwarfLocationEEENS_22__unordered_map_hasherIjS4_NS_4hashIjEELb1EEENS_21__unordered_map_equalIjS4_NS_8equal_toIjEELb1EEENS_9allocatorIS4_EEE14__erase_uniqueIjEEjRKT_"
   },
   {
    "binding" : "weak",
@@ -2130,10 +2122,6 @@
   {
    "binding" : "weak",
    "name" : "_ZNSt3__112__hash_tableINS_17__hash_value_typeIyN11unwindstack14DwarfLocationsEEENS_22__unordered_map_hasherIyS4_NS_4hashIyEELb1EEENS_21__unordered_map_equalIyS4_NS_8equal_toIyEELb1EEENS_9allocatorIS4_EEE25__emplace_unique_key_argsIyJRKNS_21piecewise_construct_tENS_5tupleIJRKyEEENSK_IJEEEEEENS_4pairINS_15__hash_iteratorIPNS_11__hash_nodeIS4_PvEEEEbEERKT_DpOT0_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__112__hash_tableINS_17__hash_value_typeIyN11unwindstack14DwarfLocationsEEENS_22__unordered_map_hasherIyS4_NS_4hashIyEELb1EEENS_21__unordered_map_equalIyS4_NS_8equal_toIyEELb1EEENS_9allocatorIS4_EEE4findIyEENS_15__hash_iteratorIPNS_11__hash_nodeIS4_PvEEEERKT_"
   },
   {
    "binding" : "weak",
@@ -2286,14 +2274,6 @@
   {
    "binding" : "weak",
    "name" : "_ZNSt3__114__split_bufferIPyRNS_9allocatorIS1_EEE9push_backEOS1_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__118__insertion_sort_3IRZN11unwindstack7Symbols7GetNameI9elf32_symEEbyPNS1_6MemoryEPNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEPyEUlRKNS2_4InfoESH_E_PSF_EEvT0_SL_T_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__118__insertion_sort_3IRZN11unwindstack7Symbols7GetNameI9elf64_symEEbyPNS1_6MemoryEPNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEPyEUlRKNS2_4InfoESH_E_PSF_EEvT0_SL_T_"
   },
   {
    "binding" : "weak",
@@ -2469,10 +2449,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16vectorIcNS_9allocatorIcEEE21__push_back_slow_pathIRKcEEvOT_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16vectorIjNS_9allocatorIjEEE21__push_back_slow_pathIjEEvOT_"
   },
   {
@@ -2490,10 +2466,6 @@
   {
    "binding" : "weak",
    "name" : "_ZNSt3__17__sort4IRZN11unwindstack7Symbols7GetNameI9elf64_symEEbyPNS1_6MemoryEPNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEPyEUlRKNS2_4InfoESH_E_PSF_EEjT0_SL_SL_SL_T_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__1plIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_12basic_stringIT_T0_T1_EERKS9_S6_"
   },
   {
    "binding" : "weak",
@@ -4572,7 +4544,7 @@
      "referenced_type" : "_ZTIy"
     },
     {
-     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterface.sdump"
     },
     {
      "referenced_type" : "_ZTIPy"
@@ -4596,7 +4568,7 @@
      "referenced_type" : "_ZTIy"
     },
     {
-     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterface.sdump"
     },
     {
      "referenced_type" : "_ZTIPy"
@@ -4617,7 +4589,7 @@
      "referenced_type" : "_ZTIPN11unwindstack12ElfInterfaceE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterface.sdump"
     },
     {
      "referenced_type" : "_ZTIPy"
@@ -4638,7 +4610,7 @@
      "referenced_type" : "_ZTIPN11unwindstack12ElfInterfaceE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterface.sdump"
     },
     {
      "referenced_type" : "_ZTIPy"
@@ -4754,7 +4726,7 @@
      "referenced_type" : "_ZTIPN11unwindstack13LocalUnwinderE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/LocalUnwinder.sdump"
     }
    ],
    "return_type" : "_ZTIb",
@@ -4962,7 +4934,7 @@
      "referenced_type" : "_ZTIy"
     },
     {
-     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Elf.sdump"
     },
     {
      "referenced_type" : "_ZTIPy"
@@ -5066,7 +5038,7 @@
      "referenced_type" : "_ZTIPN11unwindstack3ElfE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Elf.sdump"
     },
     {
      "referenced_type" : "_ZTIPy"
@@ -5259,7 +5231,7 @@
      "referenced_type" : "_ZTIy"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Maps.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -5360,7 +5332,7 @@
      "referenced_type" : "_ZTIPN11unwindstack6GlobalE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Global.sdump"
     }
    ],
    "return_type" : "_ZTIb",
@@ -5412,7 +5384,7 @@
      "referenced_type" : "_ZTIPN11unwindstack6GlobalE"
     },
     {
-     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE"
+     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Global.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -5428,10 +5400,10 @@
      "referenced_type" : "_ZTIPN11unwindstack6GlobalE"
     },
     {
-     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE"
+     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Global.sdump"
     },
     {
-     "referenced_type" : "_ZTIRNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE"
+     "referenced_type" : "_ZTIRNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Global.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -5450,7 +5422,7 @@
      "referenced_type" : "_ZTIy"
     },
     {
-     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Memory.sdump"
     },
     {
      "default_arg" : true,
@@ -5466,7 +5438,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Memory.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -5611,7 +5583,7 @@
      "referenced_type" : "_ZTIy"
     },
     {
-     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/MapInfo.sdump"
     },
     {
      "referenced_type" : "_ZTIPy"
@@ -6256,7 +6228,7 @@
      "referenced_type" : "_ZTIy"
     },
     {
-     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/DexFiles.sdump"
     },
     {
      "referenced_type" : "_ZTIPy"
@@ -6582,7 +6554,7 @@
      "referenced_type" : "_ZTIPN11unwindstack8JitDebugE"
     },
     {
-     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE"
+     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/JitDebug.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -6598,10 +6570,10 @@
      "referenced_type" : "_ZTIPN11unwindstack8JitDebugE"
     },
     {
-     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE"
+     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/JitDebug.sdump"
     },
     {
-     "referenced_type" : "_ZTIRNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE"
+     "referenced_type" : "_ZTIRNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/JitDebug.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -6617,7 +6589,7 @@
      "referenced_type" : "_ZTIPN11unwindstack8JitDebugE"
     },
     {
-     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE"
+     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/JitDebug.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -6633,10 +6605,10 @@
      "referenced_type" : "_ZTIPN11unwindstack8JitDebugE"
     },
     {
-     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE"
+     "referenced_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/JitDebug.sdump"
     },
     {
-     "referenced_type" : "_ZTIRNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE"
+     "referenced_type" : "_ZTIRNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/JitDebug.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -7204,7 +7176,7 @@
      "referenced_type" : "_ZTIPKN11unwindstack10RemoteMapsE"
     }
    ],
-   "return_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "return_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Maps.sdump",
    "source_file" : "/system/core/libunwindstack/include/unwindstack/Maps.h"
   },
   {
@@ -7217,7 +7189,7 @@
      "referenced_type" : "_ZTIPKN11unwindstack18LocalUpdatableMapsE"
     }
    ],
-   "return_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "return_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Maps.sdump",
    "source_file" : "/system/core/libunwindstack/include/unwindstack/Maps.h"
   },
   {
@@ -7290,10 +7262,28 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRK9elf32_hdr",
+   "name" : "const elf32_hdr &",
+   "referenced_type" : "_ZTIK9elf32_hdr#ODR:",
+   "self_type" : "_ZTIRK9elf32_hdr#ODR:",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRK9elf64_hdr",
    "name" : "const elf64_hdr &",
    "referenced_type" : "_ZTIK9elf64_hdr",
    "self_type" : "_ZTIRK9elf64_hdr",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRK9elf64_hdr",
+   "name" : "const elf64_hdr &",
+   "referenced_type" : "_ZTIK9elf64_hdr#ODR:",
+   "self_type" : "_ZTIRK9elf64_hdr#ODR:",
    "size" : 4,
    "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
   },
@@ -7344,8 +7334,17 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN11unwindstack6MemoryEEE",
+   "name" : "const std::shared_ptr<unwindstack::Memory> &",
+   "referenced_type" : "_ZTIKNSt3__110shared_ptrIN11unwindstack6MemoryEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__110shared_ptrIN11unwindstack6MemoryEEE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/MapInfo.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -7353,8 +7352,188 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ArmExidx.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ArmExidx.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/DexFiles.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/DexFiles.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Elf.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Elf.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterface.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterface.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterfaceArm.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterfaceArm.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Global.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Global.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/JitDebug.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/JitDebug.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/LocalUnwinder.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/LocalUnwinder.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/MapInfo.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/MapInfo.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Maps.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Maps.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Memory.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Memory.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/Memory.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Regs.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Regs.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsArm.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsArm.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsArm64.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsArm64.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsMips.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsMips.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsMips64.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsMips64.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsX86.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsX86.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsX86_64.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsX86_64.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Unwinder.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Unwinder.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
-   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo> > > &",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
    "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
    "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
    "size" : 4,
@@ -7362,8 +7541,179 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ArmExidx.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ArmExidx.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/DexFiles.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/DexFiles.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Elf.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Elf.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterface.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterface.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterfaceArm.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/ElfInterfaceArm.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Global.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Global.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/JitDebug.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/JitDebug.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/LocalUnwinder.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/LocalUnwinder.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/MapInfo.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/MapInfo.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Maps.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Maps.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Regs.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Regs.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsArm.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsArm.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsArm64.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsArm64.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsMips.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsMips.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsMips64.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsMips64.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsX86.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsX86.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsX86_64.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/RegsX86_64.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>> &",
+   "referenced_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Unwinder.sdump",
+   "self_type" : "_ZTIRKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Unwinder.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIN11unwindstack9FrameDataENS_9allocatorIS2_EEEE",
-   "name" : "const std::vector<unwindstack::FrameData, std::allocator<unwindstack::FrameData> > &",
+   "name" : "const std::vector<unwindstack::FrameData, std::allocator<unwindstack::FrameData>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorIN11unwindstack9FrameDataENS_9allocatorIS2_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIN11unwindstack9FrameDataENS_9allocatorIS2_EEEE",
    "size" : 4,
@@ -7371,10 +7721,28 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorIN11unwindstack9FrameDataENS_9allocatorIS2_EEEE",
+   "name" : "const std::vector<unwindstack::FrameData, std::allocator<unwindstack::FrameData>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorIN11unwindstack9FrameDataENS_9allocatorIS2_EEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__16vectorIN11unwindstack9FrameDataENS_9allocatorIS2_EEEE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/Unwinder.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > &",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
+   "size" : 4,
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/LocalUnwinder.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE#ODR:",
    "size" : 4,
    "source_file" : "/system/core/libunwindstack/include/unwindstack/LocalUnwinder.h"
   },
@@ -7403,16 +7771,16 @@
    "referenced_type" : "_ZTINSt3__110shared_ptrIN11unwindstack6MemoryEEE",
    "self_type" : "_ZTIRNSt3__110shared_ptrIN11unwindstack6MemoryEEE",
    "size" : 4,
-   "source_file" : "/system/core/libunwindstack/include/unwindstack/Global.h"
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/DexFiles.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > &",
+   "name" : "std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>> &",
    "referenced_type" : "_ZTINSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "self_type" : "_ZTIRNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "size" : 4,
-   "source_file" : "/system/core/libunwindstack/include/unwindstack/Global.h"
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/DexFiles.h"
   },
   {
    "alignment" : 4,
@@ -7510,8 +7878,8 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > *",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>> *",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/Unwinder.sdump",
    "self_type" : "_ZTIPKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "size" : 4,
    "source_file" : "/system/core/libunwindstack/include/unwindstack/Unwinder.h"
@@ -7721,7 +8089,7 @@
    "referenced_type" : "_ZTIN11unwindstack4MapsE",
    "self_type" : "_ZTIPN11unwindstack4MapsE",
    "size" : 4,
-   "source_file" : "/system/core/libunwindstack/include/unwindstack/Global.h"
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/DexFiles.h"
   },
   {
    "alignment" : 4,
@@ -7739,7 +8107,7 @@
    "referenced_type" : "_ZTIN11unwindstack4RegsE",
    "self_type" : "_ZTIPN11unwindstack4RegsE",
    "size" : 4,
-   "source_file" : "/system/core/libunwindstack/include/unwindstack/Elf.h"
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/Regs.h"
   },
   {
    "alignment" : 4,
@@ -7757,7 +8125,7 @@
    "referenced_type" : "_ZTIN11unwindstack6MemoryE",
    "self_type" : "_ZTIPN11unwindstack6MemoryE",
    "size" : 4,
-   "source_file" : "/system/core/libunwindstack/include/unwindstack/DwarfMemory.h"
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/Memory.h"
   },
   {
    "alignment" : 4,
@@ -7775,7 +8143,7 @@
    "referenced_type" : "_ZTIN11unwindstack7MapInfoE",
    "self_type" : "_ZTIPN11unwindstack7MapInfoE",
    "size" : 4,
-   "source_file" : "/system/core/libunwindstack/include/unwindstack/Elf.h"
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/DexFiles.h"
   },
   {
    "alignment" : 4,
@@ -7897,7 +8265,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char>> *",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -7906,7 +8274,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__113unordered_mapINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairINS_10shared_ptrIN11unwindstack3ElfEEEbEENS_4hashIS6_EENS_8equal_toIS6_EENS4_INS7_IKS6_SC_EEEEEE",
-   "name" : "std::unordered_map<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::pair<std::shared_ptr<unwindstack::Elf>, bool>, std::hash<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >, std::equal_to<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >, std::allocator<std::pair<const std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::pair<std::shared_ptr<unwindstack::Elf>, bool> > > > *",
+   "name" : "std::unordered_map<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::pair<std::shared_ptr<unwindstack::Elf>, bool>, std::hash<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>, std::equal_to<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>, std::allocator<std::pair<const std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::pair<std::shared_ptr<unwindstack::Elf>, bool>>>> *",
    "referenced_type" : "_ZTINSt3__113unordered_mapINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairINS_10shared_ptrIN11unwindstack3ElfEEEbEENS_4hashIS6_EENS_8equal_toIS6_EENS4_INS7_IKS6_SC_EEEEEE",
    "self_type" : "_ZTIPNSt3__113unordered_mapINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairINS_10shared_ptrIN11unwindstack3ElfEEEbEENS_4hashIS6_EENS_8equal_toIS6_EENS4_INS7_IKS6_SC_EEEEEE",
    "size" : 4,
@@ -7924,7 +8292,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__16vectorIN11unwindstack14LocalFrameDataENS_9allocatorIS2_EEEE",
-   "name" : "std::vector<unwindstack::LocalFrameData, std::allocator<unwindstack::LocalFrameData> > *",
+   "name" : "std::vector<unwindstack::LocalFrameData, std::allocator<unwindstack::LocalFrameData>> *",
    "referenced_type" : "_ZTINSt3__16vectorIN11unwindstack14LocalFrameDataENS_9allocatorIS2_EEEE",
    "self_type" : "_ZTIPNSt3__16vectorIN11unwindstack14LocalFrameDataENS_9allocatorIS2_EEEE",
    "size" : 4,
@@ -7937,7 +8305,7 @@
    "referenced_type" : "_ZTIb",
    "self_type" : "_ZTIPb",
    "size" : 4,
-   "source_file" : "/system/core/libunwindstack/include/unwindstack/Elf.h"
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/DwarfSection.h"
   },
   {
    "alignment" : 4,
@@ -7973,7 +8341,7 @@
    "referenced_type" : "_ZTIy",
    "self_type" : "_ZTIPy",
    "size" : 4,
-   "source_file" : "/system/core/libunwindstack/include/unwindstack/ElfInterface.h"
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/Memory.h"
   }
  ],
  "qualified_types" :
@@ -8132,7 +8500,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
@@ -8142,7 +8510,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
-   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo> > >",
+   "name" : "const std::unordered_map<unsigned long long, unwindstack::LoadInfo, std::hash<unsigned long long>, std::equal_to<unsigned long long>, std::allocator<std::pair<const unsigned long long, unwindstack::LoadInfo>>>",
    "referenced_type" : "_ZTINSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
    "self_type" : "_ZTIKNSt3__113unordered_mapIyN11unwindstack8LoadInfoENS_4hashIyEENS_8equal_toIyEENS_9allocatorINS_4pairIKyS2_EEEEEE",
    "size" : 20,
@@ -8152,7 +8520,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorIN11unwindstack9FrameDataENS_9allocatorIS2_EEEE",
-   "name" : "const std::vector<unwindstack::FrameData, std::allocator<unwindstack::FrameData> >",
+   "name" : "const std::vector<unwindstack::FrameData, std::allocator<unwindstack::FrameData>>",
    "referenced_type" : "_ZTINSt3__16vectorIN11unwindstack9FrameDataENS_9allocatorIS2_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorIN11unwindstack9FrameDataENS_9allocatorIS2_EEEE",
    "size" : 12,
@@ -8162,11 +8530,11 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "size" : 12,
-   "source_file" : "/system/core/libunwindstack/include/unwindstack/Unwinder.h"
+   "source_file" : "/system/core/libunwindstack/include/unwindstack/LocalUnwinder.h"
   },
   {
    "alignment" : 1,
@@ -11362,7 +11730,7 @@
      "access" : "protected",
      "field_name" : "file_",
      "field_offset" : 128,
-     "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libunwindstack/libunwindstack/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libunwindstack/DexFiles.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN11unwindstack8FileMapsE",

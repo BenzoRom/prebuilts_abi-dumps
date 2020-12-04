@@ -5496,7 +5496,7 @@
     }
    ],
    "linker_set_key" : "_ZTI25$AUDIO_GAIN_MODE_CHANNELS",
-   "name" : "(anonymous enum at system/media/audio/include/system/audio-base.h:468:1)",
+   "name" : "(anonymous enum at system/media/audio/include/system/audio-base.h:476:1)",
    "referenced_type" : "_ZTI25$AUDIO_GAIN_MODE_CHANNELS",
    "self_type" : "_ZTI25$AUDIO_GAIN_MODE_CHANNELS",
    "size" : 4,
@@ -5683,7 +5683,7 @@
     }
    ],
    "linker_set_key" : "_ZTI25$NATIVE_WINDOW_API_CAMERA",
-   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:261:1)",
+   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:262:1)",
    "referenced_type" : "_ZTI25$NATIVE_WINDOW_API_CAMERA",
    "self_type" : "_ZTI25$NATIVE_WINDOW_API_CAMERA",
    "size" : 4,
@@ -5946,7 +5946,7 @@
     }
    ],
    "linker_set_key" : "_ZTI26$NATIVE_WINDOW_FRAMEBUFFER",
-   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:319:1)",
+   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:320:1)",
    "referenced_type" : "_ZTI26$NATIVE_WINDOW_FRAMEBUFFER",
    "self_type" : "_ZTI26$NATIVE_WINDOW_FRAMEBUFFER",
    "size" : 4,
@@ -6498,7 +6498,7 @@
     }
    ],
    "linker_set_key" : "_ZTI31$AUDIO_PORT_CONFIG_CHANNEL_MASK",
-   "name" : "(anonymous enum at system/media/audio/include/system/audio-base.h:487:1)",
+   "name" : "(anonymous enum at system/media/audio/include/system/audio-base.h:495:1)",
    "referenced_type" : "_ZTI31$AUDIO_PORT_CONFIG_CHANNEL_MASK",
    "self_type" : "_ZTI31$AUDIO_PORT_CONFIG_CHANNEL_MASK",
    "size" : 4,
@@ -6696,6 +6696,10 @@
     {
      "enum_field_value" : 46,
      "name" : "NATIVE_WINDOW_GET_LAST_QUEUED_BUFFER"
+    },
+    {
+     "enum_field_value" : 47,
+     "name" : "NATIVE_WINDOW_SET_QUERY_INTERCEPTOR"
     }
    ],
    "linker_set_key" : "_ZTI31$NATIVE_WINDOW_ALLOCATE_BUFFERS",
@@ -6736,7 +6740,7 @@
     }
    ],
    "linker_set_key" : "_ZTI31$NATIVE_WINDOW_TRANSFORM_FLIP_H",
-   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:282:1)",
+   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:283:1)",
    "referenced_type" : "_ZTI31$NATIVE_WINDOW_TRANSFORM_FLIP_H",
    "self_type" : "_ZTI31$NATIVE_WINDOW_TRANSFORM_FLIP_H",
    "size" : 4,
@@ -6996,7 +7000,7 @@
     }
    ],
    "linker_set_key" : "_ZTI34$NATIVE_WINDOW_SCALING_MODE_FREEZE",
-   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:300:1)",
+   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:301:1)",
    "referenced_type" : "_ZTI34$NATIVE_WINDOW_SCALING_MODE_FREEZE",
    "self_type" : "_ZTI34$NATIVE_WINDOW_SCALING_MODE_FREEZE",
    "size" : 4,
@@ -7030,6 +7034,31 @@
    "self_type" : "_ZTI34audio_microphone_channel_mapping_t",
    "size" : 4,
    "source_file" : "/system/media/audio/include/system/audio.h",
+   "underlying_type" : "_ZTIj"
+  },
+  {
+   "alignment" : 4,
+   "enum_fields" :
+   [
+    {
+     "enum_field_value" : 0,
+     "name" : "AUDIO_ENCAPSULATION_METADATA_TYPE_NONE"
+    },
+    {
+     "enum_field_value" : 1,
+     "name" : "AUDIO_ENCAPSULATION_METADATA_TYPE_FRAMEWORK_TUNER"
+    },
+    {
+     "enum_field_value" : 2,
+     "name" : "AUDIO_ENCAPSULATION_METADATA_TYPE_DVB_AD_DESCRIPTOR"
+    }
+   ],
+   "linker_set_key" : "_ZTI35audio_encapsulation_metadata_type_t",
+   "name" : "audio_encapsulation_metadata_type_t",
+   "referenced_type" : "_ZTI35audio_encapsulation_metadata_type_t",
+   "self_type" : "_ZTI35audio_encapsulation_metadata_type_t",
+   "size" : 4,
+   "source_file" : "/system/media/audio/include/system/audio-base.h",
    "underlying_type" : "_ZTIj"
   },
   {
@@ -7848,11 +7877,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_pointer<android::key_value_pair_t<android::String8, android::String8> >::value"
+     "name" : "android::trait_pointer<android::key_value_pair_t<android::String8, android::String8>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
-   "name" : "android::trait_pointer<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
+   "name" : "android::trait_pointer<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "self_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "size" : 4,
@@ -7865,11 +7894,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_pointer<android::key_value_pair_t<unsigned int, unsigned int> >::value"
+     "name" : "android::trait_pointer<android::key_value_pair_t<unsigned int, unsigned int>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIjjEEE6$valueE",
-   "name" : "android::trait_pointer<key_value_pair_t<unsigned int, unsigned int> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
+   "name" : "android::trait_pointer<key_value_pair_t<unsigned int, unsigned int>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIjjEEE6$valueE",
    "self_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIjjEEE6$valueE",
    "size" : 4,
@@ -7882,11 +7911,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_pointer<android::sp<android::MediaCodecBuffer> >::value"
+     "name" : "android::trait_pointer<android::sp<android::MediaCodecBuffer>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_2spINS_16MediaCodecBufferEEEE6$valueE",
-   "name" : "android::trait_pointer<sp<MediaCodecBuffer> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
+   "name" : "android::trait_pointer<sp<MediaCodecBuffer>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_2spINS_16MediaCodecBufferEEEE6$valueE",
    "self_type" : "_ZTIN7android13trait_pointerINS_2spINS_16MediaCodecBufferEEEE6$valueE",
    "size" : 4,
@@ -8284,11 +8313,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_copy<android::key_value_pair_t<android::String8, android::String8> >::value"
+     "name" : "android::trait_trivial_copy<android::key_value_pair_t<android::String8, android::String8>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
-   "name" : "android::trait_trivial_copy<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:287:3)",
+   "name" : "android::trait_trivial_copy<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:287:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "size" : 4,
@@ -8301,11 +8330,11 @@
    [
     {
      "enum_field_value" : 1,
-     "name" : "android::trait_trivial_copy<android::key_value_pair_t<unsigned int, unsigned int> >::value"
+     "name" : "android::trait_trivial_copy<android::key_value_pair_t<unsigned int, unsigned int>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIjjEEE6$valueE",
-   "name" : "android::trait_trivial_copy<key_value_pair_t<unsigned int, unsigned int> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:287:3)",
+   "name" : "android::trait_trivial_copy<key_value_pair_t<unsigned int, unsigned int>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:287:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIjjEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIjjEEE6$valueE",
    "size" : 4,
@@ -8318,11 +8347,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_copy<android::sp<android::MediaCodecBuffer> >::value"
+     "name" : "android::trait_trivial_copy<android::sp<android::MediaCodecBuffer>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_2spINS_16MediaCodecBufferEEEE6$valueE",
-   "name" : "android::trait_trivial_copy<sp<MediaCodecBuffer> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:37:51)",
+   "name" : "android::trait_trivial_copy<sp<MediaCodecBuffer>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:37:51)",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_2spINS_16MediaCodecBufferEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_2spINS_16MediaCodecBufferEEEE6$valueE",
    "size" : 4,
@@ -8641,11 +8670,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_ctor<android::key_value_pair_t<android::String8, android::String8> >::value"
+     "name" : "android::trait_trivial_ctor<android::key_value_pair_t<android::String8, android::String8>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
-   "name" : "android::trait_trivial_ctor<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:281:3)",
+   "name" : "android::trait_trivial_ctor<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:281:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "size" : 4,
@@ -8658,11 +8687,11 @@
    [
     {
      "enum_field_value" : 1,
-     "name" : "android::trait_trivial_ctor<android::key_value_pair_t<unsigned int, unsigned int> >::value"
+     "name" : "android::trait_trivial_ctor<android::key_value_pair_t<unsigned int, unsigned int>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIjjEEE6$valueE",
-   "name" : "android::trait_trivial_ctor<key_value_pair_t<unsigned int, unsigned int> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:281:3)",
+   "name" : "android::trait_trivial_ctor<key_value_pair_t<unsigned int, unsigned int>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:281:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIjjEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIjjEEE6$valueE",
    "size" : 4,
@@ -8675,11 +8704,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_ctor<android::sp<android::MediaCodecBuffer> >::value"
+     "name" : "android::trait_trivial_ctor<android::sp<android::MediaCodecBuffer>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_2spINS_16MediaCodecBufferEEEE6$valueE",
-   "name" : "android::trait_trivial_ctor<sp<MediaCodecBuffer> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:35:51)",
+   "name" : "android::trait_trivial_ctor<sp<MediaCodecBuffer>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:35:51)",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_2spINS_16MediaCodecBufferEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_2spINS_16MediaCodecBufferEEEE6$valueE",
    "size" : 4,
@@ -8998,11 +9027,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_dtor<android::key_value_pair_t<android::String8, android::String8> >::value"
+     "name" : "android::trait_trivial_dtor<android::key_value_pair_t<android::String8, android::String8>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
-   "name" : "android::trait_trivial_dtor<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:284:3)",
+   "name" : "android::trait_trivial_dtor<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:284:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "size" : 4,
@@ -9015,11 +9044,11 @@
    [
     {
      "enum_field_value" : 1,
-     "name" : "android::trait_trivial_dtor<android::key_value_pair_t<unsigned int, unsigned int> >::value"
+     "name" : "android::trait_trivial_dtor<android::key_value_pair_t<unsigned int, unsigned int>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIjjEEE6$valueE",
-   "name" : "android::trait_trivial_dtor<key_value_pair_t<unsigned int, unsigned int> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:284:3)",
+   "name" : "android::trait_trivial_dtor<key_value_pair_t<unsigned int, unsigned int>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:284:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIjjEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIjjEEE6$valueE",
    "size" : 4,
@@ -9032,11 +9061,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_dtor<android::sp<android::MediaCodecBuffer> >::value"
+     "name" : "android::trait_trivial_dtor<android::sp<android::MediaCodecBuffer>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_2spINS_16MediaCodecBufferEEEE6$valueE",
-   "name" : "android::trait_trivial_dtor<sp<MediaCodecBuffer> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:36:51)",
+   "name" : "android::trait_trivial_dtor<sp<MediaCodecBuffer>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:36:51)",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_2spINS_16MediaCodecBufferEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_2spINS_16MediaCodecBufferEEEE6$valueE",
    "size" : 4,
@@ -9355,11 +9384,11 @@
    [
     {
      "enum_field_value" : 1,
-     "name" : "android::trait_trivial_move<android::key_value_pair_t<android::String8, android::String8> >::value"
+     "name" : "android::trait_trivial_move<android::key_value_pair_t<android::String8, android::String8>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
-   "name" : "android::trait_trivial_move<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:290:3)",
+   "name" : "android::trait_trivial_move<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:290:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "size" : 4,
@@ -9372,11 +9401,11 @@
    [
     {
      "enum_field_value" : 1,
-     "name" : "android::trait_trivial_move<android::key_value_pair_t<unsigned int, unsigned int> >::value"
+     "name" : "android::trait_trivial_move<android::key_value_pair_t<unsigned int, unsigned int>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIjjEEE6$valueE",
-   "name" : "android::trait_trivial_move<key_value_pair_t<unsigned int, unsigned int> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:290:3)",
+   "name" : "android::trait_trivial_move<key_value_pair_t<unsigned int, unsigned int>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:290:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIjjEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIjjEEE6$valueE",
    "size" : 4,
@@ -9389,11 +9418,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_move<android::sp<android::MediaCodecBuffer> >::value"
+     "name" : "android::trait_trivial_move<android::sp<android::MediaCodecBuffer>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_2spINS_16MediaCodecBufferEEEE6$valueE",
-   "name" : "android::trait_trivial_move<sp<MediaCodecBuffer> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:38:51)",
+   "name" : "android::trait_trivial_move<sp<MediaCodecBuffer>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:38:51)",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_2spINS_16MediaCodecBufferEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_2spINS_16MediaCodecBufferEEEE6$valueE",
    "size" : 4,
@@ -10040,27 +10069,27 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >::is_pointer"
+     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>::is_pointer"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >::has_trivial_ctor"
+     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>::has_trivial_ctor"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >::has_trivial_dtor"
+     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>::has_trivial_dtor"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >::has_trivial_copy"
+     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>::has_trivial_copy"
     },
     {
      "enum_field_value" : 1,
-     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >::has_trivial_move"
+     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>::has_trivial_move"
     }
    ],
    "linker_set_key" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEE17$has_trivial_copyE",
-   "name" : "android::traits<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
+   "name" : "android::traits<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
    "referenced_type" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEE17$has_trivial_copyE",
    "self_type" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEE17$has_trivial_copyE",
    "size" : 4,
@@ -10073,27 +10102,27 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int> >::is_pointer"
+     "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int>>::is_pointer"
     },
     {
      "enum_field_value" : 1,
-     "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int> >::has_trivial_ctor"
+     "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int>>::has_trivial_ctor"
     },
     {
      "enum_field_value" : 1,
-     "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int> >::has_trivial_dtor"
+     "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int>>::has_trivial_dtor"
     },
     {
      "enum_field_value" : 1,
-     "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int> >::has_trivial_copy"
+     "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int>>::has_trivial_copy"
     },
     {
      "enum_field_value" : 1,
-     "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int> >::has_trivial_move"
+     "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int>>::has_trivial_move"
     }
    ],
    "linker_set_key" : "_ZTIN7android6traitsINS_16key_value_pair_tIjjEEE17$has_trivial_copyE",
-   "name" : "android::traits<key_value_pair_t<unsigned int, unsigned int> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
+   "name" : "android::traits<key_value_pair_t<unsigned int, unsigned int>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
    "referenced_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIjjEEE17$has_trivial_copyE",
    "self_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIjjEEE17$has_trivial_copyE",
    "size" : 4,
@@ -10106,27 +10135,27 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::sp<android::MediaCodecBuffer> >::is_pointer"
+     "name" : "android::traits<android::sp<android::MediaCodecBuffer>>::is_pointer"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::sp<android::MediaCodecBuffer> >::has_trivial_ctor"
+     "name" : "android::traits<android::sp<android::MediaCodecBuffer>>::has_trivial_ctor"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::sp<android::MediaCodecBuffer> >::has_trivial_dtor"
+     "name" : "android::traits<android::sp<android::MediaCodecBuffer>>::has_trivial_dtor"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::sp<android::MediaCodecBuffer> >::has_trivial_copy"
+     "name" : "android::traits<android::sp<android::MediaCodecBuffer>>::has_trivial_copy"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::sp<android::MediaCodecBuffer> >::has_trivial_move"
+     "name" : "android::traits<android::sp<android::MediaCodecBuffer>>::has_trivial_move"
     }
    ],
    "linker_set_key" : "_ZTIN7android6traitsINS_2spINS_16MediaCodecBufferEEEE17$has_trivial_copyE",
-   "name" : "android::traits<sp<MediaCodecBuffer> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
+   "name" : "android::traits<sp<MediaCodecBuffer>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
    "referenced_type" : "_ZTIN7android6traitsINS_2spINS_16MediaCodecBufferEEEE17$has_trivial_copyE",
    "self_type" : "_ZTIN7android6traitsINS_2spINS_16MediaCodecBufferEEEE17$has_trivial_copyE",
    "size" : 4,
@@ -10361,7 +10390,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android7Surface15$DEFAULT_FORMATE",
-   "name" : "android::Surface::(anonymous enum at frameworks/native/libs/gui/include/gui/Surface.h:337:5)",
+   "name" : "android::Surface::(anonymous enum at frameworks/native/libs/gui/include/gui/Surface.h:340:5)",
    "referenced_type" : "_ZTIN7android7Surface15$DEFAULT_FORMATE",
    "self_type" : "_ZTIN7android7Surface15$DEFAULT_FORMATE",
    "size" : 4,
@@ -10379,7 +10408,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android7Surface17$NUM_BUFFER_SLOTSE",
-   "name" : "android::Surface::(anonymous enum at frameworks/native/libs/gui/include/gui/Surface.h:336:5)",
+   "name" : "android::Surface::(anonymous enum at frameworks/native/libs/gui/include/gui/Surface.h:339:5)",
    "referenced_type" : "_ZTIN7android7Surface17$NUM_BUFFER_SLOTSE",
    "self_type" : "_ZTIN7android7Surface17$NUM_BUFFER_SLOTSE",
    "size" : 4,
@@ -15714,6 +15743,33 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIFiPK13ANativeWindowPFiS1_iPiEPviS2_E",
+   "name" : "int (const ANativeWindow *, int (*)(const ANativeWindow *, int, int *), void *, int, int *)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPK13ANativeWindow"
+    },
+    {
+     "referenced_type" : "_ZTIPFiPK13ANativeWindowiPiE"
+    },
+    {
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
+    }
+   ],
+   "referenced_type" : "_ZTIFiPK13ANativeWindowPFiS1_iPiEPviS2_E",
+   "return_type" : "_ZTIi",
+   "self_type" : "_ZTIFiPK13ANativeWindowPFiS1_iPiEPviS2_E",
+   "source_file" : "/frameworks/native/libs/gui/include/gui/Surface.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIFiPK13ANativeWindowiPiE",
    "name" : "int (const ANativeWindow *, int, int *)",
    "parameters" :
@@ -19024,7 +19080,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AImageReader"
+     "referenced_type" : "_ZTIP12AImageReader#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "referenced_type" : "_ZTIPP6AImage"
@@ -19039,7 +19095,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AImageReader"
+     "referenced_type" : "_ZTIP12AImageReader#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "referenced_type" : "_ZTIPP6AImage"
@@ -19057,7 +19113,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AImageReader"
+     "referenced_type" : "_ZTIP12AImageReader#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "referenced_type" : "_ZTIPP6AImage"
@@ -19072,7 +19128,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AImageReader"
+     "referenced_type" : "_ZTIP12AImageReader#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "referenced_type" : "_ZTIPP6AImage"
@@ -19090,7 +19146,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AImageReader"
+     "referenced_type" : "_ZTIP12AImageReader#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -19162,7 +19218,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AImageReader"
+     "referenced_type" : "_ZTIP12AImageReader#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "referenced_type" : "_ZTIPP13ANativeWindow"
@@ -19228,7 +19284,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AImageReader"
+     "referenced_type" : "_ZTIP12AImageReader#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "referenced_type" : "_ZTIP34AImageReader_BufferRemovedListener"
@@ -19243,7 +19299,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AImageReader"
+     "referenced_type" : "_ZTIP12AImageReader#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "referenced_type" : "_ZTIP26AImageReader_ImageListener"
@@ -20059,7 +20115,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaCrypto"
+     "referenced_type" : "_ZTIP12AMediaCrypto#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCrypto.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -20092,7 +20148,7 @@
      "referenced_type" : "_ZTIj"
     }
    ],
-   "return_type" : "_ZTIP12AMediaCrypto",
+   "return_type" : "_ZTIP12AMediaCrypto#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCrypto.sdump",
    "source_file" : "/frameworks/av/media/ndk/include/media/NdkMediaCrypto.h"
   },
   {
@@ -20785,7 +20841,7 @@
      "referenced_type" : "_ZTIP15AMediaExtractor"
     }
    ],
-   "return_type" : "_ZTIP12AMediaFormat",
+   "return_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaExtractor.sdump",
    "source_file" : "/frameworks/av/media/ndk/include/media/NdkMediaExtractor.h"
   },
   {
@@ -20809,7 +20865,7 @@
      "referenced_type" : "_ZTIP15AMediaExtractor"
     }
    ],
-   "return_type" : "_ZTIP21AMediaCodecCryptoInfo",
+   "return_type" : "_ZTIP21AMediaCodecCryptoInfo#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaExtractor.sdump",
    "source_file" : "/frameworks/av/media/ndk/include/media/NdkMediaExtractor.h"
   },
   {
@@ -20833,7 +20889,7 @@
      "referenced_type" : "_ZTIP15AMediaExtractor"
     },
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaExtractor.sdump"
     }
    ],
    "return_type" : "_ZTI14media_status_t",
@@ -20899,7 +20955,7 @@
      "referenced_type" : "_ZTIj"
     }
    ],
-   "return_type" : "_ZTIP12AMediaFormat",
+   "return_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaExtractor.sdump",
    "source_file" : "/frameworks/av/media/ndk/include/media/NdkMediaExtractor.h"
   },
   {
@@ -20983,7 +21039,7 @@
      "referenced_type" : "_ZTIP15AMediaExtractor"
     },
     {
-     "referenced_type" : "_ZTIP16AMediaDataSource"
+     "referenced_type" : "_ZTIP16AMediaDataSource#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaExtractor.sdump"
     }
    ],
    "return_type" : "_ZTI14media_status_t",
@@ -21031,7 +21087,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -21043,10 +21099,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     }
    ],
    "return_type" : "_ZTI14media_status_t",
@@ -21058,7 +21114,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     }
    ],
    "return_type" : "_ZTI14media_status_t",
@@ -21070,7 +21126,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21091,7 +21147,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21109,7 +21165,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21127,7 +21183,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21145,7 +21201,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21163,7 +21219,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21190,7 +21246,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21208,7 +21264,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21223,7 +21279,7 @@
   {
    "function_name" : "AMediaFormat_new",
    "linker_set_key" : "AMediaFormat_new",
-   "return_type" : "_ZTIP12AMediaFormat",
+   "return_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump",
    "source_file" : "/frameworks/av/media/ndk/include/media/NdkMediaFormat.h"
   },
   {
@@ -21232,7 +21288,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21253,7 +21309,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21271,7 +21327,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21289,7 +21345,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21307,7 +21363,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21325,7 +21381,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21352,7 +21408,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21370,7 +21426,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -21388,7 +21444,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12AMediaFormat"
+     "referenced_type" : "_ZTIP12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump"
     }
    ],
    "return_type" : "_ZTIPKc",
@@ -21403,7 +21459,7 @@
      "referenced_type" : "_ZTIP11AMediaMuxer"
     },
     {
-     "referenced_type" : "_ZTIPK12AMediaFormat"
+     "referenced_type" : "_ZTIPK12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaMuxer.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -22395,6 +22451,96 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRK8timespec",
+   "name" : "const timespec &",
+   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "self_type" : "_ZTIRK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/liblog/include/log/log_time.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRK8timespec",
+   "name" : "const timespec &",
+   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "self_type" : "_ZTIRK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/liblog/include/log/log_time.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRK8timespec",
+   "name" : "const timespec &",
+   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkJavaVMHelper.sdump",
+   "self_type" : "_ZTIRK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkJavaVMHelper.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/liblog/include/log/log_time.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRK8timespec",
+   "name" : "const timespec &",
+   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIRK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/liblog/include/log/log_time.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRK8timespec",
+   "name" : "const timespec &",
+   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCrypto.sdump",
+   "self_type" : "_ZTIRK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCrypto.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/liblog/include/log/log_time.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRK8timespec",
+   "name" : "const timespec &",
+   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDataSource.sdump",
+   "self_type" : "_ZTIRK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDataSource.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/liblog/include/log/log_time.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRK8timespec",
+   "name" : "const timespec &",
+   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "self_type" : "_ZTIRK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/liblog/include/log/log_time.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRK8timespec",
+   "name" : "const timespec &",
+   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaExtractor.sdump",
+   "self_type" : "_ZTIRK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaExtractor.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/liblog/include/log/log_time.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRK8timespec",
+   "name" : "const timespec &",
+   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump",
+   "self_type" : "_ZTIRK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/liblog/include/log/log_time.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRK8timespec",
+   "name" : "const timespec &",
+   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaMuxer.sdump",
+   "self_type" : "_ZTIRK8timespec#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaMuxer.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/liblog/include/log/log_time.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKN3ndk10SpAIBinderE",
    "name" : "const ndk::SpAIBinder &",
    "referenced_type" : "_ZTIKN3ndk10SpAIBinderE",
@@ -22435,6 +22581,42 @@
    "name" : "const android::GrallocMapper &",
    "referenced_type" : "_ZTIKN7android13GrallocMapperE",
    "self_type" : "_ZTIRKN7android13GrallocMapperE",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/GraphicBufferMapper.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKN7android13GrallocMapperE",
+   "name" : "const android::GrallocMapper &",
+   "referenced_type" : "_ZTIKN7android13GrallocMapperE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "self_type" : "_ZTIRKN7android13GrallocMapperE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/GraphicBufferMapper.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKN7android13GrallocMapperE",
+   "name" : "const android::GrallocMapper &",
+   "referenced_type" : "_ZTIKN7android13GrallocMapperE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "self_type" : "_ZTIRKN7android13GrallocMapperE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/GraphicBufferMapper.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKN7android13GrallocMapperE",
+   "name" : "const android::GrallocMapper &",
+   "referenced_type" : "_ZTIKN7android13GrallocMapperE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIRKN7android13GrallocMapperE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/GraphicBufferMapper.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKN7android13GrallocMapperE",
+   "name" : "const android::GrallocMapper &",
+   "referenced_type" : "_ZTIKN7android13GrallocMapperE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "self_type" : "_ZTIRKN7android13GrallocMapperE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/ui/include/ui/GraphicBufferMapper.h"
   },
@@ -22729,7 +22911,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
-   "name" : "const android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::CONST_ITERATOR> &",
+   "name" : "const android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::CONST_ITERATOR> &",
    "referenced_type" : "_ZTIKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "self_type" : "_ZTIRKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "size" : 4,
@@ -22738,7 +22920,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
-   "name" : "const android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::NON_CONST_ITERATOR> &",
+   "name" : "const android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::NON_CONST_ITERATOR> &",
    "referenced_type" : "_ZTIKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "self_type" : "_ZTIRKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "size" : 4,
@@ -22986,9 +23168,44 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCrypto.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCrypto.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<int, 4> > &",
+   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<int, 4>> &",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
    "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
    "size" : 4,
@@ -23060,7 +23277,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "size" : 4,
@@ -23068,10 +23285,64 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCrypto.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCrypto.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIhNS_9allocatorIhEEEE",
-   "name" : "const std::vector<unsigned char, std::allocator<unsigned char> > &",
+   "name" : "const std::vector<unsigned char, std::allocator<unsigned char>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorIhNS_9allocatorIhEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIhNS_9allocatorIhEEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorIhNS_9allocatorIhEEEE",
+   "name" : "const std::vector<unsigned char, std::allocator<unsigned char>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorIhNS_9allocatorIhEEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorIhNS_9allocatorIhEEEE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
@@ -23510,7 +23781,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
-   "name" : "android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::CONST_ITERATOR> &",
+   "name" : "android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::CONST_ITERATOR> &",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "self_type" : "_ZTIRN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "size" : 4,
@@ -23519,7 +23790,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
-   "name" : "android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::NON_CONST_ITERATOR> &",
+   "name" : "android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::NON_CONST_ITERATOR> &",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "self_type" : "_ZTIRN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "size" : 4,
@@ -23718,7 +23989,7 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIRP6AImage",
    "name" : "AImage *&",
-   "referenced_type" : "_ZTIP6AImage",
+   "referenced_type" : "_ZTIP6AImage#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
    "self_type" : "_ZTIRP6AImage",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/List.h"
@@ -25771,6 +26042,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPFiPK13ANativeWindowPFiS1_iPiEPviS2_E",
+   "name" : "int (*)(const ANativeWindow *, int (*)(const ANativeWindow *, int, int *), void *, int, int *)",
+   "referenced_type" : "_ZTIFiPK13ANativeWindowPFiS1_iPiEPviS2_E",
+   "self_type" : "_ZTIPFiPK13ANativeWindowPFiS1_iPiEPviS2_E",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/gui/include/gui/Surface.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPFiPK13ANativeWindowiPiE",
    "name" : "int (*)(const ANativeWindow *, int, int *)",
    "referenced_type" : "_ZTIFiPK13ANativeWindowiPiE",
@@ -27085,6 +27365,24 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPK12AMediaFormat",
+   "name" : "const AMediaFormat *",
+   "referenced_type" : "_ZTIK12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIPK12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/ndk/include/media/NdkMediaCodec.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPK12AMediaFormat",
+   "name" : "const AMediaFormat *",
+   "referenced_type" : "_ZTIK12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaMuxer.sdump",
+   "self_type" : "_ZTIPK12AMediaFormat#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaMuxer.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/ndk/include/media/NdkMediaMuxer.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPK13ANativeWindow",
    "name" : "const ANativeWindow *",
    "referenced_type" : "_ZTIK13ANativeWindow",
@@ -27310,6 +27608,42 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPK7AParcel",
+   "name" : "const AParcel *",
+   "referenced_type" : "_ZTIK7AParcel#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "self_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_interface_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPK7AParcel",
+   "name" : "const AParcel *",
+   "referenced_type" : "_ZTIK7AParcel#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "self_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_interface_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPK7AParcel",
+   "name" : "const AParcel *",
+   "referenced_type" : "_ZTIK7AParcel#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_interface_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPK7AParcel",
+   "name" : "const AParcel *",
+   "referenced_type" : "_ZTIK7AParcel#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "self_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_interface_utils.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPK7log_msg",
    "name" : "const log_msg *",
    "referenced_type" : "_ZTIK7log_msg",
@@ -27482,7 +27816,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<android::String8, android::String8> > *",
+   "name" : "const android::SortedVector<android::key_value_pair_t<android::String8, android::String8>> *",
    "referenced_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIPKN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 4,
@@ -27491,7 +27825,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<unsigned int, unsigned int> > *",
+   "name" : "const android::SortedVector<android::key_value_pair_t<unsigned int, unsigned int>> *",
    "referenced_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIPKN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
    "size" : 4,
@@ -28058,7 +28392,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
-   "name" : "const android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::CONST_ITERATOR> *",
+   "name" : "const android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::CONST_ITERATOR> *",
    "referenced_type" : "_ZTIKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "self_type" : "_ZTIPKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "size" : 4,
@@ -28067,7 +28401,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
-   "name" : "const android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::NON_CONST_ITERATOR> *",
+   "name" : "const android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::NON_CONST_ITERATOR> *",
    "referenced_type" : "_ZTIKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "self_type" : "_ZTIPKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "size" : 4,
@@ -28076,7 +28410,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android4ListINS_6VectorIhEEE5_NodeE",
-   "name" : "const android::List<Vector<unsigned char> >::_Node *",
+   "name" : "const android::List<Vector<unsigned char>>::_Node *",
    "referenced_type" : "_ZTIKN7android4ListINS_6VectorIhEEE5_NodeE",
    "self_type" : "_ZTIPKN7android4ListINS_6VectorIhEEE5_NodeE",
    "size" : 4,
@@ -28085,7 +28419,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android4ListINS_6VectorIhEEEE",
-   "name" : "const android::List<android::Vector<unsigned char> > *",
+   "name" : "const android::List<android::Vector<unsigned char>> *",
    "referenced_type" : "_ZTIKN7android4ListINS_6VectorIhEEEE",
    "self_type" : "_ZTIPKN7android4ListINS_6VectorIhEEEE",
    "size" : 4,
@@ -28238,7 +28572,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "const android::Vector<android::sp<android::MediaCodecBuffer> > *",
+   "name" : "const android::Vector<android::sp<android::MediaCodecBuffer>> *",
    "referenced_type" : "_ZTIKN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIPKN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
    "size" : 4,
@@ -28277,6 +28611,24 @@
    "name" : "const android::AHandler *",
    "referenced_type" : "_ZTIKN7android8AHandlerE",
    "self_type" : "_ZTIPKN7android8AHandlerE",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKN7android8AHandlerE",
+   "name" : "const android::AHandler *",
+   "referenced_type" : "_ZTIKN7android8AHandlerE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "self_type" : "_ZTIPKN7android8AHandlerE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKN7android8AHandlerE",
+   "name" : "const android::AHandler *",
+   "referenced_type" : "_ZTIKN7android8AHandlerE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIPKN7android8AHandlerE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
   },
@@ -28337,7 +28689,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<int, 4> > *",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<int, 4>> *",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEE",
    "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEE",
    "size" : 4,
@@ -28463,7 +28815,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<int, 4> > *",
+   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<int, 4>> *",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
    "self_type" : "_ZTIPKN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
    "size" : 4,
@@ -29057,7 +29409,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> > *",
+   "name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>> *",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIPN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 4,
@@ -29066,7 +29418,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<unsigned int, unsigned int> > *",
+   "name" : "android::SortedVector<android::key_value_pair_t<unsigned int, unsigned int>> *",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIPN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
    "size" : 4,
@@ -30065,7 +30417,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android4ListINS_2spINS_7ABufferEEEE5_NodeE",
-   "name" : "android::List<sp<ABuffer> >::_Node *",
+   "name" : "android::List<sp<ABuffer>>::_Node *",
    "referenced_type" : "_ZTIN7android4ListINS_2spINS_7ABufferEEEE5_NodeE",
    "self_type" : "_ZTIPN7android4ListINS_2spINS_7ABufferEEEE5_NodeE",
    "size" : 4,
@@ -30074,7 +30426,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
-   "name" : "android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::CONST_ITERATOR> *",
+   "name" : "android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::CONST_ITERATOR> *",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "self_type" : "_ZTIPN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "size" : 4,
@@ -30083,7 +30435,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
-   "name" : "android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::NON_CONST_ITERATOR> *",
+   "name" : "android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::NON_CONST_ITERATOR> *",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "self_type" : "_ZTIPN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "size" : 4,
@@ -30092,7 +30444,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android4ListINS_6VectorIhEEE5_NodeE",
-   "name" : "android::List<Vector<unsigned char> >::_Node *",
+   "name" : "android::List<Vector<unsigned char>>::_Node *",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE5_NodeE",
    "self_type" : "_ZTIPN7android4ListINS_6VectorIhEEE5_NodeE",
    "size" : 4,
@@ -30101,7 +30453,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android4ListINS_6VectorIhEEEE",
-   "name" : "android::List<android::Vector<unsigned char> > *",
+   "name" : "android::List<android::Vector<unsigned char>> *",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEEE",
    "self_type" : "_ZTIPN7android4ListINS_6VectorIhEEEE",
    "size" : 4,
@@ -30389,7 +30741,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "android::Vector<android::sp<android::MediaCodecBuffer> > *",
+   "name" : "android::Vector<android::sp<android::MediaCodecBuffer>> *",
    "referenced_type" : "_ZTIN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIPN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
    "size" : 4,
@@ -30921,7 +31273,7 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIPP12AImageReader",
    "name" : "AImageReader **",
-   "referenced_type" : "_ZTIP12AImageReader",
+   "referenced_type" : "_ZTIP12AImageReader#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
    "self_type" : "_ZTIPP12AImageReader",
    "size" : 4,
    "source_file" : "/frameworks/av/media/ndk/include/media/NdkImageReader.h"
@@ -30975,7 +31327,7 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIPP6AImage",
    "name" : "AImage **",
-   "referenced_type" : "_ZTIP6AImage",
+   "referenced_type" : "_ZTIP6AImage#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
    "self_type" : "_ZTIPP6AImage",
    "size" : 4,
    "source_file" : "/frameworks/av/media/ndk/include/media/NdkImageReader.h"
@@ -31004,6 +31356,42 @@
    "name" : "AIBinder **",
    "referenced_type" : "_ZTIP8AIBinder",
    "self_type" : "_ZTIPP8AIBinder",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPP8AIBinder",
+   "name" : "AIBinder **",
+   "referenced_type" : "_ZTIP8AIBinder#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "self_type" : "_ZTIPP8AIBinder#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPP8AIBinder",
+   "name" : "AIBinder **",
+   "referenced_type" : "_ZTIP8AIBinder#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "self_type" : "_ZTIPP8AIBinder#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPP8AIBinder",
+   "name" : "AIBinder **",
+   "referenced_type" : "_ZTIP8AIBinder#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIPP8AIBinder#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPP8AIBinder",
+   "name" : "AIBinder **",
+   "referenced_type" : "_ZTIP8AIBinder#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "self_type" : "_ZTIPP8AIBinder#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
   },
@@ -31935,7 +32323,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "const android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 20,
@@ -31945,7 +32333,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<unsigned int, unsigned int> >",
+   "name" : "const android::SortedVector<android::key_value_pair_t<unsigned int, unsigned int>>",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
    "size" : 20,
@@ -32613,7 +33001,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
-   "name" : "const android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::CONST_ITERATOR>",
+   "name" : "const android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::CONST_ITERATOR>",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "self_type" : "_ZTIKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "size" : 4,
@@ -32623,7 +33011,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
-   "name" : "const android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::NON_CONST_ITERATOR>",
+   "name" : "const android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::NON_CONST_ITERATOR>",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "self_type" : "_ZTIKN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "size" : 4,
@@ -32633,7 +33021,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android4ListINS_6VectorIhEEE5_NodeE",
-   "name" : "const android::List<Vector<unsigned char> >::_Node",
+   "name" : "const android::List<Vector<unsigned char>>::_Node",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE5_NodeE",
    "self_type" : "_ZTIKN7android4ListINS_6VectorIhEEE5_NodeE",
    "size" : 28,
@@ -32643,7 +33031,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android4ListINS_6VectorIhEEEE",
-   "name" : "const android::List<android::Vector<unsigned char> >",
+   "name" : "const android::List<android::Vector<unsigned char>>",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEEE",
    "self_type" : "_ZTIKN7android4ListINS_6VectorIhEEEE",
    "size" : 8,
@@ -32833,7 +33221,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "const android::Vector<android::sp<android::MediaCodecBuffer> >",
+   "name" : "const android::Vector<android::sp<android::MediaCodecBuffer>>",
    "referenced_type" : "_ZTIN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIKN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
    "size" : 20,
@@ -33023,7 +33411,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<int, 4> >",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<int, 4>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEE",
    "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEE",
    "size" : 8,
@@ -33411,7 +33799,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<int, 4> >",
+   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<int, 4>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
    "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
    "size" : 16,
@@ -33791,7 +34179,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > >",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "size" : 12,
@@ -33801,7 +34189,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorIhNS_9allocatorIhEEEE",
-   "name" : "const std::vector<unsigned char, std::allocator<unsigned char> >",
+   "name" : "const std::vector<unsigned char, std::allocator<unsigned char>>",
    "referenced_type" : "_ZTINSt3__16vectorIhNS_9allocatorIhEEEE",
    "self_type" : "_ZTIKNSt3__16vectorIhNS_9allocatorIhEEEE",
    "size" : 12,
@@ -33812,10 +34200,50 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKP6AImage",
    "name" : "AImage *const",
-   "referenced_type" : "_ZTIP6AImage",
+   "referenced_type" : "_ZTIP6AImage#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
    "self_type" : "_ZTIKP6AImage",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/List.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP7AStatus",
+   "name" : "AStatus *const",
+   "referenced_type" : "_ZTIP7AStatus#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "self_type" : "_ZTIKP7AStatus#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP7AStatus",
+   "name" : "AStatus *const",
+   "referenced_type" : "_ZTIP7AStatus#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "self_type" : "_ZTIKP7AStatus#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP7AStatus",
+   "name" : "AStatus *const",
+   "referenced_type" : "_ZTIP7AStatus#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIKP7AStatus#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP7AStatus",
+   "name" : "AStatus *const",
+   "referenced_type" : "_ZTIP7AStatus#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "self_type" : "_ZTIKP7AStatus#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
   },
   {
    "alignment" : 4,
@@ -33876,6 +34304,96 @@
    "self_type" : "_ZTIKPN7android7IBinderE",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/include/binder/Binder.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImage.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCodec.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCrypto.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaCrypto.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDataSource.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDataSource.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaDrm.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaExtractor.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaExtractor.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaFormat.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaMuxer.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkMediaMuxer.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -34173,7 +34691,7 @@
    "name" : "audio_port",
    "referenced_type" : "_ZTI10audio_port",
    "self_type" : "_ZTI10audio_port",
-   "size" : 1308,
+   "size" : 1316,
    "source_file" : "/system/media/audio/include/system/audio.h"
   },
   {
@@ -37765,13 +38283,23 @@
      "field_name" : "address",
      "field_offset" : 64,
      "referenced_type" : "_ZTIA32_c"
+    },
+    {
+     "field_name" : "encapsulation_modes",
+     "field_offset" : 320,
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "field_name" : "encapsulation_metadata_types",
+     "field_offset" : 352,
+     "referenced_type" : "_ZTIj"
     }
    ],
    "linker_set_key" : "_ZTI21audio_port_device_ext",
    "name" : "audio_port_device_ext",
    "referenced_type" : "_ZTI21audio_port_device_ext",
    "self_type" : "_ZTI21audio_port_device_ext",
-   "size" : 40,
+   "size" : 48,
    "source_file" : "/system/media/audio/include/system/audio.h"
   },
   {
@@ -38816,11 +39344,11 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN10audio_portUt_E",
-   "name" : "audio_port::(anonymous union at system/media/audio/include/system/audio.h:562:5)",
+   "name" : "audio_port::(anonymous union at system/media/audio/include/system/audio.h:566:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN10audio_portUt_E",
    "self_type" : "_ZTIN10audio_portUt_E",
-   "size" : 40,
+   "size" : 48,
    "source_file" : "/system/media/audio/include/system/audio.h"
   },
   {
@@ -43677,7 +44205,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android11KeyedVectorINS_7AStringENS_2spINS_14MediaCodecInfo12CapabilitiesEEEEE",
-   "name" : "android::KeyedVector<android::AString, android::sp<android::MediaCodecInfo::Capabilities> >",
+   "name" : "android::KeyedVector<android::AString, android::sp<android::MediaCodecInfo::Capabilities>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android11KeyedVectorINS_7AStringENS_2spINS_14MediaCodecInfo12CapabilitiesEEEEE",
    "self_type" : "_ZTIN7android11KeyedVectorINS_7AStringENS_2spINS_14MediaCodecInfo12CapabilitiesEEEEE",
@@ -44440,7 +44968,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7AStringENS_2spINS_14MediaCodecInfo12CapabilitiesEEEEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<android::AString, android::sp<android::MediaCodecInfo::Capabilities> > >",
+   "name" : "android::SortedVector<android::key_value_pair_t<android::AString, android::sp<android::MediaCodecInfo::Capabilities>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7AStringENS_2spINS_14MediaCodecInfo12CapabilitiesEEEEEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7AStringENS_2spINS_14MediaCodecInfo12CapabilitiesEEEEEEE",
@@ -44500,7 +45028,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
@@ -44557,7 +45085,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<unsigned int, unsigned int> >",
+   "name" : "android::SortedVector<android::key_value_pair_t<unsigned int, unsigned int>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIjjEEEE",
@@ -44873,7 +45401,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::trait_pointer<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::trait_pointer<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -44883,7 +45411,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIjjEEEE",
-   "name" : "android::trait_pointer<android::key_value_pair_t<unsigned int, unsigned int> >",
+   "name" : "android::trait_pointer<android::key_value_pair_t<unsigned int, unsigned int>>",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIjjEEEE",
    "size" : 1,
@@ -44893,7 +45421,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "android::trait_pointer<android::sp<android::MediaCodecBuffer> >",
+   "name" : "android::trait_pointer<android::sp<android::MediaCodecBuffer>>",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIN7android13trait_pointerINS_2spINS_16MediaCodecBufferEEEEE",
    "size" : 1,
@@ -46527,7 +47055,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::use_trivial_move<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::use_trivial_move<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -46543,7 +47071,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tIjjEEEE",
-   "name" : "android::use_trivial_move<android::key_value_pair_t<unsigned int, unsigned int> >",
+   "name" : "android::use_trivial_move<android::key_value_pair_t<unsigned int, unsigned int>>",
    "referenced_type" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tIjjEEEE",
    "size" : 1,
@@ -46559,7 +47087,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android16use_trivial_moveINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "android::use_trivial_move<android::sp<android::MediaCodecBuffer> >",
+   "name" : "android::use_trivial_move<android::sp<android::MediaCodecBuffer>>",
    "referenced_type" : "_ZTIN7android16use_trivial_moveINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIN7android16use_trivial_moveINS_2spINS_16MediaCodecBufferEEEEE",
    "size" : 1,
@@ -48027,7 +48555,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::trait_trivial_copy<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::trait_trivial_copy<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -48037,7 +48565,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIjjEEEE",
-   "name" : "android::trait_trivial_copy<android::key_value_pair_t<unsigned int, unsigned int> >",
+   "name" : "android::trait_trivial_copy<android::key_value_pair_t<unsigned int, unsigned int>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIjjEEEE",
    "size" : 1,
@@ -48047,7 +48575,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "android::trait_trivial_copy<android::sp<android::MediaCodecBuffer> >",
+   "name" : "android::trait_trivial_copy<android::sp<android::MediaCodecBuffer>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_2spINS_16MediaCodecBufferEEEEE",
    "size" : 1,
@@ -48237,7 +48765,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::trait_trivial_ctor<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::trait_trivial_ctor<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -48247,7 +48775,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIjjEEEE",
-   "name" : "android::trait_trivial_ctor<android::key_value_pair_t<unsigned int, unsigned int> >",
+   "name" : "android::trait_trivial_ctor<android::key_value_pair_t<unsigned int, unsigned int>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIjjEEEE",
    "size" : 1,
@@ -48257,7 +48785,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "android::trait_trivial_ctor<android::sp<android::MediaCodecBuffer> >",
+   "name" : "android::trait_trivial_ctor<android::sp<android::MediaCodecBuffer>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_2spINS_16MediaCodecBufferEEEEE",
    "size" : 1,
@@ -48447,7 +48975,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::trait_trivial_dtor<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::trait_trivial_dtor<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -48457,7 +48985,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIjjEEEE",
-   "name" : "android::trait_trivial_dtor<android::key_value_pair_t<unsigned int, unsigned int> >",
+   "name" : "android::trait_trivial_dtor<android::key_value_pair_t<unsigned int, unsigned int>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIjjEEEE",
    "size" : 1,
@@ -48467,7 +48995,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "android::trait_trivial_dtor<android::sp<android::MediaCodecBuffer> >",
+   "name" : "android::trait_trivial_dtor<android::sp<android::MediaCodecBuffer>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_2spINS_16MediaCodecBufferEEEEE",
    "size" : 1,
@@ -48657,7 +49185,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::trait_trivial_move<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::trait_trivial_move<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -48667,7 +49195,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIjjEEEE",
-   "name" : "android::trait_trivial_move<android::key_value_pair_t<unsigned int, unsigned int> >",
+   "name" : "android::trait_trivial_move<android::key_value_pair_t<unsigned int, unsigned int>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIjjEEEE",
    "size" : 1,
@@ -48677,7 +49205,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "android::trait_trivial_move<android::sp<android::MediaCodecBuffer> >",
+   "name" : "android::trait_trivial_move<android::sp<android::MediaCodecBuffer>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_2spINS_16MediaCodecBufferEEEEE",
    "size" : 1,
@@ -51163,7 +51691,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android2spINS_17AHandlerReflectorINS_15NuCachedSource2EEEEE",
-   "name" : "android::sp<android::AHandlerReflector<android::NuCachedSource2> >",
+   "name" : "android::sp<android::AHandlerReflector<android::NuCachedSource2>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android2spINS_17AHandlerReflectorINS_15NuCachedSource2EEEEE",
    "self_type" : "_ZTIN7android2spINS_17AHandlerReflectorINS_15NuCachedSource2EEEEE",
@@ -52270,7 +52798,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListINS_2spINS_7ABufferEEEEE",
-   "name" : "android::List<android::sp<android::ABuffer> >",
+   "name" : "android::List<android::sp<android::ABuffer>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android4ListINS_2spINS_7ABufferEEEEE",
    "self_type" : "_ZTIN7android4ListINS_2spINS_7ABufferEEEEE",
@@ -52306,7 +52834,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
-   "name" : "android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::CONST_ITERATOR>",
+   "name" : "android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::CONST_ITERATOR>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
    "self_type" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_14CONST_ITERATOREEE",
@@ -52324,7 +52852,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
-   "name" : "android::List<Vector<unsigned char> >::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char> >::NON_CONST_ITERATOR>",
+   "name" : "android::List<Vector<unsigned char>>::_ListIterator<android::Vector<unsigned char>, android::List<Vector<unsigned char>>::NON_CONST_ITERATOR>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "self_type" : "_ZTIN7android4ListINS_6VectorIhEEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
@@ -52335,7 +52863,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android4ListINS_6VectorIhEEE14CONST_ITERATORIS2_EE",
-   "name" : "android::List<Vector<unsigned char> >::CONST_ITERATOR<android::Vector<unsigned char> >",
+   "name" : "android::List<Vector<unsigned char>>::CONST_ITERATOR<android::Vector<unsigned char>>",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE14CONST_ITERATORIS2_EE",
    "self_type" : "_ZTIN7android4ListINS_6VectorIhEEE14CONST_ITERATORIS2_EE",
    "size" : 1,
@@ -52345,7 +52873,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android4ListINS_6VectorIhEEE18NON_CONST_ITERATORIS2_EE",
-   "name" : "android::List<Vector<unsigned char> >::NON_CONST_ITERATOR<android::Vector<unsigned char> >",
+   "name" : "android::List<Vector<unsigned char>>::NON_CONST_ITERATOR<android::Vector<unsigned char>>",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE18NON_CONST_ITERATORIS2_EE",
    "self_type" : "_ZTIN7android4ListINS_6VectorIhEEE18NON_CONST_ITERATORIS2_EE",
    "size" : 1,
@@ -52376,7 +52904,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListINS_6VectorIhEEE5_NodeE",
-   "name" : "android::List<Vector<unsigned char> >::_Node",
+   "name" : "android::List<Vector<unsigned char>>::_Node",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEE5_NodeE",
    "self_type" : "_ZTIN7android4ListINS_6VectorIhEEE5_NodeE",
@@ -52395,7 +52923,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListINS_6VectorIhEEEE",
-   "name" : "android::List<android::Vector<unsigned char> >",
+   "name" : "android::List<android::Vector<unsigned char>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android4ListINS_6VectorIhEEEE",
    "self_type" : "_ZTIN7android4ListINS_6VectorIhEEEE",
@@ -52503,7 +53031,7 @@
    [
     {
      "field_name" : "mpNode",
-     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListIP6AImageE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
@@ -52513,7 +53041,10 @@
    "self_type" : "_ZTIN7android4ListIP6AImageE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/List.h",
-   "template_args" : [ "_ZTIP6AImage" ]
+   "template_args" :
+   [
+    "_ZTIP6AImage#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+   ]
   },
   {
    "alignment" : 1,
@@ -52523,7 +53054,10 @@
    "self_type" : "_ZTIN7android4ListIP6AImageE18NON_CONST_ITERATORIS2_EE",
    "size" : 1,
    "source_file" : "/system/core/libutils/include/utils/List.h",
-   "template_args" : [ "_ZTIP6AImage" ]
+   "template_args" :
+   [
+    "_ZTIP6AImage#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+   ]
   },
   {
    "access" : "protected",
@@ -52533,19 +53067,19 @@
     {
      "access" : "private",
      "field_name" : "mVal",
-     "referenced_type" : "_ZTIP6AImage"
+     "referenced_type" : "_ZTIP6AImage#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "access" : "private",
      "field_name" : "mpPrev",
      "field_offset" : 32,
-     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "access" : "private",
      "field_name" : "mpNext",
      "field_offset" : 64,
-     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListIP6AImageE5_NodeE",
@@ -52600,7 +53134,7 @@
    [
     {
      "field_name" : "mpNode",
-     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListIPNS_10BufferItemEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
@@ -52636,13 +53170,13 @@
      "access" : "private",
      "field_name" : "mpPrev",
      "field_offset" : 32,
-     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "access" : "private",
      "field_name" : "mpNext",
      "field_offset" : 64,
-     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListIPNS_10BufferItemEE5_NodeE",
@@ -53881,7 +54415,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android6VectorINS_2spINS_12MediaAdapterEEEEE",
-   "name" : "android::Vector<android::sp<android::MediaAdapter> >",
+   "name" : "android::Vector<android::sp<android::MediaAdapter>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android6VectorINS_2spINS_12MediaAdapterEEEEE",
    "self_type" : "_ZTIN7android6VectorINS_2spINS_12MediaAdapterEEEEE",
@@ -53935,7 +54469,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "android::Vector<android::sp<android::MediaCodecBuffer> >",
+   "name" : "android::Vector<android::sp<android::MediaCodecBuffer>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIN7android6VectorINS_2spINS_16MediaCodecBufferEEEEE",
@@ -54154,7 +54688,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -54164,7 +54698,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android6traitsINS_16key_value_pair_tIjjEEEE",
-   "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int> >",
+   "name" : "android::traits<android::key_value_pair_t<unsigned int, unsigned int>>",
    "referenced_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIjjEEEE",
    "self_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIjjEEEE",
    "size" : 1,
@@ -54174,7 +54708,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android6traitsINS_2spINS_16MediaCodecBufferEEEEE",
-   "name" : "android::traits<android::sp<android::MediaCodecBuffer> >",
+   "name" : "android::traits<android::sp<android::MediaCodecBuffer>>",
    "referenced_type" : "_ZTIN7android6traitsINS_2spINS_16MediaCodecBufferEEEEE",
    "self_type" : "_ZTIN7android6traitsINS_2spINS_16MediaCodecBufferEEEEE",
    "size" : 1,
@@ -54368,7 +54902,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android7BBinderUt_E",
-   "name" : "android::BBinder::(anonymous union at frameworks/native/libs/binder/include/binder/Binder.h:97:5)",
+   "name" : "android::BBinder::(anonymous union at frameworks/native/libs/binder/include/binder/Binder.h:116:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android7BBinderUt_E",
    "self_type" : "_ZTIN7android7BBinderUt_E",
@@ -55197,153 +55731,171 @@
     },
     {
      "access" : "protected",
-     "field_name" : "mLockedBuffer",
+     "field_name" : "mQueryInterceptor",
      "field_offset" : 47648,
+     "referenced_type" : "_ZTIPFiPK13ANativeWindowPFiS1_iPiEPviS2_E"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mQueryInterceptorData",
+     "field_offset" : 47680,
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mLockedBuffer",
+     "field_offset" : 47712,
      "referenced_type" : "_ZTIN7android2spINS_13GraphicBufferEEE"
     },
     {
      "access" : "protected",
      "field_name" : "mPostedBuffer",
-     "field_offset" : 47680,
+     "field_offset" : 47744,
      "referenced_type" : "_ZTIN7android2spINS_13GraphicBufferEEE"
     },
     {
      "access" : "protected",
      "field_name" : "mConnectedToCpu",
-     "field_offset" : 47712,
+     "field_offset" : 47776,
      "referenced_type" : "_ZTIb"
     },
     {
      "access" : "protected",
      "field_name" : "mDirtyRegion",
-     "field_offset" : 47744,
+     "field_offset" : 47808,
      "referenced_type" : "_ZTIN7android6RegionE"
     },
     {
      "access" : "protected",
      "field_name" : "mBufferAge",
-     "field_offset" : 48448,
+     "field_offset" : 48512,
      "referenced_type" : "_ZTIy"
     },
     {
      "access" : "protected",
      "field_name" : "mGenerationNumber",
-     "field_offset" : 48512,
+     "field_offset" : 48576,
      "referenced_type" : "_ZTIj"
     },
     {
      "access" : "protected",
      "field_name" : "mSharedBufferMode",
-     "field_offset" : 48544,
-     "referenced_type" : "_ZTIb"
-    },
-    {
-     "access" : "protected",
-     "field_name" : "mAutoRefresh",
-     "field_offset" : 48552,
-     "referenced_type" : "_ZTIb"
-    },
-    {
-     "access" : "protected",
-     "field_name" : "mAutoPrerotation",
-     "field_offset" : 48560,
-     "referenced_type" : "_ZTIb"
-    },
-    {
-     "access" : "protected",
-     "field_name" : "mSharedBufferSlot",
-     "field_offset" : 48576,
-     "referenced_type" : "_ZTIi"
-    },
-    {
-     "access" : "protected",
-     "field_name" : "mSharedBufferHasBeenQueued",
      "field_offset" : 48608,
      "referenced_type" : "_ZTIb"
     },
     {
      "access" : "protected",
-     "field_name" : "mLastDequeueDuration",
-     "field_offset" : 48640,
-     "referenced_type" : "_ZTIx"
+     "field_name" : "mAutoRefresh",
+     "field_offset" : 48616,
+     "referenced_type" : "_ZTIb"
     },
     {
      "access" : "protected",
-     "field_name" : "mLastQueueDuration",
+     "field_name" : "mAutoPrerotation",
+     "field_offset" : 48624,
+     "referenced_type" : "_ZTIb"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mSharedBufferSlot",
+     "field_offset" : 48640,
+     "referenced_type" : "_ZTIi"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mSharedBufferHasBeenQueued",
+     "field_offset" : 48672,
+     "referenced_type" : "_ZTIb"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mLastDequeueDuration",
      "field_offset" : 48704,
      "referenced_type" : "_ZTIx"
     },
     {
      "access" : "protected",
-     "field_name" : "mLastDequeueStartTime",
+     "field_name" : "mLastQueueDuration",
      "field_offset" : 48768,
      "referenced_type" : "_ZTIx"
     },
     {
      "access" : "protected",
-     "field_name" : "mQueueBufferCondition",
+     "field_name" : "mLastDequeueStartTime",
      "field_offset" : 48832,
+     "referenced_type" : "_ZTIx"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mQueueBufferCondition",
+     "field_offset" : 48896,
      "referenced_type" : "_ZTIN7android9ConditionE"
     },
     {
      "access" : "protected",
      "field_name" : "mNextFrameNumber",
-     "field_offset" : 48896,
-     "referenced_type" : "_ZTIy"
-    },
-    {
-     "access" : "protected",
-     "field_name" : "mLastFrameNumber",
      "field_offset" : 48960,
      "referenced_type" : "_ZTIy"
     },
     {
      "access" : "protected",
-     "field_name" : "mQueriedSupportedTimestamps",
+     "field_name" : "mLastFrameNumber",
      "field_offset" : 49024,
-     "referenced_type" : "_ZTIb"
+     "referenced_type" : "_ZTIy"
     },
     {
      "access" : "protected",
-     "field_name" : "mFrameTimestampsSupportsPresent",
-     "field_offset" : 49032,
-     "referenced_type" : "_ZTIb"
-    },
-    {
-     "access" : "protected",
-     "field_name" : "mEnableFrameTimestamps",
-     "field_offset" : 49040,
-     "referenced_type" : "_ZTIb"
-    },
-    {
-     "access" : "protected",
-     "field_name" : "mFrameEventHistory",
-     "field_offset" : 49056,
-     "referenced_type" : "_ZTINSt3__110unique_ptrIN7android25ProducerFrameEventHistoryENS_14default_deleteIS2_EEEE"
-    },
-    {
-     "access" : "protected",
-     "field_name" : "mReportRemovedBuffers",
+     "field_name" : "mQueriedSupportedTimestamps",
      "field_offset" : 49088,
      "referenced_type" : "_ZTIb"
     },
     {
      "access" : "protected",
-     "field_name" : "mRemovedBuffers",
+     "field_name" : "mFrameTimestampsSupportsPresent",
+     "field_offset" : 49096,
+     "referenced_type" : "_ZTIb"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mEnableFrameTimestamps",
+     "field_offset" : 49104,
+     "referenced_type" : "_ZTIb"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mFrameEventHistory",
      "field_offset" : 49120,
+     "referenced_type" : "_ZTINSt3__110unique_ptrIN7android25ProducerFrameEventHistoryENS_14default_deleteIS2_EEEE"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mReportRemovedBuffers",
+     "field_offset" : 49152,
+     "referenced_type" : "_ZTIb"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mRemovedBuffers",
+     "field_offset" : 49184,
      "referenced_type" : "_ZTINSt3__16vectorIN7android2spINS1_13GraphicBufferEEENS_9allocatorIS4_EEEE"
     },
     {
      "access" : "protected",
      "field_name" : "mMaxBufferCount",
-     "field_offset" : 49216,
+     "field_offset" : 49280,
      "referenced_type" : "_ZTIi"
     },
     {
      "access" : "protected",
      "field_name" : "mListenerProxy",
-     "field_offset" : 49248,
+     "field_offset" : 49312,
      "referenced_type" : "_ZTIN7android2spINS_17IProducerListenerEEE"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "mDequeuedSlots",
+     "field_offset" : 49344,
+     "referenced_type" : "_ZTINSt3__113unordered_setIiNS_4hashIiEENS_8equal_toIiEENS_9allocatorIiEEEE"
     }
    ],
    "linker_set_key" : "_ZTIN7android7SurfaceE",
@@ -55351,7 +55903,7 @@
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android7SurfaceE",
    "self_type" : "_ZTIN7android7SurfaceE",
-   "size" : 6160,
+   "size" : 6192,
    "source_file" : "/frameworks/native/libs/gui/include/gui/Surface.h",
    "vtable_components" :
    [
@@ -56360,7 +56912,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<int, 4> >",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<int, 4>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEE",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEE",
    "size" : 8,
@@ -56383,7 +56935,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<int, 4> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<int, 4>>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEUt_E",
@@ -57955,7 +58507,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<int, 4> >",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<int, 4>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
    "self_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
    "size" : 16,

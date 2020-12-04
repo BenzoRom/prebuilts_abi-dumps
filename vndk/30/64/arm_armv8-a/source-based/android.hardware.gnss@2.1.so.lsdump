@@ -1814,10 +1814,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEC2ERKSH_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16vectorIPvNS_9allocatorIS1_EEE21__push_back_slow_pathIS1_EEvOT_"
   },
   {
@@ -7189,7 +7185,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -7257,7 +7253,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -7310,7 +7306,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -7364,7 +7360,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -8225,7 +8221,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump"
     },
     {
      "default_arg" : true,
@@ -8293,7 +8289,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump"
     },
     {
      "default_arg" : true,
@@ -8346,7 +8342,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -8400,7 +8396,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -8480,7 +8476,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump"
     },
     {
      "default_arg" : true,
@@ -8548,7 +8544,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump"
     },
     {
      "default_arg" : true,
@@ -8601,7 +8597,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -8655,7 +8651,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -8881,7 +8877,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump"
     },
     {
      "default_arg" : true,
@@ -8949,7 +8945,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump"
     },
     {
      "default_arg" : true,
@@ -9002,7 +8998,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -9056,7 +9052,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -10927,7 +10923,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -10995,7 +10991,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -11048,7 +11044,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -11102,7 +11098,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -11182,7 +11178,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -11250,7 +11246,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -11303,7 +11299,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -11357,7 +11353,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -14841,7 +14837,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -14866,7 +14862,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -14891,7 +14887,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -14916,7 +14912,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -14941,7 +14937,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -14966,7 +14962,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -16118,6 +16114,62 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/types.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/types.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::hidl_string> &",
@@ -16273,7 +16325,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -16281,10 +16333,145 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/types.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/types.sdump",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -16831,7 +17018,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "size" : 4,
@@ -16840,7 +17027,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "size" : 4,
@@ -16849,7 +17036,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "size" : 4,
@@ -16858,7 +17045,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "size" : 4,
@@ -16867,7 +17054,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "size" : 4,
@@ -16876,7 +17063,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "size" : 4,
@@ -16885,7 +17072,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "size" : 4,
@@ -16894,7 +17081,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "size" : 4,
@@ -16903,7 +17090,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "size" : 4,
@@ -16912,7 +17099,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "size" : 4,
@@ -16921,7 +17108,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "size" : 4,
@@ -16930,7 +17117,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "size" : 4,
@@ -16939,7 +17126,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "size" : 4,
@@ -16948,7 +17135,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "size" : 4,
@@ -16957,7 +17144,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "size" : 4,
@@ -16966,7 +17153,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "size" : 4,
@@ -16975,7 +17162,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "size" : 4,
@@ -16984,7 +17171,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "size" : 4,
@@ -16993,7 +17180,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "size" : 4,
@@ -17002,7 +17189,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "size" : 4,
@@ -17011,7 +17198,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "size" : 4,
@@ -17020,7 +17207,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "size" : 4,
@@ -17029,7 +17216,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "size" : 4,
@@ -17038,7 +17225,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "size" : 4,
@@ -17047,7 +17234,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "size" : 4,
@@ -17056,7 +17243,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "size" : 4,
@@ -17065,7 +17252,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "size" : 4,
@@ -17074,7 +17261,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "size" : 4,
@@ -17110,7 +17297,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -17128,7 +17315,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -18868,7 +19055,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "size" : 4,
@@ -18877,7 +19064,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "size" : 4,
@@ -18886,7 +19073,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "size" : 4,
@@ -18895,7 +19082,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "size" : 4,
@@ -18904,7 +19091,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "size" : 4,
@@ -18913,7 +19100,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "size" : 4,
@@ -18922,7 +19109,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "size" : 4,
@@ -18931,7 +19118,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "size" : 4,
@@ -18940,7 +19127,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "size" : 4,
@@ -18949,7 +19136,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "size" : 4,
@@ -18958,7 +19145,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "size" : 4,
@@ -18967,7 +19154,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "size" : 4,
@@ -18976,7 +19163,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "size" : 4,
@@ -18985,7 +19172,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "size" : 4,
@@ -18994,7 +19181,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "size" : 4,
@@ -19003,7 +19190,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "size" : 4,
@@ -19012,7 +19199,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "size" : 4,
@@ -19021,7 +19208,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "size" : 4,
@@ -19030,7 +19217,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "size" : 4,
@@ -19039,7 +19226,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "size" : 4,
@@ -19048,7 +19235,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "size" : 4,
@@ -19057,7 +19244,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "size" : 4,
@@ -19066,7 +19253,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "size" : 4,
@@ -19075,7 +19262,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "size" : 4,
@@ -19084,7 +19271,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "size" : 4,
@@ -19093,7 +19280,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "size" : 4,
@@ -19102,7 +19289,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "size" : 4,
@@ -19111,7 +19298,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "size" : 4,
@@ -19138,7 +19325,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -20317,7 +20504,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBinder> (void *)> > *",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBinder> (void *)>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "size" : 4,
@@ -20326,7 +20513,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBase> (void *)> > *",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBase> (void *)>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "size" : 4,
@@ -20335,7 +20522,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
-   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > *",
+   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "size" : 4,
@@ -21514,7 +21701,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "size" : 4,
@@ -21523,7 +21710,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "size" : 4,
@@ -21532,7 +21719,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "size" : 4,
@@ -21541,7 +21728,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "size" : 4,
@@ -21550,7 +21737,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "size" : 4,
@@ -21559,7 +21746,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "size" : 4,
@@ -21568,7 +21755,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "size" : 4,
@@ -21577,7 +21764,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "size" : 4,
@@ -21586,7 +21773,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "size" : 4,
@@ -21595,7 +21782,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "size" : 4,
@@ -21604,7 +21791,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "size" : 4,
@@ -21613,7 +21800,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "size" : 4,
@@ -21622,7 +21809,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "size" : 4,
@@ -21631,7 +21818,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "size" : 4,
@@ -21640,7 +21827,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "size" : 4,
@@ -21649,7 +21836,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "size" : 4,
@@ -21658,7 +21845,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "size" : 4,
@@ -21667,7 +21854,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "size" : 4,
@@ -21676,7 +21863,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "size" : 4,
@@ -21685,7 +21872,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "size" : 4,
@@ -21694,7 +21881,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "size" : 4,
@@ -21703,7 +21890,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "size" : 4,
@@ -21712,7 +21899,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "size" : 4,
@@ -21721,7 +21908,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "size" : 4,
@@ -21730,7 +21917,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "size" : 4,
@@ -21739,7 +21926,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "size" : 4,
@@ -21748,7 +21935,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "size" : 4,
@@ -21757,7 +21944,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "size" : 4,
@@ -21811,7 +21998,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -21829,7 +22016,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
-   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > > *",
+   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>> *",
    "referenced_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "size" : 4,
@@ -21883,7 +22070,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -24595,7 +24782,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "size" : 28,
@@ -24605,7 +24792,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "size" : 28,
@@ -24615,7 +24802,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "size" : 28,
@@ -24625,7 +24812,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "size" : 28,
@@ -24635,7 +24822,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "size" : 28,
@@ -24645,7 +24832,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "size" : 28,
@@ -24655,7 +24842,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "size" : 28,
@@ -24665,7 +24852,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "size" : 28,
@@ -24675,7 +24862,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "size" : 28,
@@ -24685,7 +24872,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "size" : 28,
@@ -24695,7 +24882,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "size" : 28,
@@ -24705,7 +24892,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "size" : 28,
@@ -24715,7 +24902,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "size" : 28,
@@ -24725,7 +24912,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "size" : 28,
@@ -24735,7 +24922,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "size" : 28,
@@ -24745,7 +24932,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "size" : 28,
@@ -24755,7 +24942,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "size" : 28,
@@ -24765,7 +24952,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "size" : 28,
@@ -24775,7 +24962,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "size" : 28,
@@ -24785,7 +24972,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "size" : 28,
@@ -24795,7 +24982,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "size" : 28,
@@ -24805,7 +24992,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "size" : 28,
@@ -24815,7 +25002,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "size" : 28,
@@ -24825,7 +25012,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "size" : 28,
@@ -24835,7 +25022,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "size" : 28,
@@ -24845,7 +25032,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "size" : 28,
@@ -24855,7 +25042,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "size" : 28,
@@ -24865,7 +25052,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "size" : 28,
@@ -24895,7 +25082,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 8,
@@ -25273,7 +25460,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
@@ -25883,7 +26070,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > >",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "size" : 12,
@@ -25898,6 +26085,86 @@
    "self_type" : "_ZTIKPKN7android4hidl4base4V1_05IBaseE",
    "size" : 4,
    "source_file" : "/system/libhidl/transport/include/hidl/ConcurrentMap.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssAntennaInfoCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssConfigurationAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/GnssMeasurementCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/types.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/gnss/2.1/android.hardware.gnss@2.1_genc++/gen/android/hardware/gnss/2.1/types.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -25923,7 +26190,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKSt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
-   "name" : "const std::initializer_list<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const std::initializer_list<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTISt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
    "self_type" : "_ZTIKSt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
    "size" : 8,
@@ -26576,7 +26843,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
-   "name" : "android::KeyedVector<android::String16, android::sp<android::hardware::IBinder> >",
+   "name" : "android::KeyedVector<android::String16, android::sp<android::hardware::IBinder>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
    "self_type" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
@@ -26681,7 +26948,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<android::String16, android::sp<android::hardware::IBinder> > >",
+   "name" : "android::SortedVector<android::key_value_pair_t<android::String16, android::sp<android::hardware::IBinder>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
@@ -40649,7 +40916,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBinder> (void *)> >",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBinder> (void *)>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
@@ -40678,7 +40945,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBase> (void *)> >",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBase> (void *)>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
@@ -40707,7 +40974,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
-   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> >",
+   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
@@ -68064,7 +68331,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
@@ -68093,7 +68360,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
@@ -68122,7 +68389,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
@@ -68151,7 +68418,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
@@ -68177,7 +68444,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
@@ -68203,7 +68470,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
@@ -68229,7 +68496,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
@@ -68255,7 +68522,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
@@ -68281,7 +68548,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
@@ -68307,7 +68574,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
@@ -68333,7 +68600,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
@@ -68359,7 +68626,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
@@ -68385,7 +68652,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
@@ -68411,7 +68678,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
@@ -68437,7 +68704,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
@@ -68463,7 +68730,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
@@ -68489,7 +68756,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
@@ -68515,7 +68782,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
@@ -68541,7 +68808,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
@@ -68567,7 +68834,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
@@ -68593,7 +68860,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
@@ -68619,7 +68886,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
@@ -68645,7 +68912,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
@@ -68671,7 +68938,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
@@ -68697,7 +68964,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
@@ -68723,7 +68990,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
@@ -68752,7 +69019,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
@@ -68781,7 +69048,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
@@ -69213,7 +69480,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 8,
@@ -69236,7 +69503,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32>>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
@@ -70038,7 +70305,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
-   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > >",
+   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "self_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
@@ -70292,7 +70559,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 16,
@@ -71600,7 +71867,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::visibility_control::V1_0::IGnssVisibilityControl>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss18visibility_control4V1_022IGnssVisibilityControlEEEEE",
    "size" : 4,
@@ -71609,7 +71876,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_0::IMeasurementCorrections>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_023IMeasurementCorrectionsEEEEE",
    "size" : 4,
@@ -71618,7 +71885,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::measurement_corrections::V1_1::IMeasurementCorrections>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss23measurement_corrections4V1_123IMeasurementCorrectionsEEEEE",
    "size" : 4,
@@ -71627,7 +71894,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssDebug>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_010IGnssDebugEEEEE",
    "size" : 4,
@@ -71636,7 +71903,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssBatching>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_013IGnssBatchingEEEEE",
    "size" : 4,
@@ -71645,7 +71912,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssGeofencing>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_015IGnssGeofencingEEEEE",
    "size" : 4,
@@ -71654,7 +71921,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssMeasurement>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_016IGnssMeasurementEEEEE",
    "size" : 4,
@@ -71663,7 +71930,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssConfiguration>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_018IGnssConfigurationEEEEE",
    "size" : 4,
@@ -71672,7 +71939,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNavigationMessage>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_022IGnssNavigationMessageEEEEE",
    "size" : 4,
@@ -71681,7 +71948,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnss>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_06IAGnssEEEEE",
    "size" : 4,
@@ -71690,7 +71957,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssNi>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_07IGnssNiEEEEE",
    "size" : 4,
@@ -71699,7 +71966,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IAGnssRil>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IAGnssRilEEEEE",
    "size" : 4,
@@ -71708,7 +71975,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_0::IGnssXtra>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_09IGnssXtraEEEEE",
    "size" : 4,
@@ -71717,7 +71984,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssMeasurement>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_116IGnssMeasurementEEEEE",
    "size" : 4,
@@ -71726,7 +71993,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V1_1::IGnssConfiguration>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V1_118IGnssConfigurationEEEEE",
    "size" : 4,
@@ -71735,7 +72002,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssDebug>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_010IGnssDebugEEEEE",
    "size" : 4,
@@ -71744,7 +72011,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssBatching>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_013IGnssBatchingEEEEE",
    "size" : 4,
@@ -71753,7 +72020,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssMeasurement>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_016IGnssMeasurementEEEEE",
    "size" : 4,
@@ -71762,7 +72029,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IGnssConfiguration>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_018IGnssConfigurationEEEEE",
    "size" : 4,
@@ -71771,7 +72038,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnss>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_06IAGnssEEEEE",
    "size" : 4,
@@ -71780,7 +72047,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_0::IAGnssRil>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_09IAGnssRilEEEEE",
    "size" : 4,
@@ -71789,7 +72056,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_113IGnssCallbackEEEEE",
    "size" : 4,
@@ -71798,7 +72065,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfo>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssAntennaInfoEEEEE",
    "size" : 4,
@@ -71807,7 +72074,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurement>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_116IGnssMeasurementEEEEE",
    "size" : 4,
@@ -71816,7 +72083,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssConfiguration>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_118IGnssConfigurationEEEEE",
    "size" : 4,
@@ -71825,7 +72092,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssAntennaInfoCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssAntennaInfoCallbackEEEEE",
    "size" : 4,
@@ -71834,7 +72101,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnssMeasurementCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_124IGnssMeasurementCallbackEEEEE",
    "size" : 4,
@@ -71843,7 +72110,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::gnss::V2_1::IGnss>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4gnss4V2_15IGnssEEEEE",
    "size" : 4,
@@ -71888,7 +72155,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > &&",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char>> &&",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,

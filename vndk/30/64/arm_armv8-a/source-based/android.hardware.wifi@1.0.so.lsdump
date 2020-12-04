@@ -3475,10 +3475,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEC2ERKSH_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16vectorIPvNS_9allocatorIS1_EEE21__push_back_slow_pathIS1_EEvOT_"
   },
   {
@@ -8606,7 +8602,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -8674,7 +8670,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -8727,7 +8723,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -8781,7 +8777,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -11109,7 +11105,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -11177,7 +11173,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -11230,7 +11226,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -11284,7 +11280,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -11876,7 +11872,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -11944,7 +11940,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -11997,7 +11993,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12051,7 +12047,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12147,7 +12143,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12215,7 +12211,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12268,7 +12264,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12322,7 +12318,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12418,7 +12414,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12486,7 +12482,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12539,7 +12535,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12593,7 +12589,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -16824,7 +16820,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -16892,7 +16888,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -16945,7 +16941,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -16999,7 +16995,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -17079,7 +17075,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump"
     },
     {
      "default_arg" : true,
@@ -17147,7 +17143,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump"
     },
     {
      "default_arg" : true,
@@ -17200,7 +17196,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -17254,7 +17250,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -19565,7 +19561,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -19633,7 +19629,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -19686,7 +19682,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -19740,7 +19736,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -21232,7 +21228,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -21300,7 +21296,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -21353,7 +21349,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -21407,7 +21403,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -21487,7 +21483,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -21555,7 +21551,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -21608,7 +21604,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -21662,7 +21658,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -24271,7 +24267,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -24339,7 +24335,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -24392,7 +24388,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -24446,7 +24442,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -25950,7 +25946,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump"
     },
     {
      "default_arg" : true,
@@ -26018,7 +26014,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump"
     },
     {
      "default_arg" : true,
@@ -26071,7 +26067,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -26125,7 +26121,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -26780,7 +26776,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -26805,7 +26801,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -26830,7 +26826,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -26855,7 +26851,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -26880,7 +26876,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -26905,7 +26901,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -26930,7 +26926,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -26955,7 +26951,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -26980,7 +26976,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27005,7 +27001,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27030,7 +27026,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27055,7 +27051,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27624,7 +27620,7 @@
    "referenced_type" : "_ZTIKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE",
    "self_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/IWifiNanIfaceEventCallback.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/IWifi.h"
   },
   {
    "alignment" : 4,
@@ -27903,7 +27899,7 @@
    "referenced_type" : "_ZTIKN7android8hardware4wifi4V1_010WifiStatusE",
    "self_type" : "_ZTIRKN7android8hardware4wifi4V1_010WifiStatusE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiChipEventCallback.h"
   },
   {
    "alignment" : 4,
@@ -28002,7 +27998,7 @@
    "referenced_type" : "_ZTIKN7android8hardware4wifi4V1_017NanPublishRequestE",
    "self_type" : "_ZTIRKN7android8hardware4wifi4V1_017NanPublishRequestE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiNanIface.h"
   },
   {
    "alignment" : 4,
@@ -28047,7 +28043,7 @@
    "referenced_type" : "_ZTIKN7android8hardware4wifi4V1_019NanSubscribeRequestE",
    "self_type" : "_ZTIRKN7android8hardware4wifi4V1_019NanSubscribeRequestE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiNanIface.h"
   },
   {
    "alignment" : 4,
@@ -28128,7 +28124,7 @@
    "referenced_type" : "_ZTIKN7android8hardware4wifi4V1_025WifiDebugRingBufferStatusE",
    "self_type" : "_ZTIRKN7android8hardware4wifi4V1_025WifiDebugRingBufferStatusE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -28137,7 +28133,7 @@
    "referenced_type" : "_ZTIKN7android8hardware4wifi4V1_026NanInitiateDataPathRequestE",
    "self_type" : "_ZTIRKN7android8hardware4wifi4V1_026NanInitiateDataPathRequestE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiNanIface.h"
   },
   {
    "alignment" : 4,
@@ -28146,7 +28142,7 @@
    "referenced_type" : "_ZTIKN7android8hardware4wifi4V1_026NanTransmitFollowupRequestE",
    "self_type" : "_ZTIRKN7android8hardware4wifi4V1_026NanTransmitFollowupRequestE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiNanIface.h"
   },
   {
    "alignment" : 4,
@@ -28209,7 +28205,7 @@
    "referenced_type" : "_ZTIKN7android8hardware4wifi4V1_037NanRespondToDataPathIndicationRequestE",
    "self_type" : "_ZTIRKN7android8hardware4wifi4V1_037NanRespondToDataPathIndicationRequestE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiNanIface.h"
   },
   {
    "alignment" : 4,
@@ -28354,9 +28350,114 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/types.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/types.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -28365,7 +28466,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 6> > &",
+   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 6>> &",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
    "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
    "size" : 4,
@@ -28378,7 +28479,7 @@
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/IWifiNanIfaceEventCallback.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/IWifi.h"
   },
   {
    "alignment" : 4,
@@ -28536,7 +28637,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -28544,10 +28645,271 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/types.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/types.sdump",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -28950,7 +29312,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "size" : 4,
@@ -28959,7 +29321,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "size" : 4,
@@ -28968,7 +29330,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "size" : 4,
@@ -28977,7 +29339,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "size" : 4,
@@ -28986,7 +29348,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "size" : 4,
@@ -28995,7 +29357,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "size" : 4,
@@ -29004,7 +29366,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "size" : 4,
@@ -29013,7 +29375,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "size" : 4,
@@ -29022,7 +29384,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "size" : 4,
@@ -29031,7 +29393,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "size" : 4,
@@ -29040,7 +29402,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "size" : 4,
@@ -29049,7 +29411,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "size" : 4,
@@ -29058,7 +29420,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "size" : 4,
@@ -29094,7 +29456,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -29157,7 +29519,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -29224,7 +29586,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIRh",
    "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+   "source_file" : "/out/soong/.intermediates/system/libhidl/transport/manager/1.0/android.hidl.manager@1.0_genc++_headers/gen/android/hidl/manager/1.0/IServiceManager.h"
   },
   {
    "alignment" : 4,
@@ -30078,7 +30440,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "size" : 4,
@@ -30087,7 +30449,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "size" : 4,
@@ -30096,7 +30458,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "size" : 4,
@@ -30105,7 +30467,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "size" : 4,
@@ -30114,7 +30476,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "size" : 4,
@@ -30123,7 +30485,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "size" : 4,
@@ -30132,7 +30494,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "size" : 4,
@@ -30141,7 +30503,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "size" : 4,
@@ -30150,7 +30512,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "size" : 4,
@@ -30159,7 +30521,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "size" : 4,
@@ -30168,7 +30530,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "size" : 4,
@@ -30177,7 +30539,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "size" : 4,
@@ -30186,7 +30548,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "size" : 4,
@@ -30213,7 +30575,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -30222,7 +30584,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 6> > *",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 6>> *",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEE",
    "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEE",
    "size" : 4,
@@ -30456,7 +30818,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -30465,7 +30827,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 6> > *",
+   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 6>> *",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
    "self_type" : "_ZTIPKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
    "size" : 4,
@@ -31293,7 +31655,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBinder> (void *)> > *",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBinder> (void *)>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "size" : 4,
@@ -31302,7 +31664,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBase> (void *)> > *",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBase> (void *)>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "size" : 4,
@@ -31311,7 +31673,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
-   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > *",
+   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "size" : 4,
@@ -31531,7 +31893,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_016BnHwWifiP2pIfaceE",
    "self_type" : "_ZTIPN7android8hardware4wifi4V1_016BnHwWifiP2pIfaceE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BnHwWifiP2pIface.h"
   },
   {
    "alignment" : 4,
@@ -31540,7 +31902,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_016BnHwWifiStaIfaceE",
    "self_type" : "_ZTIPN7android8hardware4wifi4V1_016BnHwWifiStaIfaceE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BnHwWifiStaIface.h"
   },
   {
    "alignment" : 4,
@@ -31621,7 +31983,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_021BnHwWifiRttControllerE",
    "self_type" : "_ZTIPN7android8hardware4wifi4V1_021BnHwWifiRttControllerE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BnHwWifiRttController.h"
   },
   {
    "alignment" : 4,
@@ -31765,7 +32127,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_029BnHwWifiNanIfaceEventCallbackE",
    "self_type" : "_ZTIPN7android8hardware4wifi4V1_029BnHwWifiNanIfaceEventCallbackE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BnHwWifiNanIfaceEventCallback.h"
   },
   {
    "alignment" : 4,
@@ -31950,7 +32312,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "size" : 4,
@@ -31959,7 +32321,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "size" : 4,
@@ -31968,7 +32330,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "size" : 4,
@@ -31977,7 +32339,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "size" : 4,
@@ -31986,7 +32348,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "size" : 4,
@@ -31995,7 +32357,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "size" : 4,
@@ -32004,7 +32366,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "size" : 4,
@@ -32013,7 +32375,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "size" : 4,
@@ -32022,7 +32384,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "size" : 4,
@@ -32031,7 +32393,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "size" : 4,
@@ -32040,7 +32402,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "size" : 4,
@@ -32049,7 +32411,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "size" : 4,
@@ -32058,7 +32420,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "size" : 4,
@@ -32112,7 +32474,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -32175,7 +32537,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
-   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > > *",
+   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>> *",
    "referenced_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "size" : 4,
@@ -32256,7 +32618,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -32918,7 +33280,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_010WifiStatusE",
    "self_type" : "_ZTIKN7android8hardware4wifi4V1_010WifiStatusE",
    "size" : 24,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiChipEventCallback.h"
   },
   {
    "alignment" : 4,
@@ -33268,7 +33630,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_017NanPublishRequestE",
    "self_type" : "_ZTIKN7android8hardware4wifi4V1_017NanPublishRequestE",
    "size" : 192,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiNanIface.h"
   },
   {
    "alignment" : 8,
@@ -33368,7 +33730,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_019NanSubscribeRequestE",
    "self_type" : "_ZTIKN7android8hardware4wifi4V1_019NanSubscribeRequestE",
    "size" : 208,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiNanIface.h"
   },
   {
    "alignment" : 4,
@@ -33578,7 +33940,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_025WifiDebugRingBufferStatusE",
    "self_type" : "_ZTIKN7android8hardware4wifi4V1_025WifiDebugRingBufferStatusE",
    "size" : 40,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -33608,7 +33970,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_026NanInitiateDataPathRequestE",
    "self_type" : "_ZTIKN7android8hardware4wifi4V1_026NanInitiateDataPathRequestE",
    "size" : 128,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiNanIface.h"
   },
   {
    "alignment" : 8,
@@ -33618,7 +33980,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_026NanTransmitFollowupRequestE",
    "self_type" : "_ZTIKN7android8hardware4wifi4V1_026NanTransmitFollowupRequestE",
    "size" : 56,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiNanIface.h"
   },
   {
    "alignment" : 8,
@@ -33748,7 +34110,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_037NanRespondToDataPathIndicationRequestE",
    "self_type" : "_ZTIKN7android8hardware4wifi4V1_037NanRespondToDataPathIndicationRequestE",
    "size" : 112,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/BpHwWifiNanIface.h"
   },
   {
    "alignment" : 4,
@@ -33878,7 +34240,7 @@
    "referenced_type" : "_ZTIN7android8hardware4wifi4V1_09IfaceTypeE",
    "self_type" : "_ZTIKN7android8hardware4wifi4V1_09IfaceTypeE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/types.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -33934,7 +34296,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "size" : 28,
@@ -33944,7 +34306,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "size" : 28,
@@ -33954,7 +34316,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "size" : 28,
@@ -33964,7 +34326,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "size" : 28,
@@ -33974,7 +34336,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "size" : 28,
@@ -33984,7 +34346,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "size" : 28,
@@ -33994,7 +34356,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "size" : 28,
@@ -34004,7 +34366,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "size" : 28,
@@ -34014,7 +34376,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "size" : 28,
@@ -34024,7 +34386,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "size" : 28,
@@ -34034,7 +34396,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "size" : 28,
@@ -34044,7 +34406,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "size" : 28,
@@ -34054,7 +34416,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "size" : 28,
@@ -34084,7 +34446,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 8,
@@ -34094,7 +34456,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 6> >",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 6>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEE",
    "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEE",
    "size" : 8,
@@ -34362,7 +34724,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 16,
@@ -34372,7 +34734,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 6> >",
+   "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 6>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
    "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
    "size" : 16,
@@ -34386,7 +34748,7 @@
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "size" : 16,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/IWifiNanIfaceEventCallback.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++_headers/gen/android/hardware/wifi/1.0/IWifi.h"
   },
   {
    "alignment" : 8,
@@ -34562,7 +34924,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
@@ -34962,7 +35324,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > >",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "size" : 12,
@@ -34977,6 +35339,156 @@
    "self_type" : "_ZTIKPKN7android4hidl4base4V1_05IBaseE",
    "size" : 4,
    "source_file" : "/system/libhidl/transport/include/hidl/ConcurrentMap.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiApIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiChipEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiNanIfaceEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiP2pIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiRttControllerEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/WifiStaIfaceEventCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/types.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/wifi/1.0/android.hardware.wifi@1.0_genc++/gen/android/hardware/wifi/1.0/types.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -35002,7 +35514,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKSt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
-   "name" : "const std::initializer_list<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const std::initializer_list<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTISt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
    "self_type" : "_ZTIKSt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
    "size" : 8,
@@ -35655,7 +36167,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
-   "name" : "android::KeyedVector<android::String16, android::sp<android::hardware::IBinder> >",
+   "name" : "android::KeyedVector<android::String16, android::sp<android::hardware::IBinder>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
    "self_type" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
@@ -35760,7 +36272,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<android::String16, android::sp<android::hardware::IBinder> > >",
+   "name" : "android::SortedVector<android::key_value_pair_t<android::String16, android::sp<android::hardware::IBinder>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
@@ -42136,7 +42648,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBinder> (void *)> >",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBinder> (void *)>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
@@ -42165,7 +42677,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBase> (void *)> >",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBase> (void *)>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
@@ -42194,7 +42706,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
-   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> >",
+   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
@@ -53965,7 +54477,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
@@ -53991,7 +54503,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
@@ -54017,7 +54529,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
@@ -54043,7 +54555,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
@@ -54069,7 +54581,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
@@ -54095,7 +54607,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
@@ -54121,7 +54633,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
@@ -54147,7 +54659,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
@@ -54173,7 +54685,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
@@ -54202,7 +54714,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
@@ -54231,7 +54743,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
@@ -54260,7 +54772,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
@@ -54286,7 +54798,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
@@ -54718,7 +55230,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 8,
@@ -54741,7 +55253,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32>>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
@@ -54758,7 +55270,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 6> >",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 6>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEE",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEE",
    "size" : 8,
@@ -54781,7 +55293,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 6> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 6>>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj6EJEEEEUt_E",
@@ -55605,7 +56117,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
-   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > >",
+   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "self_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
@@ -55937,7 +56449,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 16,
@@ -55973,7 +56485,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 6> >",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 6>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
    "self_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj6EJEEEEE",
    "size" : 16,
@@ -57119,7 +57631,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiIface>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_010IWifiIfaceEEEEE",
    "size" : 4,
@@ -57128,7 +57640,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiApIface>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_012IWifiApIfaceEEEEE",
    "size" : 4,
@@ -57137,7 +57649,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIface>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiNanIfaceEEEEE",
    "size" : 4,
@@ -57146,7 +57658,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiP2pIface>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiP2pIfaceEEEEE",
    "size" : 4,
@@ -57155,7 +57667,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIface>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_013IWifiStaIfaceEEEEE",
    "size" : 4,
@@ -57164,7 +57676,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiEventCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiEventCallbackEEEEE",
    "size" : 4,
@@ -57173,7 +57685,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttController>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_018IWifiRttControllerEEEEE",
    "size" : 4,
@@ -57182,7 +57694,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChipEventCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_022IWifiChipEventCallbackEEEEE",
    "size" : 4,
@@ -57191,7 +57703,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiNanIfaceEventCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiNanIfaceEventCallbackEEEEE",
    "size" : 4,
@@ -57200,7 +57712,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiStaIfaceEventCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_026IWifiStaIfaceEventCallbackEEEEE",
    "size" : 4,
@@ -57209,7 +57721,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiRttControllerEventCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_031IWifiRttControllerEventCallbackEEEEE",
    "size" : 4,
@@ -57218,7 +57730,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifi>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_05IWifiEEEEE",
    "size" : 4,
@@ -57227,7 +57739,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::wifi::V1_0::IWifiChip>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_4wifi4V1_09IWifiChipEEEEE",
    "size" : 4,
@@ -57272,7 +57784,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > &&",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char>> &&",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,

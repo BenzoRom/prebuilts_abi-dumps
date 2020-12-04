@@ -4128,10 +4128,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEC2ERKSH_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16vectorIPvNS_9allocatorIS1_EEE21__push_back_slow_pathIS1_EEvOT_"
   },
   {
@@ -12226,7 +12222,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12294,7 +12290,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12347,7 +12343,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12401,7 +12397,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12546,7 +12542,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12614,7 +12610,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12667,7 +12663,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12721,7 +12717,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12850,7 +12846,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12918,7 +12914,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12971,7 +12967,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -13025,7 +13021,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -13121,7 +13117,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -13189,7 +13185,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -13242,7 +13238,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -13296,7 +13292,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -14427,7 +14423,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -14495,7 +14491,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -14548,7 +14544,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -14602,7 +14598,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -15328,7 +15324,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15396,7 +15392,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15449,7 +15445,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15503,7 +15499,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -18157,7 +18153,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -18225,7 +18221,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -18278,7 +18274,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -18332,7 +18328,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -22122,7 +22118,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -22190,7 +22186,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -22243,7 +22239,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -22297,7 +22293,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -22393,7 +22389,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -22461,7 +22457,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -22514,7 +22510,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -22568,7 +22564,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -24856,7 +24852,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -24924,7 +24920,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -24977,7 +24973,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -25031,7 +25027,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -25447,7 +25443,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -25515,7 +25511,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -25568,7 +25564,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -25622,7 +25618,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -27963,7 +27959,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -28031,7 +28027,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -28084,7 +28080,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -28138,7 +28134,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -30918,7 +30914,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -30986,7 +30982,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump"
     },
     {
      "default_arg" : true,
@@ -31039,7 +31035,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -31093,7 +31089,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -31851,7 +31847,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -31876,7 +31872,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -31901,7 +31897,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -31926,7 +31922,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -31951,7 +31947,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -31976,7 +31972,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -32001,7 +31997,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -32026,7 +32022,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -32051,7 +32047,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -32076,7 +32072,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -32101,7 +32097,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -32151,7 +32147,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -32176,7 +32172,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -33209,6 +33205,118 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AcousticEchoCancelerEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AcousticEchoCancelerEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/types.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/types.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::hidl_string> &",
@@ -33319,7 +33427,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -33327,10 +33435,289 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AcousticEchoCancelerEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AcousticEchoCancelerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AcousticEchoCancelerEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AcousticEchoCancelerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/types.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/types.sdump",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -33697,7 +34084,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "size" : 4,
@@ -33706,7 +34093,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "size" : 4,
@@ -33715,7 +34102,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "size" : 4,
@@ -33724,7 +34111,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "size" : 4,
@@ -33733,7 +34120,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "size" : 4,
@@ -33742,7 +34129,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "size" : 4,
@@ -33751,7 +34138,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "size" : 4,
@@ -33760,7 +34147,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "size" : 4,
@@ -33769,7 +34156,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "size" : 4,
@@ -33778,7 +34165,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "size" : 4,
@@ -33787,7 +34174,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "size" : 4,
@@ -33796,7 +34183,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "size" : 4,
@@ -33805,7 +34192,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "size" : 4,
@@ -33814,7 +34201,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "size" : 4,
@@ -33850,7 +34237,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -33868,7 +34255,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -34690,7 +35077,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "size" : 4,
@@ -34699,7 +35086,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "size" : 4,
@@ -34708,7 +35095,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "size" : 4,
@@ -34717,7 +35104,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "size" : 4,
@@ -34726,7 +35113,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "size" : 4,
@@ -34735,7 +35122,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "size" : 4,
@@ -34744,7 +35131,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "size" : 4,
@@ -34753,7 +35140,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "size" : 4,
@@ -34762,7 +35149,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "size" : 4,
@@ -34771,7 +35158,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "size" : 4,
@@ -34780,7 +35167,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "size" : 4,
@@ -34789,7 +35176,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "size" : 4,
@@ -34798,7 +35185,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "size" : 4,
@@ -34807,7 +35194,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "size" : 4,
@@ -34843,7 +35230,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -35770,7 +36157,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBinder> (void *)> > *",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBinder> (void *)>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "size" : 4,
@@ -35779,7 +36166,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBase> (void *)> > *",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBase> (void *)>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "size" : 4,
@@ -35788,7 +36175,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
-   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > *",
+   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "size" : 4,
@@ -36400,7 +36787,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "size" : 4,
@@ -36409,7 +36796,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "size" : 4,
@@ -36418,7 +36805,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "size" : 4,
@@ -36427,7 +36814,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "size" : 4,
@@ -36436,7 +36823,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "size" : 4,
@@ -36445,7 +36832,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "size" : 4,
@@ -36454,7 +36841,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "size" : 4,
@@ -36463,7 +36850,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "size" : 4,
@@ -36472,7 +36859,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "size" : 4,
@@ -36481,7 +36868,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "size" : 4,
@@ -36490,7 +36877,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "size" : 4,
@@ -36499,7 +36886,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "size" : 4,
@@ -36508,7 +36895,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "size" : 4,
@@ -36517,7 +36904,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "size" : 4,
@@ -36571,7 +36958,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -36589,7 +36976,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
-   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > > *",
+   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>> *",
    "referenced_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "size" : 4,
@@ -36652,7 +37039,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -38024,7 +38411,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "size" : 28,
@@ -38034,7 +38421,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "size" : 28,
@@ -38044,7 +38431,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "size" : 28,
@@ -38054,7 +38441,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "size" : 28,
@@ -38064,7 +38451,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "size" : 28,
@@ -38074,7 +38461,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "size" : 28,
@@ -38084,7 +38471,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "size" : 28,
@@ -38094,7 +38481,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "size" : 28,
@@ -38104,7 +38491,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "size" : 28,
@@ -38114,7 +38501,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "size" : 28,
@@ -38124,7 +38511,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "size" : 28,
@@ -38134,7 +38521,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "size" : 28,
@@ -38144,7 +38531,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "size" : 28,
@@ -38154,7 +38541,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "size" : 28,
@@ -38194,7 +38581,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 8,
@@ -38502,7 +38889,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
@@ -38882,7 +39269,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > >",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "size" : 12,
@@ -38897,6 +39284,166 @@
    "self_type" : "_ZTIKPKN7android4hidl4base4V1_05IBaseE",
    "size" : 4,
    "source_file" : "/system/libhidl/transport/include/hidl/ConcurrentMap.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AcousticEchoCancelerEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AcousticEchoCancelerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/AutomaticGainControlEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/BassBoostEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/DownmixEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectBufferProviderCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EffectsFactoryAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EnvironmentalReverbEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/EqualizerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/LoudnessEnhancerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/NoiseSuppressionEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/PresetReverbEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VirtualizerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/VisualizerEffectAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/types.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/audio/effect/2.0/android.hardware.audio.effect@2.0_genc++/gen/android/hardware/audio/effect/2.0/types.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -38922,7 +39469,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKSt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
-   "name" : "const std::initializer_list<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const std::initializer_list<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTISt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
    "self_type" : "_ZTIKSt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
    "size" : 8,
@@ -39575,7 +40122,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
-   "name" : "android::KeyedVector<android::String16, android::sp<android::hardware::IBinder> >",
+   "name" : "android::KeyedVector<android::String16, android::sp<android::hardware::IBinder>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
    "self_type" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
@@ -39680,7 +40227,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<android::String16, android::sp<android::hardware::IBinder> > >",
+   "name" : "android::SortedVector<android::key_value_pair_t<android::String16, android::sp<android::hardware::IBinder>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
@@ -47389,7 +47936,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBinder> (void *)> >",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBinder> (void *)>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
@@ -47418,7 +47965,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBase> (void *)> >",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBase> (void *)>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
@@ -47447,7 +47994,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
-   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> >",
+   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
@@ -61514,7 +62061,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
@@ -61540,7 +62087,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
@@ -61566,7 +62113,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
@@ -61595,7 +62142,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
@@ -61624,7 +62171,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
@@ -61653,7 +62200,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
@@ -61682,7 +62229,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
@@ -61711,7 +62258,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
@@ -61740,7 +62287,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
@@ -61769,7 +62316,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
@@ -61798,7 +62345,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
@@ -61827,7 +62374,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
@@ -61856,7 +62403,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
@@ -61885,7 +62432,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
@@ -62317,7 +62864,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 8,
@@ -62340,7 +62887,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32>>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
@@ -62881,7 +63428,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
-   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > >",
+   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "self_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
@@ -63147,7 +63694,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 16,
@@ -64029,7 +64576,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IDownmixEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_014IDownmixEffectEEEEE",
    "size" : 4,
@@ -64038,7 +64585,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectsFactory>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_015IEffectsFactoryEEEEE",
    "size" : 4,
@@ -64047,7 +64594,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IBassBoostEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IBassBoostEffectEEEEE",
    "size" : 4,
@@ -64056,7 +64603,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEqualizerEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_016IEqualizerEffectEEEEE",
    "size" : 4,
@@ -64065,7 +64612,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVisualizerEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_017IVisualizerEffectEEEEE",
    "size" : 4,
@@ -64074,7 +64621,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IVirtualizerEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_018IVirtualizerEffectEEEEE",
    "size" : 4,
@@ -64083,7 +64630,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IPresetReverbEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_019IPresetReverbEffectEEEEE",
    "size" : 4,
@@ -64092,7 +64639,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::ILoudnessEnhancerEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023ILoudnessEnhancerEffectEEEEE",
    "size" : 4,
@@ -64101,7 +64648,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::INoiseSuppressionEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_023INoiseSuppressionEffectEEEEE",
    "size" : 4,
@@ -64110,7 +64657,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEnvironmentalReverbEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_026IEnvironmentalReverbEffectEEEEE",
    "size" : 4,
@@ -64119,7 +64666,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAcousticEchoCancelerEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAcousticEchoCancelerEffectEEEEE",
    "size" : 4,
@@ -64128,7 +64675,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IAutomaticGainControlEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_027IAutomaticGainControlEffectEEEEE",
    "size" : 4,
@@ -64137,7 +64684,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffectBufferProviderCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_029IEffectBufferProviderCallbackEEEEE",
    "size" : 4,
@@ -64146,7 +64693,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::audio::effect::V2_0::IEffect>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_5audio6effect4V2_07IEffectEEEEE",
    "size" : 4,
@@ -64191,7 +64738,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > &&",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char>> &&",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,

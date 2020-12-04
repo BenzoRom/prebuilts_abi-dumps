@@ -603,7 +603,7 @@
     }
    ],
    "linker_set_key" : "_ZTI25$NATIVE_WINDOW_API_CAMERA",
-   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:261:1)",
+   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:262:1)",
    "referenced_type" : "_ZTI25$NATIVE_WINDOW_API_CAMERA",
    "self_type" : "_ZTI25$NATIVE_WINDOW_API_CAMERA",
    "size" : 4,
@@ -725,7 +725,7 @@
     }
    ],
    "linker_set_key" : "_ZTI26$NATIVE_WINDOW_FRAMEBUFFER",
-   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:319:1)",
+   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:320:1)",
    "referenced_type" : "_ZTI26$NATIVE_WINDOW_FRAMEBUFFER",
    "self_type" : "_ZTI26$NATIVE_WINDOW_FRAMEBUFFER",
    "size" : 4,
@@ -1113,6 +1113,10 @@
     {
      "enum_field_value" : 46,
      "name" : "NATIVE_WINDOW_GET_LAST_QUEUED_BUFFER"
+    },
+    {
+     "enum_field_value" : 47,
+     "name" : "NATIVE_WINDOW_SET_QUERY_INTERCEPTOR"
     }
    ],
    "linker_set_key" : "_ZTI31$NATIVE_WINDOW_ALLOCATE_BUFFERS",
@@ -1153,7 +1157,7 @@
     }
    ],
    "linker_set_key" : "_ZTI31$NATIVE_WINDOW_TRANSFORM_FLIP_H",
-   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:282:1)",
+   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:283:1)",
    "referenced_type" : "_ZTI31$NATIVE_WINDOW_TRANSFORM_FLIP_H",
    "self_type" : "_ZTI31$NATIVE_WINDOW_TRANSFORM_FLIP_H",
    "size" : 4,
@@ -1182,7 +1186,7 @@
     }
    ],
    "linker_set_key" : "_ZTI34$NATIVE_WINDOW_SCALING_MODE_FREEZE",
-   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:300:1)",
+   "name" : "(anonymous enum at frameworks/native/libs/nativewindow/include/system/window.h:301:1)",
    "referenced_type" : "_ZTI34$NATIVE_WINDOW_SCALING_MODE_FREEZE",
    "self_type" : "_ZTI34$NATIVE_WINDOW_SCALING_MODE_FREEZE",
    "size" : 4,
@@ -1760,7 +1764,7 @@
      "referenced_type" : "_ZTIP19ANativeWindowBuffer"
     }
    ],
-   "return_type" : "_ZTIP15AHardwareBuffer",
+   "return_type" : "_ZTIP15AHardwareBuffer#ODR:out/soong/.intermediates/frameworks/native/libs/nativewindow/libnativewindow/android_arm_armv8-a_cortex-a76_static/obj/frameworks/native/libs/nativewindow/ANativeWindow.sdump",
    "source_file" : "/frameworks/native/libs/nativewindow/include/vndk/window.h"
   },
   {
@@ -2655,6 +2659,15 @@
    "self_type" : "_ZTIPK13native_handle",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/nativewindow/include/vndk/hardware_buffer.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPK13native_handle",
+   "name" : "const native_handle *",
+   "referenced_type" : "_ZTIK13native_handle#ODR:out/soong/.intermediates/frameworks/native/libs/nativewindow/libnativewindow/android_arm_armv8-a_cortex-a76_static/obj/frameworks/native/libs/nativewindow/ANativeWindow.sdump",
+   "self_type" : "_ZTIPK13native_handle#ODR:out/soong/.intermediates/frameworks/native/libs/nativewindow/libnativewindow/android_arm_armv8-a_cortex-a76_static/obj/frameworks/native/libs/nativewindow/ANativeWindow.sdump",
+   "size" : 4,
+   "source_file" : "/frameworks/native/libs/nativebase/include/nativebase/nativebase.h"
   },
   {
    "alignment" : 4,

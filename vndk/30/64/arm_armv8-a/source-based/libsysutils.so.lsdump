@@ -316,10 +316,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__112__hash_tableINS_17__hash_value_typeIiP12SocketClientEENS_22__unordered_map_hasherIiS4_NS_4hashIiEELb1EEENS_21__unordered_map_equalIiS4_NS_8equal_toIiEELb1EEENS_9allocatorIS4_EEE14__erase_uniqueIiEEjRKT_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__112__hash_tableINS_17__hash_value_typeIiP12SocketClientEENS_22__unordered_map_hasherIiS4_NS_4hashIiEELb1EEENS_21__unordered_map_equalIiS4_NS_8equal_toIiEELb1EEENS_9allocatorIS4_EEE25__emplace_unique_key_argsIiJRKNS_21piecewise_construct_tENS_5tupleIJRKiEEENSK_IJEEEEEENS_4pairINS_15__hash_iteratorIPNS_11__hash_nodeIS4_PvEEEEbEERKT_DpOT0_"
   },
   {
@@ -1461,7 +1457,7 @@
      "referenced_type" : "_ZTIP16FrameworkCommand"
     },
     {
-     "referenced_type" : "_ZTIP12SocketClient"
+     "referenced_type" : "_ZTIP12SocketClient#ODR:out/soong/.intermediates/system/core/libsysutils/libsysutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libsysutils/src/FrameworkCommand.sdump"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -1793,6 +1789,15 @@
    "name" : "const nlmsghdr *",
    "referenced_type" : "_ZTIK8nlmsghdr",
    "self_type" : "_ZTIPK8nlmsghdr",
+   "size" : 4,
+   "source_file" : "/system/core/libsysutils/include/sysutils/NetlinkEvent.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPK8nlmsghdr",
+   "name" : "const nlmsghdr *",
+   "referenced_type" : "_ZTIK8nlmsghdr#ODR:out/soong/.intermediates/system/core/libsysutils/libsysutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libsysutils/src/NetlinkEvent.sdump",
+   "self_type" : "_ZTIPK8nlmsghdr#ODR:out/soong/.intermediates/system/core/libsysutils/libsysutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libsysutils/src/NetlinkEvent.sdump",
    "size" : 4,
    "source_file" : "/system/core/libsysutils/include/sysutils/NetlinkEvent.h"
   },

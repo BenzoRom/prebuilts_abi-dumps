@@ -1617,10 +1617,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEC2ERKSH_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16vectorIPvNS_9allocatorIS1_EEE21__push_back_slow_pathIS1_EEvOT_"
   },
   {
@@ -8445,7 +8441,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump"
     },
     {
      "default_arg" : true,
@@ -8513,7 +8509,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump"
     },
     {
      "default_arg" : true,
@@ -8566,7 +8562,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -8620,7 +8616,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -9743,7 +9739,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -9811,7 +9807,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -9864,7 +9860,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -9918,7 +9914,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -10689,7 +10685,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -10757,7 +10753,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -10810,7 +10806,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -10864,7 +10860,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -11481,7 +11477,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -11549,7 +11545,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -11602,7 +11598,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -11656,7 +11652,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12868,7 +12864,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12936,7 +12932,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12989,7 +12985,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -13043,7 +13039,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -14158,7 +14154,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -14183,7 +14179,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -14208,7 +14204,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -14233,7 +14229,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -14258,7 +14254,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -15203,6 +15199,55 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/BufferAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/BufferAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/types.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/types.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_handleEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::hidl_handle> &",
@@ -15376,7 +15421,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> > &",
+   "name" : "const android::hardware::hidl_vec<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>> &",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 4,
@@ -15430,7 +15475,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -15438,10 +15483,127 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/BufferAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/BufferAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/BufferAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/BufferAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/types.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/types.sdump",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -15835,7 +15997,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 4,
@@ -15844,7 +16006,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "size" : 4,
@@ -15853,7 +16015,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "size" : 4,
@@ -15862,7 +16024,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "size" : 4,
@@ -15871,7 +16033,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "size" : 4,
@@ -15880,7 +16042,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "size" : 4,
@@ -15916,7 +16078,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -15943,7 +16105,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> > &",
+   "name" : "android::hardware::details::hidl_pointer<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>> &",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIRN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 4,
@@ -15961,7 +16123,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -16936,7 +17098,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 4,
@@ -16945,7 +17107,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "size" : 4,
@@ -16954,7 +17116,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "size" : 4,
@@ -16963,7 +17125,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "size" : 4,
@@ -16972,7 +17134,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "size" : 4,
@@ -16981,7 +17143,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "size" : 4,
@@ -17008,7 +17170,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -17188,7 +17350,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> > *",
+   "name" : "const android::hardware::details::hidl_pointer<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>> *",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 4,
@@ -17413,7 +17575,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> > *",
+   "name" : "const android::hardware::hidl_vec<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>> *",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIPKN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 4,
@@ -18052,7 +18214,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBinder> (void *)> > *",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBinder> (void *)>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "size" : 4,
@@ -18061,7 +18223,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBase> (void *)> > *",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBase> (void *)>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "size" : 4,
@@ -18070,7 +18232,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
-   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > *",
+   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "size" : 4,
@@ -18754,7 +18916,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 4,
@@ -18763,7 +18925,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "size" : 4,
@@ -18772,7 +18934,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "size" : 4,
@@ -18781,7 +18943,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "size" : 4,
@@ -18790,7 +18952,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "size" : 4,
@@ -18799,7 +18961,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "size" : 4,
@@ -18853,7 +19015,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -18880,7 +19042,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> > *",
+   "name" : "android::hardware::details::hidl_pointer<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>> *",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 4,
@@ -18898,7 +19060,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
-   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > > *",
+   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>> *",
    "referenced_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "size" : 4,
@@ -18925,7 +19087,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -18952,7 +19114,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "android::hardware::hidl_vec<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> > *",
+   "name" : "android::hardware::hidl_vec<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>> *",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIPN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 4,
@@ -20493,7 +20655,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 28,
@@ -20503,7 +20665,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "size" : 28,
@@ -20513,7 +20675,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "size" : 28,
@@ -20523,7 +20685,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "size" : 28,
@@ -20533,7 +20695,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "size" : 28,
@@ -20543,7 +20705,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "size" : 28,
@@ -20573,7 +20735,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 8,
@@ -20773,7 +20935,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> >",
+   "name" : "const android::hardware::details::hidl_pointer<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 8,
@@ -21041,7 +21203,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "const android::hardware::hidl_vec<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> >",
+   "name" : "const android::hardware::hidl_vec<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIKN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 16,
@@ -21101,7 +21263,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
@@ -21381,7 +21543,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > >",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "size" : 12,
@@ -21396,6 +21558,76 @@
    "self_type" : "_ZTIKPKN7android4hidl4base4V1_05IBaseE",
    "size" : 4,
    "source_file" : "/system/libhidl/transport/include/hidl/ConcurrentMap.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/BufferAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/BufferAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/DeviceAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/ExecutionCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/FencedExecutionCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/PreparedModelCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/types.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/neuralnetworks/1.3/android.hardware.neuralnetworks@1.3_genc++/gen/android/hardware/neuralnetworks/1.3/types.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -21421,7 +21653,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKSt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
-   "name" : "const std::initializer_list<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const std::initializer_list<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTISt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
    "self_type" : "_ZTIKSt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
    "size" : 8,
@@ -22074,7 +22306,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
-   "name" : "android::KeyedVector<android::String16, android::sp<android::hardware::IBinder> >",
+   "name" : "android::KeyedVector<android::String16, android::sp<android::hardware::IBinder>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
    "self_type" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
@@ -22179,7 +22411,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<android::String16, android::sp<android::hardware::IBinder> > >",
+   "name" : "android::SortedVector<android::key_value_pair_t<android::String16, android::sp<android::hardware::IBinder>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
@@ -29100,7 +29332,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBinder> (void *)> >",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBinder> (void *)>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
@@ -29129,7 +29361,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBase> (void *)> >",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBase> (void *)>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
@@ -29158,7 +29390,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
-   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> >",
+   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
@@ -40270,7 +40502,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
@@ -40299,7 +40531,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
@@ -40328,7 +40560,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
@@ -40357,7 +40589,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
@@ -40386,7 +40618,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
@@ -40412,7 +40644,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
@@ -40844,7 +41076,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 8,
@@ -40867,7 +41099,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32>>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
@@ -41736,7 +41968,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> >",
+   "name" : "android::hardware::details::hidl_pointer<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 8,
@@ -41762,7 +41994,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<sp<IPreparedModel> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<sp<IPreparedModel>>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEUt_E",
@@ -42020,7 +42252,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
-   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > >",
+   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "self_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
@@ -42184,7 +42416,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 16,
@@ -42988,7 +43220,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "android::hardware::hidl_vec<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> >",
+   "name" : "android::hardware::hidl_vec<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTIN7android8hardware8hidl_vecINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 16,
@@ -43645,7 +43877,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModel>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_314IPreparedModelEEEEE",
    "size" : 4,
@@ -43654,7 +43886,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IExecutionCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_318IExecutionCallbackEEEEE",
    "size" : 4,
@@ -43663,7 +43895,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IPreparedModelCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_322IPreparedModelCallbackEEEEE",
    "size" : 4,
@@ -43672,7 +43904,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IFencedExecutionCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_324IFencedExecutionCallbackEEEEE",
    "size" : 4,
@@ -43681,7 +43913,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IBuffer>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IBufferEEEEE",
    "size" : 4,
@@ -43690,7 +43922,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::neuralnetworks::V1_3::IDevice>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_14neuralnetworks4V1_37IDeviceEEEEE",
    "size" : 4,
@@ -43735,7 +43967,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > &&",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char>> &&",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,

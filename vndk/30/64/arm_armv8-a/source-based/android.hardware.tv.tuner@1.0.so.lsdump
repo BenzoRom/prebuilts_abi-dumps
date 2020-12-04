@@ -4940,10 +4940,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEC2ERKSH_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16vectorIPvNS_9allocatorIS1_EEE21__push_back_slow_pathIS1_EEvOT_"
   },
   {
@@ -13224,7 +13220,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump"
     },
     {
      "default_arg" : true,
@@ -13292,7 +13288,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump"
     },
     {
      "default_arg" : true,
@@ -13345,7 +13341,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -13399,7 +13395,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -14973,7 +14969,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15041,7 +15037,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15094,7 +15090,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15148,7 +15144,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -15228,7 +15224,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15296,7 +15292,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15349,7 +15345,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15403,7 +15399,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -15483,7 +15479,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15551,7 +15547,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15604,7 +15600,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15658,7 +15654,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -19864,7 +19860,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -19932,7 +19928,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -19985,7 +19981,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -20039,7 +20035,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -21361,7 +21357,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -21429,7 +21425,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -21482,7 +21478,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -21536,7 +21532,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -28391,7 +28387,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump"
     },
     {
      "default_arg" : true,
@@ -28459,7 +28455,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump"
     },
     {
      "default_arg" : true,
@@ -28512,7 +28508,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -28566,7 +28562,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -28646,7 +28642,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump"
     },
     {
      "default_arg" : true,
@@ -28714,7 +28710,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump"
     },
     {
      "default_arg" : true,
@@ -28767,7 +28763,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -28821,7 +28817,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -29254,7 +29250,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump"
     },
     {
      "default_arg" : true,
@@ -29322,7 +29318,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump"
     },
     {
      "default_arg" : true,
@@ -29375,7 +29371,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -29429,7 +29425,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -31021,7 +31017,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump"
     },
     {
      "default_arg" : true,
@@ -31089,7 +31085,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump"
     },
     {
      "default_arg" : true,
@@ -31142,7 +31138,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -31196,7 +31192,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -33321,7 +33317,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump"
     },
     {
      "default_arg" : true,
@@ -33389,7 +33385,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump"
     },
     {
      "default_arg" : true,
@@ -33442,7 +33438,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -33496,7 +33492,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -34006,7 +34002,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -34031,7 +34027,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -34056,7 +34052,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -34081,7 +34077,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -34106,7 +34102,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -34131,7 +34127,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -34156,7 +34152,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -34181,7 +34177,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -34206,7 +34202,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -34231,7 +34227,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -34281,7 +34277,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -36542,7 +36538,7 @@
    "referenced_type" : "_ZTIKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE",
    "self_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/IFrontendCallback.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/IDemux.h"
   },
   {
    "alignment" : 4,
@@ -36794,7 +36790,7 @@
    "referenced_type" : "_ZTIKN7android8hardware2tv5tuner4V1_011DvrSettingsE",
    "self_type" : "_ZTIRKN7android8hardware2tv5tuner4V1_011DvrSettingsE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/types.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BpHwDvr.h"
   },
   {
    "alignment" : 4,
@@ -36839,7 +36835,7 @@
    "referenced_type" : "_ZTIKN7android8hardware2tv5tuner4V1_014FrontendStatusE",
    "self_type" : "_ZTIRKN7android8hardware2tv5tuner4V1_014FrontendStatusE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/types.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -36884,7 +36880,7 @@
    "referenced_type" : "_ZTIKN7android8hardware2tv5tuner4V1_016DemuxFilterEventE",
    "self_type" : "_ZTIRKN7android8hardware2tv5tuner4V1_016DemuxFilterEventE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BpHwFilterCallback.h"
   },
   {
    "alignment" : 4,
@@ -36893,7 +36889,7 @@
    "referenced_type" : "_ZTIKN7android8hardware2tv5tuner4V1_016FrontendSettingsE",
    "self_type" : "_ZTIRKN7android8hardware2tv5tuner4V1_016FrontendSettingsE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/types.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BpHwFrontend.h"
   },
   {
    "alignment" : 4,
@@ -36947,7 +36943,7 @@
    "referenced_type" : "_ZTIKN7android8hardware2tv5tuner4V1_019DemuxFilterSettingsE",
    "self_type" : "_ZTIRKN7android8hardware2tv5tuner4V1_019DemuxFilterSettingsE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/types.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BpHwFilter.h"
   },
   {
    "alignment" : 4,
@@ -37424,7 +37420,7 @@
    "referenced_type" : "_ZTIKN7android8hardware2tv5tuner4V1_08DemuxPidE",
    "self_type" : "_ZTIRKN7android8hardware2tv5tuner4V1_08DemuxPidE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/types.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BpHwDescrambler.h"
   },
   {
    "alignment" : 4,
@@ -37542,13 +37538,104 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/types.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/types.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::hidl_string> &",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/IFrontendCallback.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/IDemux.h"
   },
   {
    "alignment" : 4,
@@ -37661,7 +37748,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -37669,10 +37756,235 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/types.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/types.sdump",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -38088,7 +38400,7 @@
    "referenced_type" : "_ZTIN7android8hardware2tv5tuner4V1_016DemuxFilterEvent5EventE",
    "self_type" : "_ZTIRN7android8hardware2tv5tuner4V1_016DemuxFilterEvent5EventE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/types.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -38777,7 +39089,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "size" : 4,
@@ -38786,7 +39098,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "size" : 4,
@@ -38795,7 +39107,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "size" : 4,
@@ -38804,7 +39116,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "size" : 4,
@@ -38813,7 +39125,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "size" : 4,
@@ -38822,7 +39134,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "size" : 4,
@@ -38831,7 +39143,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "size" : 4,
@@ -38840,7 +39152,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "size" : 4,
@@ -38849,7 +39161,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "size" : 4,
@@ -38858,7 +39170,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "size" : 4,
@@ -38867,7 +39179,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "size" : 4,
@@ -38876,7 +39188,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend> > &",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend>> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "size" : 4,
@@ -38912,7 +39224,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -39002,7 +39314,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > &",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> &",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIRN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -40031,7 +40343,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "size" : 4,
@@ -40040,7 +40352,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "size" : 4,
@@ -40049,7 +40361,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "size" : 4,
@@ -40058,7 +40370,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "size" : 4,
@@ -40067,7 +40379,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "size" : 4,
@@ -40076,7 +40388,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "size" : 4,
@@ -40085,7 +40397,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "size" : 4,
@@ -40094,7 +40406,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "size" : 4,
@@ -40103,7 +40415,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "size" : 4,
@@ -40112,7 +40424,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "size" : 4,
@@ -40121,7 +40433,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "size" : 4,
@@ -40130,7 +40442,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend> > *",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend>> *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "size" : 4,
@@ -40166,7 +40478,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -41048,7 +41360,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBinder> (void *)> > *",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBinder> (void *)>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "size" : 4,
@@ -41057,7 +41369,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBase> (void *)> > *",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBase> (void *)>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "size" : 4,
@@ -41066,7 +41378,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
-   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > *",
+   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>> *",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "self_type" : "_ZTIPN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "size" : 4,
@@ -41169,7 +41481,7 @@
    "referenced_type" : "_ZTIN7android8hardware2tv5tuner4V1_012BnHwFrontendE",
    "self_type" : "_ZTIPN7android8hardware2tv5tuner4V1_012BnHwFrontendE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BnHwFrontend.h"
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -41268,7 +41580,7 @@
    "referenced_type" : "_ZTIN7android8hardware2tv5tuner4V1_014BnHwTimeFilterE",
    "self_type" : "_ZTIPN7android8hardware2tv5tuner4V1_014BnHwTimeFilterE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BnHwTimeFilter.h"
   },
   {
    "alignment" : 4,
@@ -41331,7 +41643,7 @@
    "referenced_type" : "_ZTIN7android8hardware2tv5tuner4V1_014FrontendStatusE",
    "self_type" : "_ZTIPN7android8hardware2tv5tuner4V1_014FrontendStatusE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/types.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -41349,7 +41661,7 @@
    "referenced_type" : "_ZTIN7android8hardware2tv5tuner4V1_015BnHwDescramblerE",
    "self_type" : "_ZTIPN7android8hardware2tv5tuner4V1_015BnHwDescramblerE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BnHwDescrambler.h"
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -41664,7 +41976,7 @@
    "referenced_type" : "_ZTIN7android8hardware2tv5tuner4V1_020BnHwFrontendCallbackE",
    "self_type" : "_ZTIPN7android8hardware2tv5tuner4V1_020BnHwFrontendCallbackE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BnHwFrontendCallback.h"
   },
   {
    "alignment" : 4,
@@ -42456,7 +42768,7 @@
    "referenced_type" : "_ZTIN7android8hardware2tv5tuner4V1_09BnHwDemuxE",
    "self_type" : "_ZTIPN7android8hardware2tv5tuner4V1_09BnHwDemuxE",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BnHwDemux.h"
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -42515,7 +42827,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "size" : 4,
@@ -42524,7 +42836,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "size" : 4,
@@ -42533,7 +42845,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "size" : 4,
@@ -42542,7 +42854,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "size" : 4,
@@ -42551,7 +42863,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "size" : 4,
@@ -42560,7 +42872,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "size" : 4,
@@ -42569,7 +42881,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "size" : 4,
@@ -42578,7 +42890,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "size" : 4,
@@ -42587,7 +42899,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "size" : 4,
@@ -42596,7 +42908,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "size" : 4,
@@ -42605,7 +42917,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "size" : 4,
@@ -42614,7 +42926,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend> > *",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend>> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "size" : 4,
@@ -42668,7 +42980,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -42758,7 +43070,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
-   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > > *",
+   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>> *",
    "referenced_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "self_type" : "_ZTIPN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "size" : 4,
@@ -42803,7 +43115,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> > *",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>> *",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIPN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 4,
@@ -43760,7 +44072,7 @@
    "referenced_type" : "_ZTIN7android8hardware2tv5tuner4V1_016DemuxFilterEventE",
    "self_type" : "_ZTIKN7android8hardware2tv5tuner4V1_016DemuxFilterEventE",
    "size" : 16,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/hwtypes.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/BpHwFilterCallback.h"
   },
   {
    "alignment" : 4,
@@ -45066,7 +45378,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "size" : 28,
@@ -45076,7 +45388,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "size" : 28,
@@ -45086,7 +45398,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "size" : 28,
@@ -45096,7 +45408,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "size" : 28,
@@ -45106,7 +45418,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "size" : 28,
@@ -45116,7 +45428,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "size" : 28,
@@ -45126,7 +45438,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "size" : 28,
@@ -45136,7 +45448,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "size" : 28,
@@ -45146,7 +45458,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "size" : 28,
@@ -45156,7 +45468,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "size" : 28,
@@ -45166,7 +45478,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "size" : 28,
@@ -45176,7 +45488,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend> >",
+   "name" : "const android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend>>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "size" : 28,
@@ -45216,7 +45528,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 8,
@@ -45398,7 +45710,7 @@
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "size" : 16,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/IFrontendCallback.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++_headers/gen/android/hardware/tv/tuner/1.0/IDemux.h"
   },
   {
    "alignment" : 8,
@@ -45524,7 +45836,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
@@ -46204,7 +46516,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > >",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "size" : 12,
@@ -46219,6 +46531,136 @@
    "self_type" : "_ZTIKPKN7android4hidl4base4V1_05IBaseE",
    "size" : 4,
    "source_file" : "/system/libhidl/transport/include/hidl/ConcurrentMap.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DescramblerAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/DvrCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FilterCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/FrontendCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/LnbCallbackAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TimeFilterAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/TunerAll.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/types.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/.intermediates/hardware/interfaces/tv/tuner/1.0/android.hardware.tv.tuner@1.0_genc++/gen/android/hardware/tv/tuner/1.0/types.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -46244,7 +46686,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKSt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
-   "name" : "const std::initializer_list<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "const std::initializer_list<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTISt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
    "self_type" : "_ZTIKSt16initializer_listIN7android8hardware10hidl_arrayIhLj32EJEEEE",
    "size" : 8,
@@ -46897,7 +47339,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
-   "name" : "android::KeyedVector<android::String16, android::sp<android::hardware::IBinder> >",
+   "name" : "android::KeyedVector<android::String16, android::sp<android::hardware::IBinder>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
    "self_type" : "_ZTIN7android11KeyedVectorINS_8String16ENS_2spINS_8hardware7IBinderEEEEE",
@@ -47002,7 +47444,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<android::String16, android::sp<android::hardware::IBinder> > >",
+   "name" : "android::SortedVector<android::key_value_pair_t<android::String16, android::sp<android::hardware::IBinder>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_8String16ENS_2spINS_8hardware7IBinderEEEEEEE",
@@ -52876,7 +53318,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBinder> (void *)> >",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBinder> (void *)>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS0_7IBinderEEEPvEEEEE",
@@ -52905,7 +53347,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
-   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::function<sp<IBase> (void *)> >",
+   "name" : "android::hardware::ConcurrentMap<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::function<sp<IBase> (void *)>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEENS2_8functionIFNS_2spINS_4hidl4base4V1_05IBaseEEEPvEEEEE",
@@ -52934,7 +53376,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
-   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> >",
+   "name" : "android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
    "self_type" : "_ZTIN7android8hardware13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEE",
@@ -64193,7 +64635,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
@@ -64219,7 +64661,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
@@ -64245,7 +64687,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
@@ -64271,7 +64713,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
@@ -64297,7 +64739,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
@@ -64323,7 +64765,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
@@ -64349,7 +64791,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
@@ -64375,7 +64817,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
@@ -64401,7 +64843,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
@@ -64427,7 +64869,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
@@ -64453,7 +64895,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
@@ -64479,7 +64921,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend> >",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
@@ -64911,7 +65353,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 8,
@@ -64934,7 +65376,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32>>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
@@ -65512,7 +65954,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
-   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder> > >",
+   "name" : "android::hardware::details::DoNotDestruct<android::hardware::ConcurrentMap<const android::hidl::base::V1_0::IBase *, android::wp<android::hardware::BHwBinder>>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
    "self_type" : "_ZTIN7android8hardware7details13DoNotDestructINS0_13ConcurrentMapIPKNS_4hidl4base4V1_05IBaseENS_2wpINS0_9BHwBinderEEEEEEE",
@@ -65732,7 +66174,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32> >",
+   "name" : "android::hardware::hidl_vec<android::hardware::hidl_array<unsigned char, 32>>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "self_type" : "_ZTIN7android8hardware8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEE",
    "size" : 16,
@@ -67196,7 +67638,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITimeFilter>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_011ITimeFilterEEEEE",
    "size" : 4,
@@ -67205,7 +67647,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDescrambler>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDescramblerEEEEE",
    "size" : 4,
@@ -67214,7 +67656,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvrCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012IDvrCallbackEEEEE",
    "size" : 4,
@@ -67223,7 +67665,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnbCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_012ILnbCallbackEEEEE",
    "size" : 4,
@@ -67232,7 +67674,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilterCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_015IFilterCallbackEEEEE",
    "size" : 4,
@@ -67241,7 +67683,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontendCallback>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_017IFrontendCallbackEEEEE",
    "size" : 4,
@@ -67250,7 +67692,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDvr>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04IDvrEEEEE",
    "size" : 4,
@@ -67259,7 +67701,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ILnb>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_04ILnbEEEEE",
    "size" : 4,
@@ -67268,7 +67710,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IDemux>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06IDemuxEEEEE",
    "size" : 4,
@@ -67277,7 +67719,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::ITuner>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_06ITunerEEEEE",
    "size" : 4,
@@ -67286,7 +67728,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFilter>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_07IFilterEEEEE",
    "size" : 4,
@@ -67295,7 +67737,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend> > &&",
+   "name" : "android::hardware::Return<android::sp<android::hardware::tv::tuner::V1_0::IFrontend>> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_2tv5tuner4V1_09IFrontendEEEEE",
    "size" : 4,
@@ -67403,7 +67845,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > &&",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char>> &&",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,

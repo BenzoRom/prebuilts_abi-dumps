@@ -448,19 +448,11 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16vectorIN4piex14tiff_directory13TiffDirectoryENS_9allocatorIS3_EEE26__swap_out_circular_bufferERNS_14__split_bufferIS3_RS5_EE"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16vectorIN4piex14tiff_directory8RationalENS_9allocatorIS3_EEE6assignIPS3_EENS_9enable_ifIXaasr21__is_forward_iteratorIT_EE5valuesr16is_constructibleIS3_NS_15iterator_traitsISA_E9referenceEEE5valueEvE4typeESA_SA_"
   },
   {
    "binding" : "weak",
    "name" : "_ZNSt3__16vectorIN4piex14tiff_directory9SRationalENS_9allocatorIS3_EEE6assignIPS3_EENS_9enable_ifIXaasr21__is_forward_iteratorIT_EE5valuesr16is_constructibleIS3_NS_15iterator_traitsISA_E9referenceEEE5valueEvE4typeESA_SA_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16vectorIhNS_9allocatorIhEEE21__push_back_slow_pathIhEEvOT_"
   },
   {
    "binding" : "weak",
@@ -2310,7 +2302,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__13setIjNS_4lessIjEENS_9allocatorIjEEEE",
-   "name" : "const std::set<unsigned int, std::less<unsigned int>, std::allocator<unsigned int> > &",
+   "name" : "const std::set<unsigned int, std::less<unsigned int>, std::allocator<unsigned int>> &",
    "referenced_type" : "_ZTIKNSt3__13setIjNS_4lessIjEENS_9allocatorIjEEEE",
    "self_type" : "_ZTIRKNSt3__13setIjNS_4lessIjEENS_9allocatorIjEEEE",
    "size" : 4,
@@ -2493,7 +2485,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__16vectorIN4piex14tiff_directory13TiffDirectoryENS_9allocatorIS3_EEEE",
-   "name" : "std::vector<piex::tiff_directory::TiffDirectory, std::allocator<piex::tiff_directory::TiffDirectory> > *",
+   "name" : "std::vector<piex::tiff_directory::TiffDirectory, std::allocator<piex::tiff_directory::TiffDirectory>> *",
    "referenced_type" : "_ZTINSt3__16vectorIN4piex14tiff_directory13TiffDirectoryENS_9allocatorIS3_EEEE",
    "self_type" : "_ZTIPNSt3__16vectorIN4piex14tiff_directory13TiffDirectoryENS_9allocatorIS3_EEEE",
    "size" : 4,
@@ -2502,7 +2494,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__16vectorIjNS_9allocatorIjEEEE",
-   "name" : "std::vector<unsigned int, std::allocator<unsigned int> > *",
+   "name" : "std::vector<unsigned int, std::allocator<unsigned int>> *",
    "referenced_type" : "_ZTINSt3__16vectorIjNS_9allocatorIjEEEE",
    "self_type" : "_ZTIPNSt3__16vectorIjNS_9allocatorIjEEEE",
    "size" : 4,
@@ -2631,7 +2623,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__13setIjNS_4lessIjEENS_9allocatorIjEEEE",
-   "name" : "const std::set<unsigned int, std::less<unsigned int>, std::allocator<unsigned int> >",
+   "name" : "const std::set<unsigned int, std::less<unsigned int>, std::allocator<unsigned int>>",
    "referenced_type" : "_ZTINSt3__13setIjNS_4lessIjEENS_9allocatorIjEEEE",
    "self_type" : "_ZTIKNSt3__13setIjNS_4lessIjEENS_9allocatorIjEEEE",
    "size" : 12,

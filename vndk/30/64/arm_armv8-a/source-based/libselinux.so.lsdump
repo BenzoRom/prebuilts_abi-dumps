@@ -18,7 +18,7 @@
    "is_integral" : true,
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
-   "name" : "bool",
+   "name" : "_Bool",
    "referenced_type" : "_ZTIb",
    "self_type" : "_ZTIb",
    "size" : 1
@@ -464,7 +464,7 @@
    "referenced_type" : "_ZTIFvPKczE",
    "return_type" : "_ZTIv",
    "self_type" : "_ZTIFvPKczE",
-   "source_file" : "/external/selinux/libselinux/include/selinux/avc.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
   },
   {
    "alignment" : 4,
@@ -820,13 +820,13 @@
   {
    "function_name" : "selinux_android_file_context_handle",
    "linker_set_key" : "selinux_android_file_context_handle",
-   "return_type" : "_ZTIP14selabel_handle",
+   "return_type" : "_ZTIP14selabel_handle#ODR:out/soong/.intermediates/external/selinux/libselinux/libselinux/android_arm_armv8-a_cortex-a76_shared/obj/external/selinux/libselinux/src/android/android_platform.sdump",
    "source_file" : "/external/selinux/libselinux/include/selinux/android.h"
   },
   {
    "function_name" : "selinux_android_hw_service_context_handle",
    "linker_set_key" : "selinux_android_hw_service_context_handle",
-   "return_type" : "_ZTIP14selabel_handle",
+   "return_type" : "_ZTIP14selabel_handle#ODR:out/soong/.intermediates/external/selinux/libselinux/libselinux/android_arm_armv8-a_cortex-a76_shared/obj/external/selinux/libselinux/src/android/android.sdump",
    "source_file" : "/external/selinux/libselinux/include/selinux/android.h"
   },
   {
@@ -895,7 +895,7 @@
   {
    "function_name" : "selinux_android_service_context_handle",
    "linker_set_key" : "selinux_android_service_context_handle",
-   "return_type" : "_ZTIP14selabel_handle",
+   "return_type" : "_ZTIP14selabel_handle#ODR:out/soong/.intermediates/external/selinux/libselinux/libselinux/android_arm_armv8-a_cortex-a76_shared/obj/external/selinux/libselinux/src/android/android.sdump",
    "source_file" : "/external/selinux/libselinux/include/selinux/android.h"
   },
   {
@@ -946,7 +946,7 @@
   {
    "function_name" : "selinux_android_vendor_service_context_handle",
    "linker_set_key" : "selinux_android_vendor_service_context_handle",
-   "return_type" : "_ZTIP14selabel_handle",
+   "return_type" : "_ZTIP14selabel_handle#ODR:out/soong/.intermediates/external/selinux/libselinux/libselinux/android_arm_armv8-a_cortex-a76_shared/obj/external/selinux/libselinux/src/android/android.sdump",
    "source_file" : "/external/selinux/libselinux/include/selinux/android.h"
   },
   {
@@ -1156,7 +1156,7 @@
    "referenced_type" : "_ZTI11av_decision",
    "self_type" : "_ZTIP11av_decision",
    "size" : 4,
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/avc.h"
   },
   {
    "alignment" : 4,
@@ -1201,7 +1201,7 @@
    "referenced_type" : "_ZTI14selabel_handle",
    "self_type" : "_ZTIP14selabel_handle",
    "size" : 4,
-   "source_file" : "/external/selinux/libselinux/include/selinux/android.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/label.h"
   },
   {
    "alignment" : 4,
@@ -1327,7 +1327,7 @@
    "referenced_type" : "_ZTIFvPKczE",
    "self_type" : "_ZTIPFvPKczE",
    "size" : 4,
-   "source_file" : "/external/selinux/libselinux/include/selinux/avc.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
   },
   {
    "alignment" : 4,

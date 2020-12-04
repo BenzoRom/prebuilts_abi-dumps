@@ -2369,7 +2369,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN12_GLOBAL__N_130$C2_PROFILE_LEVEL_VENDOR_STARTE",
-   "name" : "(anonymous namespace)::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:373:1)",
+   "name" : "(anonymous namespace)::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:376:1)",
    "referenced_type" : "_ZTIN12_GLOBAL__N_130$C2_PROFILE_LEVEL_VENDOR_STARTE",
    "self_type" : "_ZTIN12_GLOBAL__N_130$C2_PROFILE_LEVEL_VENDOR_STARTE",
    "size" : 4,
@@ -2625,7 +2625,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN15C2ColorXyStruct11$CORE_INDEXE",
-   "name" : "C2ColorXyStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1518:5)",
+   "name" : "C2ColorXyStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1521:5)",
    "referenced_type" : "_ZTIN15C2ColorXyStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN15C2ColorXyStruct11$CORE_INDEXE",
    "size" : 4,
@@ -2728,7 +2728,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN16C2GopLayerStruct11$CORE_INDEXE",
-   "name" : "C2GopLayerStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1678:5)",
+   "name" : "C2GopLayerStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1681:5)",
    "referenced_type" : "_ZTIN16C2GopLayerStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN16C2GopLayerStruct11$CORE_INDEXE",
    "size" : 4,
@@ -2745,7 +2745,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN17C2ColorInfoStruct10$FLEX_SIZEE",
-   "name" : "C2ColorInfoStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1399:5)",
+   "name" : "C2ColorInfoStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1402:5)",
    "referenced_type" : "_ZTIN17C2ColorInfoStruct10$FLEX_SIZEE",
    "self_type" : "_ZTIN17C2ColorInfoStruct10$FLEX_SIZEE",
    "size" : 4,
@@ -2762,7 +2762,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN17C2ColorInfoStruct11$CORE_INDEXE",
-   "name" : "C2ColorInfoStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1399:5)",
+   "name" : "C2ColorInfoStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1402:5)",
    "referenced_type" : "_ZTIN17C2ColorInfoStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN17C2ColorInfoStruct11$CORE_INDEXE",
    "size" : 4,
@@ -2873,7 +2873,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN18C2TileLayoutStruct11$CORE_INDEXE",
-   "name" : "C2TileLayoutStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1810:5)",
+   "name" : "C2TileLayoutStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1813:5)",
    "referenced_type" : "_ZTIN18C2TileLayoutStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN18C2TileLayoutStruct11$CORE_INDEXE",
    "size" : 4,
@@ -2890,7 +2890,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN19C2OutOfMemoryStruct11$CORE_INDEXE",
-   "name" : "C2OutOfMemoryStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1023:5)",
+   "name" : "C2OutOfMemoryStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1026:5)",
    "referenced_type" : "_ZTIN19C2OutOfMemoryStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN19C2OutOfMemoryStruct11$CORE_INDEXE",
    "size" : 4,
@@ -2907,7 +2907,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN19C2PictureSizeStruct11$CORE_INDEXE",
-   "name" : "C2PictureSizeStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1004:5)",
+   "name" : "C2PictureSizeStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1007:5)",
    "referenced_type" : "_ZTIN19C2PictureSizeStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN19C2PictureSizeStruct11$CORE_INDEXE",
    "size" : 4,
@@ -2941,7 +2941,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN20C2ChromaOffsetStruct11$CORE_INDEXE",
-   "name" : "C2ChromaOffsetStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1368:5)",
+   "name" : "C2ChromaOffsetStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1371:5)",
    "referenced_type" : "_ZTIN20C2ChromaOffsetStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN20C2ChromaOffsetStruct11$CORE_INDEXE",
    "size" : 4,
@@ -2958,7 +2958,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN20C2ColorAspectsStruct11$CORE_INDEXE",
-   "name" : "C2ColorAspectsStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1491:5)",
+   "name" : "C2ColorAspectsStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1494:5)",
    "referenced_type" : "_ZTIN20C2ColorAspectsStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN20C2ColorAspectsStruct11$CORE_INDEXE",
    "size" : 4,
@@ -2975,7 +2975,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN20C2IntraRefreshStruct11$CORE_INDEXE",
-   "name" : "C2IntraRefreshStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1784:5)",
+   "name" : "C2IntraRefreshStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1787:5)",
    "referenced_type" : "_ZTIN20C2IntraRefreshStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN20C2IntraRefreshStruct11$CORE_INDEXE",
    "size" : 4,
@@ -2992,7 +2992,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN20C2ProfileLevelStruct11$CORE_INDEXE",
-   "name" : "C2ProfileLevelStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:689:5)",
+   "name" : "C2ProfileLevelStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:692:5)",
    "referenced_type" : "_ZTIN20C2ProfileLevelStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN20C2ProfileLevelStruct11$CORE_INDEXE",
    "size" : 4,
@@ -3009,7 +3009,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN20C2TimedControlStruct11$CORE_INDEXE",
-   "name" : "C2TimedControlStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:2116:5)",
+   "name" : "C2TimedControlStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:2119:5)",
    "referenced_type" : "_ZTIN20C2TimedControlStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN20C2TimedControlStruct11$CORE_INDEXE",
    "size" : 4,
@@ -3026,7 +3026,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN21C2StoreIonUsageStruct11$CORE_INDEXE",
-   "name" : "C2StoreIonUsageStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:2023:5)",
+   "name" : "C2StoreIonUsageStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:2026:5)",
    "referenced_type" : "_ZTIN21C2StoreIonUsageStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN21C2StoreIonUsageStruct11$CORE_INDEXE",
    "size" : 4,
@@ -3072,7 +3072,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN24C2SupplementalDataStruct10$FLEX_SIZEE",
-   "name" : "C2SupplementalDataStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:745:5)",
+   "name" : "C2SupplementalDataStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:748:5)",
    "referenced_type" : "_ZTIN24C2SupplementalDataStruct10$FLEX_SIZEE",
    "self_type" : "_ZTIN24C2SupplementalDataStruct10$FLEX_SIZEE",
    "size" : 4,
@@ -3089,7 +3089,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN24C2SupplementalDataStruct11$CORE_INDEXE",
-   "name" : "C2SupplementalDataStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:745:5)",
+   "name" : "C2SupplementalDataStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:748:5)",
    "referenced_type" : "_ZTIN24C2SupplementalDataStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN24C2SupplementalDataStruct11$CORE_INDEXE",
    "size" : 4,
@@ -3106,7 +3106,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN24C2TemporalLayeringStruct10$FLEX_SIZEE",
-   "name" : "C2TemporalLayeringStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1755:5)",
+   "name" : "C2TemporalLayeringStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1758:5)",
    "referenced_type" : "_ZTIN24C2TemporalLayeringStruct10$FLEX_SIZEE",
    "self_type" : "_ZTIN24C2TemporalLayeringStruct10$FLEX_SIZEE",
    "size" : 4,
@@ -3123,7 +3123,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN24C2TemporalLayeringStruct11$CORE_INDEXE",
-   "name" : "C2TemporalLayeringStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1755:5)",
+   "name" : "C2TemporalLayeringStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1758:5)",
    "referenced_type" : "_ZTIN24C2TemporalLayeringStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN24C2TemporalLayeringStruct11$CORE_INDEXE",
    "size" : 4,
@@ -3161,7 +3161,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN30C2TimestampGapAdjustmentStruct11$CORE_INDEXE",
-   "name" : "C2TimestampGapAdjustmentStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:2165:5)",
+   "name" : "C2TimestampGapAdjustmentStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:2168:5)",
    "referenced_type" : "_ZTIN30C2TimestampGapAdjustmentStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN30C2TimestampGapAdjustmentStruct11$CORE_INDEXE",
    "size" : 4,
@@ -3203,7 +3203,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN35C2MasteringDisplayColorVolumeStruct11$CORE_INDEXE",
-   "name" : "C2MasteringDisplayColorVolumeStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1532:5)",
+   "name" : "C2MasteringDisplayColorVolumeStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:1535:5)",
    "referenced_type" : "_ZTIN35C2MasteringDisplayColorVolumeStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN35C2MasteringDisplayColorVolumeStruct11$CORE_INDEXE",
    "size" : 4,
@@ -3220,7 +3220,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN37C2FlexiblePixelFormatDescriptorStruct11$CORE_INDEXE",
-   "name" : "C2FlexiblePixelFormatDescriptorStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:2044:5)",
+   "name" : "C2FlexiblePixelFormatDescriptorStruct::(anonymous enum at frameworks/av/media/codec2/core/include/C2Config.h:2047:5)",
    "referenced_type" : "_ZTIN37C2FlexiblePixelFormatDescriptorStruct11$CORE_INDEXE",
    "self_type" : "_ZTIN37C2FlexiblePixelFormatDescriptorStruct11$CORE_INDEXE",
    "size" : 4,
@@ -3855,6 +3855,10 @@
     {
      "enum_field_value" : 8,
      "name" : "C2Config::API_DEPENDENCY"
+    },
+    {
+     "enum_field_value" : 65536,
+     "name" : "C2Config::API_SAME_INPUT_BUFFER"
     },
     {
      "enum_field_value" : 0,
@@ -6028,7 +6032,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorI17C2FieldDescriptorNS_9allocatorIS1_EEEE",
-   "name" : "const std::vector<C2FieldDescriptor, std::allocator<C2FieldDescriptor> > &",
+   "name" : "const std::vector<C2FieldDescriptor, std::allocator<C2FieldDescriptor>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorI17C2FieldDescriptorNS_9allocatorIS1_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorI17C2FieldDescriptorNS_9allocatorIS1_EEEE",
    "size" : 4,
@@ -6037,7 +6041,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIN7C2Param5IndexENS_9allocatorIS2_EEEE",
-   "name" : "const std::vector<C2Param::Index, std::allocator<C2Param::Index> > &",
+   "name" : "const std::vector<C2Param::Index, std::allocator<C2Param::Index>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorIN7C2Param5IndexENS_9allocatorIS2_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIN7C2Param5IndexENS_9allocatorIS2_EEEE",
    "size" : 4,
@@ -6046,7 +6050,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7C2Value9PrimitiveEEENS5_ISA_EEEE",
-   "name" : "const std::vector<std::pair<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, C2Value::Primitive>, std::allocator<std::pair<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, C2Value::Primitive> > > &",
+   "name" : "const std::vector<std::pair<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, C2Value::Primitive>, std::allocator<std::pair<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, C2Value::Primitive>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7C2Value9PrimitiveEEENS5_ISA_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7C2Value9PrimitiveEEENS5_ISA_EEEE",
    "size" : 4,
@@ -7914,7 +7918,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
@@ -7924,7 +7928,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorI17C2FieldDescriptorNS_9allocatorIS1_EEEE",
-   "name" : "const std::vector<C2FieldDescriptor, std::allocator<C2FieldDescriptor> >",
+   "name" : "const std::vector<C2FieldDescriptor, std::allocator<C2FieldDescriptor>>",
    "referenced_type" : "_ZTINSt3__16vectorI17C2FieldDescriptorNS_9allocatorIS1_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorI17C2FieldDescriptorNS_9allocatorIS1_EEEE",
    "size" : 12,
@@ -7934,7 +7938,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorIN7C2Param5IndexENS_9allocatorIS2_EEEE",
-   "name" : "const std::vector<C2Param::Index, std::allocator<C2Param::Index> >",
+   "name" : "const std::vector<C2Param::Index, std::allocator<C2Param::Index>>",
    "referenced_type" : "_ZTINSt3__16vectorIN7C2Param5IndexENS_9allocatorIS2_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorIN7C2Param5IndexENS_9allocatorIS2_EEEE",
    "size" : 12,
@@ -7944,7 +7948,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7C2Value9PrimitiveEEENS5_ISA_EEEE",
-   "name" : "const std::vector<std::pair<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, C2Value::Primitive>, std::allocator<std::pair<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, C2Value::Primitive> > >",
+   "name" : "const std::vector<std::pair<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, C2Value::Primitive>, std::allocator<std::pair<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, C2Value::Primitive>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7C2Value9PrimitiveEEENS5_ISA_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7C2Value9PrimitiveEEENS5_ISA_EEEE",
    "size" : 12,
@@ -11405,7 +11409,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIONSt3__110unique_ptrI22C2FieldSupportedValuesNS_14default_deleteIS1_EEEE",
-   "name" : "std::unique_ptr<C2FieldSupportedValues, std::default_delete<C2FieldSupportedValues> > &&",
+   "name" : "std::unique_ptr<C2FieldSupportedValues, std::default_delete<C2FieldSupportedValues>> &&",
    "referenced_type" : "_ZTINSt3__110unique_ptrI22C2FieldSupportedValuesNS_14default_deleteIS1_EEEE",
    "self_type" : "_ZTIONSt3__110unique_ptrI22C2FieldSupportedValuesNS_14default_deleteIS1_EEEE",
    "size" : 4,
@@ -11414,7 +11418,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > &&",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char>> &&",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIONSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -11423,7 +11427,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIONSt3__16vectorI17C2FieldDescriptorNS_9allocatorIS1_EEEE",
-   "name" : "std::vector<C2FieldDescriptor, std::allocator<C2FieldDescriptor> > &&",
+   "name" : "std::vector<C2FieldDescriptor, std::allocator<C2FieldDescriptor>> &&",
    "referenced_type" : "_ZTINSt3__16vectorI17C2FieldDescriptorNS_9allocatorIS1_EEEE",
    "self_type" : "_ZTIONSt3__16vectorI17C2FieldDescriptorNS_9allocatorIS1_EEEE",
    "size" : 4,
@@ -11432,7 +11436,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIONSt3__16vectorIN7C2Param5IndexENS_9allocatorIS2_EEEE",
-   "name" : "std::vector<C2Param::Index, std::allocator<C2Param::Index> > &&",
+   "name" : "std::vector<C2Param::Index, std::allocator<C2Param::Index>> &&",
    "referenced_type" : "_ZTINSt3__16vectorIN7C2Param5IndexENS_9allocatorIS2_EEEE",
    "self_type" : "_ZTIONSt3__16vectorIN7C2Param5IndexENS_9allocatorIS2_EEEE",
    "size" : 4,

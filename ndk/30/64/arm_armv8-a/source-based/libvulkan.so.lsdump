@@ -77,6 +77,78 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIA32_P18VkPhysicalDevice_T",
    "name" : "VkPhysicalDevice_T *[32]",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api.sdump",
+   "self_type" : "_ZTIA32_P18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api.sdump",
+   "size" : 128,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIA32_P18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *[32]",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "self_type" : "_ZTIA32_P18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "size" : 128,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIA32_P18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *[32]",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/debug_report.sdump",
+   "self_type" : "_ZTIA32_P18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/debug_report.sdump",
+   "size" : 128,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIA32_P18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *[32]",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver.sdump",
+   "self_type" : "_ZTIA32_P18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver.sdump",
+   "size" : 128,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIA32_P18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *[32]",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver_gen.sdump",
+   "self_type" : "_ZTIA32_P18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver_gen.sdump",
+   "size" : 128,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIA32_P18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *[32]",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/layers_extensions.sdump",
+   "self_type" : "_ZTIA32_P18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/layers_extensions.sdump",
+   "size" : 128,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIA32_P18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *[32]",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/stubhal.sdump",
+   "self_type" : "_ZTIA32_P18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/stubhal.sdump",
+   "size" : 128,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIA32_P18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *[32]",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/swapchain.sdump",
+   "self_type" : "_ZTIA32_P18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/swapchain.sdump",
+   "size" : 128,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIA32_P18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *[32]",
    "referenced_type" : "_ZTIP18VkPhysicalDevice_T",
    "self_type" : "_ZTIA32_P18VkPhysicalDevice_T",
    "size" : 128,
@@ -11519,7 +11591,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPK24VkCommandBufferBeginInfo"
@@ -11612,7 +11684,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -11633,7 +11705,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPK21VkRenderPassBeginInfo"
@@ -11651,7 +11723,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTI19VkPipelineBindPoint"
@@ -11684,7 +11756,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -11705,7 +11777,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTI19VkPipelineBindPoint"
@@ -11723,7 +11795,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -11747,7 +11819,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -11780,7 +11852,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -11804,7 +11876,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -11831,7 +11903,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -11858,7 +11930,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -11882,7 +11954,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -11909,7 +11981,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -11939,7 +12011,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -11966,7 +12038,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -11999,7 +12071,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12020,7 +12092,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12050,7 +12122,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12068,7 +12140,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12092,7 +12164,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12119,7 +12191,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12143,7 +12215,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12167,7 +12239,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12185,7 +12257,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -12197,13 +12269,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
     },
     {
-     "referenced_type" : "_ZTIPKP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIPKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -12215,7 +12287,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12239,7 +12311,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTI17VkSubpassContents"
@@ -12254,7 +12326,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12293,7 +12365,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12320,7 +12392,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12338,7 +12410,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12359,7 +12431,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12389,7 +12461,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPKf"
@@ -12404,7 +12476,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIf"
@@ -12425,7 +12497,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIf"
@@ -12443,7 +12515,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12458,7 +12530,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12476,7 +12548,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIf"
@@ -12491,7 +12563,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12512,7 +12584,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12530,7 +12602,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12548,7 +12620,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12566,7 +12638,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12587,7 +12659,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -12611,7 +12683,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -12653,7 +12725,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTI23VkPipelineStageFlagBits"
@@ -12848,7 +12920,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPK18VkDeviceCreateInfo"
@@ -13646,7 +13718,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     }
    ],
    "return_type" : "_ZTI8VkResult",
@@ -13658,7 +13730,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -13679,7 +13751,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPj"
@@ -13805,7 +13877,7 @@
      "referenced_type" : "_ZTIj"
     },
     {
-     "referenced_type" : "_ZTIPKP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIPKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -14219,7 +14291,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPK34VkPhysicalDeviceExternalBufferInfo"
@@ -14237,7 +14309,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPK33VkPhysicalDeviceExternalFenceInfo"
@@ -14255,7 +14327,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPK37VkPhysicalDeviceExternalSemaphoreInfo"
@@ -14273,7 +14345,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIP24VkPhysicalDeviceFeatures"
@@ -14288,7 +14360,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIP25VkPhysicalDeviceFeatures2"
@@ -14303,7 +14375,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTI8VkFormat"
@@ -14321,7 +14393,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTI8VkFormat"
@@ -14339,7 +14411,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTI8VkFormat"
@@ -14369,7 +14441,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPK32VkPhysicalDeviceImageFormatInfo2"
@@ -14387,7 +14459,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIP32VkPhysicalDeviceMemoryProperties"
@@ -14402,7 +14474,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIP33VkPhysicalDeviceMemoryProperties2"
@@ -14417,7 +14489,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -14438,7 +14510,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIP26VkPhysicalDeviceProperties"
@@ -14453,7 +14525,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIP27VkPhysicalDeviceProperties2"
@@ -14468,7 +14540,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPj"
@@ -14486,7 +14558,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPj"
@@ -14504,7 +14576,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTI8VkFormat"
@@ -14537,7 +14609,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIPK38VkPhysicalDeviceSparseImageFormatInfo2"
@@ -14558,7 +14630,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -14576,7 +14648,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -14597,7 +14669,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -14618,7 +14690,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP18VkPhysicalDevice_T"
+     "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -14867,7 +14939,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17VkCommandBuffer_T"
+     "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -15631,6 +15703,15 @@
    "name" : "const AHardwareBuffer *",
    "referenced_type" : "_ZTIK15AHardwareBuffer",
    "self_type" : "_ZTIPK15AHardwareBuffer",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_android.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPK15AHardwareBuffer",
+   "name" : "const AHardwareBuffer *",
+   "referenced_type" : "_ZTIK15AHardwareBuffer#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "self_type" : "_ZTIPK15AHardwareBuffer#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
    "size" : 4,
    "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_android.h"
   },
@@ -16761,10 +16842,154 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const *",
+   "referenced_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api.sdump",
+   "self_type" : "_ZTIPKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const *",
+   "referenced_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "self_type" : "_ZTIPKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const *",
+   "referenced_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/debug_report.sdump",
+   "self_type" : "_ZTIPKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/debug_report.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const *",
+   "referenced_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver.sdump",
+   "self_type" : "_ZTIPKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const *",
+   "referenced_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver_gen.sdump",
+   "self_type" : "_ZTIPKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver_gen.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const *",
+   "referenced_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/layers_extensions.sdump",
+   "self_type" : "_ZTIPKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/layers_extensions.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const *",
+   "referenced_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/stubhal.sdump",
+   "self_type" : "_ZTIPKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/stubhal.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const *",
+   "referenced_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/swapchain.sdump",
+   "self_type" : "_ZTIPKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/swapchain.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPKP18VkPhysicalDevice_T",
    "name" : "VkPhysicalDevice_T *const *",
    "referenced_type" : "_ZTIKP18VkPhysicalDevice_T",
    "self_type" : "_ZTIPKP18VkPhysicalDevice_T",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const *",
+   "referenced_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api.sdump",
+   "self_type" : "_ZTIPKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const *",
+   "referenced_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "self_type" : "_ZTIPKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const *",
+   "referenced_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/debug_report.sdump",
+   "self_type" : "_ZTIPKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/debug_report.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const *",
+   "referenced_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver.sdump",
+   "self_type" : "_ZTIPKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const *",
+   "referenced_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver_gen.sdump",
+   "self_type" : "_ZTIPKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver_gen.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const *",
+   "referenced_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/layers_extensions.sdump",
+   "self_type" : "_ZTIPKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/layers_extensions.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const *",
+   "referenced_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/stubhal.sdump",
+   "self_type" : "_ZTIPKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/stubhal.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const *",
+   "referenced_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/swapchain.sdump",
+   "self_type" : "_ZTIPKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/swapchain.sdump",
    "size" : 4,
    "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
   },
@@ -16842,6 +17067,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPP10VkDevice_T",
+   "name" : "VkDevice_T **",
+   "referenced_type" : "_ZTIP10VkDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "self_type" : "_ZTIPP10VkDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPP12VkInstance_T",
    "name" : "VkInstance_T **",
    "referenced_type" : "_ZTIP12VkInstance_T",
@@ -16851,9 +17085,18 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPP12VkInstance_T",
+   "name" : "VkInstance_T **",
+   "referenced_type" : "_ZTIP12VkInstance_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "self_type" : "_ZTIPP12VkInstance_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPP15AHardwareBuffer",
    "name" : "AHardwareBuffer **",
-   "referenced_type" : "_ZTIP15AHardwareBuffer",
+   "referenced_type" : "_ZTIP15AHardwareBuffer#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
    "self_type" : "_ZTIPP15AHardwareBuffer",
    "size" : 4,
    "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_android.h"
@@ -16862,7 +17105,7 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIPP17VkCommandBuffer_T",
    "name" : "VkCommandBuffer_T **",
-   "referenced_type" : "_ZTIP17VkCommandBuffer_T",
+   "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
    "self_type" : "_ZTIPP17VkCommandBuffer_T",
    "size" : 4,
    "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
@@ -16871,7 +17114,7 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIPP18VkPhysicalDevice_T",
    "name" : "VkPhysicalDevice_T **",
-   "referenced_type" : "_ZTIP18VkPhysicalDevice_T",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
    "self_type" : "_ZTIPP18VkPhysicalDevice_T",
    "size" : 4,
    "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
@@ -16882,6 +17125,15 @@
    "name" : "VkQueue_T **",
    "referenced_type" : "_ZTIP9VkQueue_T",
    "self_type" : "_ZTIPP9VkQueue_T",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPP9VkQueue_T",
+   "name" : "VkQueue_T **",
+   "referenced_type" : "_ZTIP9VkQueue_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "self_type" : "_ZTIPP9VkQueue_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
    "size" : 4,
    "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
   },
@@ -18287,8 +18539,168 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKP17VkCommandBuffer_T",
    "name" : "VkCommandBuffer_T *const",
+   "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api.sdump",
+   "self_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const",
+   "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "self_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const",
+   "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/debug_report.sdump",
+   "self_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/debug_report.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const",
+   "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver.sdump",
+   "self_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const",
+   "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver_gen.sdump",
+   "self_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver_gen.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const",
+   "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/layers_extensions.sdump",
+   "self_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/layers_extensions.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const",
+   "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/stubhal.sdump",
+   "self_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/stubhal.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const",
+   "referenced_type" : "_ZTIP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/swapchain.sdump",
+   "self_type" : "_ZTIKP17VkCommandBuffer_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/swapchain.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP17VkCommandBuffer_T",
+   "name" : "VkCommandBuffer_T *const",
    "referenced_type" : "_ZTIP17VkCommandBuffer_T",
    "self_type" : "_ZTIKP17VkCommandBuffer_T",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api.sdump",
+   "self_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "self_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/api_gen.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/debug_report.sdump",
+   "self_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/debug_report.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver.sdump",
+   "self_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver_gen.sdump",
+   "self_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/driver_gen.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/layers_extensions.sdump",
+   "self_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/layers_extensions.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/stubhal.sdump",
+   "self_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/stubhal.sdump",
+   "size" : 4,
+   "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKP18VkPhysicalDevice_T",
+   "name" : "VkPhysicalDevice_T *const",
+   "referenced_type" : "_ZTIP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/swapchain.sdump",
+   "self_type" : "_ZTIKP18VkPhysicalDevice_T#ODR:out/soong/.intermediates/frameworks/native/vulkan/libvulkan/libvulkan/android_arm_armv8-a_cortex-a76_shared/obj/frameworks/native/vulkan/libvulkan/swapchain.sdump",
    "size" : 4,
    "source_file" : "/external/vulkan-headers/include/vulkan/vulkan_core.h"
   },

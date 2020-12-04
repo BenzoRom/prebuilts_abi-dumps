@@ -991,7 +991,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
-   "name" : "gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []> > &",
+   "name" : "gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []>> &",
    "referenced_type" : "_ZTIN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "self_type" : "_ZTIRN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "size" : 4,
@@ -1084,7 +1084,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
-   "name" : "const gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []> > *",
+   "name" : "const gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []>> *",
    "referenced_type" : "_ZTIKN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "self_type" : "_ZTIPKN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "size" : 4,
@@ -1174,7 +1174,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
-   "name" : "gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []> > *",
+   "name" : "gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []>> *",
    "referenced_type" : "_ZTIN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "self_type" : "_ZTIPN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "size" : 4,
@@ -1295,7 +1295,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
-   "name" : "const gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []> >",
+   "name" : "const gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []>>",
    "referenced_type" : "_ZTIN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "self_type" : "_ZTIKN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "size" : 4,
@@ -1695,7 +1695,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN10gatekeeper16remove_referenceIRNS_9UniquePtrIA_hNS_13DefaultDeleteIS2_EEEEEE",
-   "name" : "gatekeeper::remove_reference<gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []> > &>",
+   "name" : "gatekeeper::remove_reference<gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []>> &>",
    "referenced_type" : "_ZTIN10gatekeeper16remove_referenceIRNS_9UniquePtrIA_hNS_13DefaultDeleteIS2_EEEEEE",
    "self_type" : "_ZTIN10gatekeeper16remove_referenceIRNS_9UniquePtrIA_hNS_13DefaultDeleteIS2_EEEEEE",
    "size" : 1,
@@ -1808,7 +1808,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
-   "name" : "gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []> >",
+   "name" : "gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "self_type" : "_ZTIN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
@@ -1831,7 +1831,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTION10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
-   "name" : "gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []> > &&",
+   "name" : "gatekeeper::UniquePtr<unsigned char [], gatekeeper::DefaultDelete<unsigned char []>> &&",
    "referenced_type" : "_ZTIN10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "self_type" : "_ZTION10gatekeeper9UniquePtrIA_hNS_13DefaultDeleteIS1_EEEE",
    "size" : 4,

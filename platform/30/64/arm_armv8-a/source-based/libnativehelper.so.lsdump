@@ -564,7 +564,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7_JNIEnv"
+     "referenced_type" : "_ZTIP7_JNIEnv#ODR:out/soong/.intermediates/libnativehelper/libnativehelper/android_arm_armv8-a_cortex-a76_static/obj/libnativehelper/toStringArray.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -579,7 +579,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7_JNIEnv"
+     "referenced_type" : "_ZTIP7_JNIEnv#ODR:out/soong/.intermediates/libnativehelper/libnativehelper/android_arm_armv8-a_cortex-a76_static/obj/libnativehelper/toStringArray.sdump"
     },
     {
      "referenced_type" : "_ZTIPKPKc"
@@ -595,7 +595,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > &",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "size" : 4,
@@ -768,6 +768,24 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPK15JNINativeMethod",
+   "name" : "const JNINativeMethod *",
+   "referenced_type" : "_ZTIK15JNINativeMethod#ODR:out/soong/.intermediates/libnativehelper/libnativehelper/android_arm_armv8-a_cortex-a76_static/obj/libnativehelper/JniConstants.sdump",
+   "self_type" : "_ZTIPK15JNINativeMethod#ODR:out/soong/.intermediates/libnativehelper/libnativehelper/android_arm_armv8-a_cortex-a76_static/obj/libnativehelper/JniConstants.sdump",
+   "size" : 4,
+   "source_file" : "/libnativehelper/include/nativehelper/JNIHelp.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPK15JNINativeMethod",
+   "name" : "const JNINativeMethod *",
+   "referenced_type" : "_ZTIK15JNINativeMethod#ODR:out/soong/.intermediates/libnativehelper/libnativehelper/android_arm_armv8-a_cortex-a76_static/obj/libnativehelper/toStringArray.sdump",
+   "self_type" : "_ZTIPK15JNINativeMethod#ODR:out/soong/.intermediates/libnativehelper/libnativehelper/android_arm_armv8-a_cortex-a76_static/obj/libnativehelper/toStringArray.sdump",
+   "size" : 4,
+   "source_file" : "/libnativehelper/include/nativehelper/JNIHelp.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPK18JNINativeInterface",
    "name" : "const JNINativeInterface *",
    "referenced_type" : "_ZTIK18JNINativeInterface",
@@ -895,7 +913,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "size" : 12,
@@ -991,7 +1009,7 @@
     {
      "access" : "private",
      "field_name" : "mEnv",
-     "referenced_type" : "_ZTIP7_JNIEnv"
+     "referenced_type" : "_ZTIP7_JNIEnv#ODR:out/soong/.intermediates/libnativehelper/libnativehelper/android_arm_armv8-a_cortex-a76_static/obj/libnativehelper/JniConstants.sdump"
     },
     {
      "access" : "private",
@@ -1016,13 +1034,13 @@
     {
      "access" : "private",
      "field_name" : "mEnv",
-     "referenced_type" : "_ZTIP7_JNIEnv"
+     "referenced_type" : "_ZTIP7_JNIEnv#ODR:out/soong/.intermediates/libnativehelper/libnativehelper/android_arm_armv8-a_cortex-a76_static/obj/libnativehelper/toStringArray.sdump"
     },
     {
      "access" : "private",
      "field_name" : "mLocalRef",
      "field_offset" : 32,
-     "referenced_type" : "_ZTIP8_jstring"
+     "referenced_type" : "_ZTIP8_jstring#ODR:out/soong/.intermediates/libnativehelper/libnativehelper/android_arm_armv8-a_cortex-a76_static/obj/libnativehelper/toStringArray.sdump"
     }
    ],
    "linker_set_key" : "_ZTI14ScopedLocalRefIP8_jstringE",
@@ -1032,7 +1050,10 @@
    "self_type" : "_ZTI14ScopedLocalRefIP8_jstringE",
    "size" : 8,
    "source_file" : "/libnativehelper/header_only_include/nativehelper/scoped_local_ref.h",
-   "template_args" : [ "_ZTIP8_jstring" ]
+   "template_args" :
+   [
+    "_ZTIP8_jstring#ODR:out/soong/.intermediates/libnativehelper/libnativehelper/android_arm_armv8-a_cortex-a76_static/obj/libnativehelper/toStringArray.sdump"
+   ]
   }
  ],
  "rvalue_reference_types" : []

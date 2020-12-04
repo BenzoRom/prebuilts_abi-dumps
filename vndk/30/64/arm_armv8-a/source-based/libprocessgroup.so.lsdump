@@ -176,6 +176,9 @@
    "name" : "_ZN16CgroupController8IsUsableEv"
   },
   {
+   "name" : "_ZN16ProfileAttribute5ResetERK16CgroupControllerRKNSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEE"
+  },
+  {
    "name" : "_ZN18ApplyProfileAction19DropResourceCachingEv"
   },
   {
@@ -1101,10 +1104,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNKSt3__112regex_traitsIcE19__transform_primaryIPcEENS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEET_SA_c"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNKSt3__112regex_traitsIcE20__lookup_collatenameIPKcEENS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEET_SB_c"
   },
   {
@@ -1114,6 +1113,10 @@
   {
    "binding" : "weak",
    "name" : "_ZNKSt3__112regex_traitsIcE9transformINS_11__wrap_iterIPcEEEENS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEET_SC_"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNKSt3__112regex_traitsIcE9transformIPcEENS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEET_SA_"
   },
   {
    "binding" : "weak",
@@ -1253,19 +1256,11 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__111basic_regexIcNS_12regex_traitsIcEEE22__parse_decimal_escapeIPKcEET_S7_S7_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__111basic_regexIcNS_12regex_traitsIcEEE23__parse_ERE_dupl_symbolIPKcEET_S7_S7_PNS_16__owns_one_stateIcEEjj"
   },
   {
    "binding" : "weak",
    "name" : "_ZNSt3__111basic_regexIcNS_12regex_traitsIcEEE23__parse_QUOTED_CHAR_EREIPKcEET_S7_S7_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__111basic_regexIcNS_12regex_traitsIcEEE23__parse_character_classIPKcEET_S7_S7_PNS_20__bracket_expressionIcS2_EE"
   },
   {
    "binding" : "weak",
@@ -1377,10 +1372,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__114regex_iteratorINS_11__wrap_iterIPKcEEcNS_12regex_traitsIcEEEC2ES4_S4_RKNS_11basic_regexIcS6_EENS_15regex_constants15match_flag_typeE"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__114regex_iteratorINS_11__wrap_iterIPKcEEcNS_12regex_traitsIcEEEppEv"
   },
   {
@@ -1445,14 +1436,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__13mapINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_10shared_ptrI11TaskProfileEENS_4lessIS6_EENS4_INS_4pairIKS6_S9_EEEEEixERSD_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__13mapINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_10unique_ptrI16ProfileAttributeNS_14default_deleteIS8_EEEENS_4lessIS6_EENS4_INS_4pairIKS6_SB_EEEEEixERSF_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__15dequeIN4Json6Reader9ErrorInfoENS_9allocatorIS3_EEE14__erase_to_endENS_16__deque_iteratorIS3_PKS3_RS8_PKS9_iLi146EEE"
   },
   {
@@ -1466,10 +1449,6 @@
   {
    "binding" : "weak",
    "name" : "_ZNSt3__15dequeIN4Json6Reader9ErrorInfoENS_9allocatorIS3_EEE6resizeEj"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__15dequeINS_7__stateIcEENS_9allocatorIS2_EEE10push_frontEOS2_"
   },
   {
    "binding" : "weak",
@@ -1590,14 +1569,6 @@
   {
    "binding" : "weak",
    "name" : "_ZNSt3__16vectorIPKN4Json12PathArgumentENS_9allocatorIS4_EEE21__push_back_slow_pathIS4_EEvOT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16vectorIcNS_9allocatorIcEEE21__push_back_slow_pathIRKcEEvOT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16vectorIcNS_9allocatorIcEEE21__push_back_slow_pathIcEEvOT_"
   },
   {
    "binding" : "weak",
@@ -2060,7 +2031,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -2068,10 +2039,28 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libprocessgroup/libprocessgroup/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libprocessgroup/processgroup.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libprocessgroup/libprocessgroup/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libprocessgroup/processgroup.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libprocessgroup/include/processgroup/processgroup.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > &",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
+   "size" : 4,
+   "source_file" : "/system/core/libprocessgroup/include/processgroup/processgroup.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE#ODR:out/soong/.intermediates/system/core/libprocessgroup/libprocessgroup/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libprocessgroup/processgroup.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE#ODR:out/soong/.intermediates/system/core/libprocessgroup/libprocessgroup/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libprocessgroup/processgroup.sdump",
    "size" : 4,
    "source_file" : "/system/core/libprocessgroup/include/processgroup/processgroup.h"
   }
@@ -2099,7 +2088,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char>> *",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -2112,7 +2101,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
@@ -2122,7 +2111,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >",
+   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "size" : 12,

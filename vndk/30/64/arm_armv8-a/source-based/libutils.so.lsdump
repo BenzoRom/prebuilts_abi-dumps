@@ -2618,11 +2618,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_pointer<android::key_value_pair_t<android::String8, android::String8> >::value"
+     "name" : "android::trait_pointer<android::key_value_pair_t<android::String8, android::String8>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
-   "name" : "android::trait_pointer<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
+   "name" : "android::trait_pointer<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "self_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "size" : 4,
@@ -2635,11 +2635,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_pointer<android::key_value_pair_t<int, android::Looper::Request> >::value"
+     "name" : "android::trait_pointer<android::key_value_pair_t<int, android::Looper::Request>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
-   "name" : "android::trait_pointer<key_value_pair_t<int, Request> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
+   "name" : "android::trait_pointer<key_value_pair_t<int, Request>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
    "self_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
    "size" : 4,
@@ -2974,11 +2974,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_copy<android::key_value_pair_t<android::String8, android::String8> >::value"
+     "name" : "android::trait_trivial_copy<android::key_value_pair_t<android::String8, android::String8>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
-   "name" : "android::trait_trivial_copy<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:287:3)",
+   "name" : "android::trait_trivial_copy<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:287:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "size" : 4,
@@ -2991,11 +2991,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_copy<android::key_value_pair_t<int, android::Looper::Request> >::value"
+     "name" : "android::trait_trivial_copy<android::key_value_pair_t<int, android::Looper::Request>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
-   "name" : "android::trait_trivial_copy<key_value_pair_t<int, Request> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:287:3)",
+   "name" : "android::trait_trivial_copy<key_value_pair_t<int, Request>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:287:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
    "size" : 4,
@@ -3331,11 +3331,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_ctor<android::key_value_pair_t<android::String8, android::String8> >::value"
+     "name" : "android::trait_trivial_ctor<android::key_value_pair_t<android::String8, android::String8>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
-   "name" : "android::trait_trivial_ctor<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:281:3)",
+   "name" : "android::trait_trivial_ctor<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:281:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "size" : 4,
@@ -3348,11 +3348,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_ctor<android::key_value_pair_t<int, android::Looper::Request> >::value"
+     "name" : "android::trait_trivial_ctor<android::key_value_pair_t<int, android::Looper::Request>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
-   "name" : "android::trait_trivial_ctor<key_value_pair_t<int, Request> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:281:3)",
+   "name" : "android::trait_trivial_ctor<key_value_pair_t<int, Request>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:281:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
    "size" : 4,
@@ -3688,11 +3688,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_dtor<android::key_value_pair_t<android::String8, android::String8> >::value"
+     "name" : "android::trait_trivial_dtor<android::key_value_pair_t<android::String8, android::String8>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
-   "name" : "android::trait_trivial_dtor<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:284:3)",
+   "name" : "android::trait_trivial_dtor<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:284:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "size" : 4,
@@ -3705,11 +3705,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_dtor<android::key_value_pair_t<int, android::Looper::Request> >::value"
+     "name" : "android::trait_trivial_dtor<android::key_value_pair_t<int, android::Looper::Request>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
-   "name" : "android::trait_trivial_dtor<key_value_pair_t<int, Request> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:284:3)",
+   "name" : "android::trait_trivial_dtor<key_value_pair_t<int, Request>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:284:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
    "size" : 4,
@@ -4045,11 +4045,11 @@
    [
     {
      "enum_field_value" : 1,
-     "name" : "android::trait_trivial_move<android::key_value_pair_t<android::String8, android::String8> >::value"
+     "name" : "android::trait_trivial_move<android::key_value_pair_t<android::String8, android::String8>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
-   "name" : "android::trait_trivial_move<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:290:3)",
+   "name" : "android::trait_trivial_move<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:290:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEE6$valueE",
    "size" : 4,
@@ -4062,11 +4062,11 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::trait_trivial_move<android::key_value_pair_t<int, android::Looper::Request> >::value"
+     "name" : "android::trait_trivial_move<android::key_value_pair_t<int, android::Looper::Request>>::value"
     }
    ],
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
-   "name" : "android::trait_trivial_move<key_value_pair_t<int, Request> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:290:3)",
+   "name" : "android::trait_trivial_move<key_value_pair_t<int, Request>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:290:3)",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_6Looper7RequestEEEE6$valueE",
    "size" : 4,
@@ -4540,27 +4540,27 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >::is_pointer"
+     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>::is_pointer"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >::has_trivial_ctor"
+     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>::has_trivial_ctor"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >::has_trivial_dtor"
+     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>::has_trivial_dtor"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >::has_trivial_copy"
+     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>::has_trivial_copy"
     },
     {
      "enum_field_value" : 1,
-     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >::has_trivial_move"
+     "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>::has_trivial_move"
     }
    ],
    "linker_set_key" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEE17$has_trivial_copyE",
-   "name" : "android::traits<key_value_pair_t<String8, String8> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
+   "name" : "android::traits<key_value_pair_t<String8, String8>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
    "referenced_type" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEE17$has_trivial_copyE",
    "self_type" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEE17$has_trivial_copyE",
    "size" : 4,
@@ -4573,27 +4573,27 @@
    [
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request> >::is_pointer"
+     "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request>>::is_pointer"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request> >::has_trivial_ctor"
+     "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request>>::has_trivial_ctor"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request> >::has_trivial_dtor"
+     "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request>>::has_trivial_dtor"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request> >::has_trivial_copy"
+     "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request>>::has_trivial_copy"
     },
     {
      "enum_field_value" : 0,
-     "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request> >::has_trivial_move"
+     "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request>>::has_trivial_move"
     }
    ],
    "linker_set_key" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_6Looper7RequestEEEE17$has_trivial_copyE",
-   "name" : "android::traits<key_value_pair_t<int, Request> >::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
+   "name" : "android::traits<key_value_pair_t<int, Request>>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
    "referenced_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_6Looper7RequestEEEE17$has_trivial_copyE",
    "self_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_6Looper7RequestEEEE17$has_trivial_copyE",
    "size" : 4,
@@ -9583,7 +9583,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >::do_compare",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>::do_compare",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEE10do_compareEPKvS6_",
    "parameters" :
    [
@@ -9603,7 +9603,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >::do_destroy",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>::do_destroy",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEE10do_destroyEPvj",
    "parameters" :
    [
@@ -9623,7 +9623,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >::do_construct",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>::do_construct",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEE12do_constructEPvj",
    "parameters" :
    [
@@ -9643,7 +9643,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >::do_move_forward",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>::do_move_forward",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEE15do_move_forwardEPvPKvj",
    "parameters" :
    [
@@ -9666,7 +9666,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >::do_move_backward",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>::do_move_backward",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEE16do_move_backwardEPvPKvj",
    "parameters" :
    [
@@ -9689,7 +9689,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >::do_copy",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>::do_copy",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEE7do_copyEPvPKvj",
    "parameters" :
    [
@@ -9712,7 +9712,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >::do_splat",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>::do_splat",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEE8do_splatEPvPKvj",
    "parameters" :
    [
@@ -9735,7 +9735,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> >::do_compare",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>>::do_compare",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE10do_compareEPKvS7_",
    "parameters" :
    [
@@ -9755,7 +9755,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> >::do_destroy",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>>::do_destroy",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE10do_destroyEPvj",
    "parameters" :
    [
@@ -9775,7 +9775,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> >::do_construct",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>>::do_construct",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE12do_constructEPvj",
    "parameters" :
    [
@@ -9795,7 +9795,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> >::do_move_forward",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>>::do_move_forward",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE15do_move_forwardEPvPKvj",
    "parameters" :
    [
@@ -9818,7 +9818,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> >::do_move_backward",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>>::do_move_backward",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE16do_move_backwardEPvPKvj",
    "parameters" :
    [
@@ -9841,7 +9841,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> >::do_copy",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>>::do_copy",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE7do_copyEPvPKvj",
    "parameters" :
    [
@@ -9864,7 +9864,7 @@
   },
   {
    "access" : "protected",
-   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> >::do_splat",
+   "function_name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>>::do_splat",
    "linker_set_key" : "_ZNK7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEE8do_splatEPvPKvj",
    "parameters" :
    [
@@ -11387,6 +11387,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKN7android28sysprop_change_callback_infoE",
+   "name" : "const android::sysprop_change_callback_info &",
+   "referenced_type" : "_ZTIKN7android28sysprop_change_callback_infoE#ODR:",
+   "self_type" : "_ZTIRKN7android28sysprop_change_callback_infoE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/Vector.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android2spINS_14LooperCallbackEEE",
    "name" : "const android::sp<android::LooperCallback> &",
    "referenced_type" : "_ZTIKN7android2spINS_14LooperCallbackEEE",
@@ -11967,7 +11976,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<android::String8, android::String8> > *",
+   "name" : "const android::SortedVector<android::key_value_pair_t<android::String8, android::String8>> *",
    "referenced_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIPKN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 4,
@@ -11976,7 +11985,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> > *",
+   "name" : "const android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>> *",
    "referenced_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIPKN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "size" : 4,
@@ -12015,6 +12024,15 @@
    "name" : "const android::sysprop_change_callback_info *",
    "referenced_type" : "_ZTIKN7android28sysprop_change_callback_infoE",
    "self_type" : "_ZTIPKN7android28sysprop_change_callback_infoE",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKN7android28sysprop_change_callback_infoE",
+   "name" : "const android::sysprop_change_callback_info *",
+   "referenced_type" : "_ZTIKN7android28sysprop_change_callback_infoE#ODR:",
+   "self_type" : "_ZTIPKN7android28sysprop_change_callback_infoE#ODR:",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
   },
@@ -12232,7 +12250,7 @@
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 4,
-   "source_file" : "/system/core/liblog/include/android/log.h"
+   "source_file" : "/system/core/libutils/include/utils/FileMap.h"
   },
   {
    "alignment" : 4,
@@ -12241,7 +12259,7 @@
    "referenced_type" : "_ZTIKh",
    "self_type" : "_ZTIPKh",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Unicode.h"
+   "source_file" : "/system/core/libutils/include/utils/JenkinsHash.h"
   },
   {
    "alignment" : 4,
@@ -12259,7 +12277,7 @@
    "referenced_type" : "_ZTIKv",
    "self_type" : "_ZTIPKv",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+   "source_file" : "/system/core/libutils/include/utils/LightRefBase.h"
   },
   {
    "alignment" : 4,
@@ -12345,7 +12363,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> > *",
+   "name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>> *",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIPN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 4,
@@ -12354,7 +12372,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> > *",
+   "name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>> *",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIPN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "size" : 4,
@@ -12664,7 +12682,7 @@
    "referenced_type" : "_ZTIN7android7FileMapE",
    "self_type" : "_ZTIPN7android7FileMapE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Tokenizer.h"
+   "source_file" : "/system/core/libutils/include/utils/FileMap.h"
   },
   {
    "alignment" : 4,
@@ -12718,7 +12736,7 @@
    "referenced_type" : "_ZTIN7android7String8E",
    "self_type" : "_ZTIPN7android7String8E",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/String8.h"
+   "source_file" : "/system/core/libutils/include/utils/Printer.h"
   },
   {
    "alignment" : 4,
@@ -12826,7 +12844,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIPc",
    "size" : 4,
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
+   "source_file" : "/system/core/libutils/include/utils/FileMap.h"
   },
   {
    "alignment" : 4,
@@ -12862,7 +12880,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/String16.h"
+   "source_file" : "/system/core/libutils/include/utils/FileMap.h"
   }
  ],
  "qualified_types" :
@@ -12981,7 +12999,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "const android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 20,
@@ -12991,7 +13009,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "const android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> >",
+   "name" : "const android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>>",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIKN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "size" : 20,
@@ -13312,6 +13330,56 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
    "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libutils/Looper.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libutils/Looper.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libutils/NativeHandle.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libutils/NativeHandle.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libutils/RefBase.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libutils/RefBase.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libutils/Threads.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.30_arm_armv8-a_cortex-a76_static/obj/system/core/libutils/Threads.sdump",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
    "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE",
    "self_type" : "_ZTIKPN7android7RefBase12weakref_implE",
    "size" : 4,
@@ -13345,7 +13413,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/system/core/liblog/include/android/log.h"
+   "source_file" : "/system/core/libutils/include/utils/FileMap.h"
   },
   {
    "alignment" : 8,
@@ -13423,7 +13491,7 @@
    "name" : "const void",
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIKv",
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+   "source_file" : "/system/core/libutils/include/utils/LightRefBase.h"
   },
   {
    "alignment" : 8,
@@ -14178,7 +14246,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::SortedVector<android::key_value_pair_t<android::String8, android::String8>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tINS_7String8ES2_EEEE",
@@ -14235,7 +14303,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request> >",
+   "name" : "android::SortedVector<android::key_value_pair_t<int, android::Looper::Request>>",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIN7android12SortedVectorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
@@ -14340,7 +14408,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::trait_pointer<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::trait_pointer<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -14350,7 +14418,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "android::trait_pointer<android::key_value_pair_t<int, android::Looper::Request> >",
+   "name" : "android::trait_pointer<android::key_value_pair_t<int, android::Looper::Request>>",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIN7android13trait_pointerINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "size" : 1,
@@ -14840,7 +14908,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::use_trivial_move<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::use_trivial_move<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -14856,7 +14924,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "android::use_trivial_move<android::key_value_pair_t<int, android::Looper::Request> >",
+   "name" : "android::use_trivial_move<android::key_value_pair_t<int, android::Looper::Request>>",
    "referenced_type" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIN7android16use_trivial_moveINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "size" : 1,
@@ -15008,7 +15076,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::trait_trivial_copy<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::trait_trivial_copy<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -15018,7 +15086,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "android::trait_trivial_copy<android::key_value_pair_t<int, android::Looper::Request> >",
+   "name" : "android::trait_trivial_copy<android::key_value_pair_t<int, android::Looper::Request>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_copyINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "size" : 1,
@@ -15218,7 +15286,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::trait_trivial_ctor<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::trait_trivial_ctor<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -15228,7 +15296,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "android::trait_trivial_ctor<android::key_value_pair_t<int, android::Looper::Request> >",
+   "name" : "android::trait_trivial_ctor<android::key_value_pair_t<int, android::Looper::Request>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_ctorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "size" : 1,
@@ -15428,7 +15496,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::trait_trivial_dtor<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::trait_trivial_dtor<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -15438,7 +15506,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "android::trait_trivial_dtor<android::key_value_pair_t<int, android::Looper::Request> >",
+   "name" : "android::trait_trivial_dtor<android::key_value_pair_t<int, android::Looper::Request>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_dtorINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "size" : 1,
@@ -15638,7 +15706,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::trait_trivial_move<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::trait_trivial_move<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -15648,7 +15716,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "android::trait_trivial_move<android::key_value_pair_t<int, android::Looper::Request> >",
+   "name" : "android::trait_trivial_move<android::key_value_pair_t<int, android::Looper::Request>>",
    "referenced_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIN7android18trait_trivial_moveINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "size" : 1,
@@ -16808,7 +16876,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEEE",
-   "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8> >",
+   "name" : "android::traits<android::key_value_pair_t<android::String8, android::String8>>",
    "referenced_type" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "self_type" : "_ZTIN7android6traitsINS_16key_value_pair_tINS_7String8ES2_EEEE",
    "size" : 1,
@@ -16818,7 +16886,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
-   "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request> >",
+   "name" : "android::traits<android::key_value_pair_t<int, android::Looper::Request>>",
    "referenced_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "self_type" : "_ZTIN7android6traitsINS_16key_value_pair_tIiNS_6Looper7RequestEEEEE",
    "size" : 1,

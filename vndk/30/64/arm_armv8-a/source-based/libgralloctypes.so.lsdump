@@ -284,6 +284,14 @@
    "name" : "_ZN7android8gralloc412encodeUint64ERKNS_8hardware8graphics6mapper4V4_07IMapper12MetadataTypeEyPNS1_8hidl_vecIhEE"
   },
   {
+   "binding" : "weak",
+   "name" : "_ZN7android8gralloc413decodeIntegerIxEEiPNS0_12InputHidlVecEPT_"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN7android8gralloc413decodeIntegerIyEEiPNS0_12InputHidlVecEPT_"
+  },
+  {
    "name" : "_ZN7android8gralloc413decodeXyColorEPNS0_12InputHidlVecEPN4aidl7android8hardware8graphics6common7XyColorE"
   },
   {
@@ -304,10 +312,6 @@
   {
    "binding" : "weak",
    "name" : "_ZN7android8gralloc414encodeMetadataIN4aidl7android8hardware8graphics6common14ExtendableTypeEEEiRKNS_8hardware8graphics6mapper4V4_07IMapper12MetadataTypeERKT_PNS8_8hidl_vecIhEEPFiSI_PNS0_13OutputHidlVecEE"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android8gralloc414encodeMetadataIN4aidl7android8hardware8graphics6common8Cta861_3EEEiRKNS_8hardware8graphics6mapper4V4_07IMapper12MetadataTypeERKT_PNS8_8hidl_vecIhEEPFiSI_PNS0_13OutputHidlVecEE"
   },
   {
    "binding" : "weak",
@@ -5843,7 +5847,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -5852,7 +5856,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIN4aidl7android8hardware8graphics6common11PlaneLayoutENS_9allocatorIS6_EEEE",
-   "name" : "const std::vector<aidl::android::hardware::graphics::common::PlaneLayout, std::allocator<aidl::android::hardware::graphics::common::PlaneLayout> > &",
+   "name" : "const std::vector<aidl::android::hardware::graphics::common::PlaneLayout, std::allocator<aidl::android::hardware::graphics::common::PlaneLayout>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorIN4aidl7android8hardware8graphics6common11PlaneLayoutENS_9allocatorIS6_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIN4aidl7android8hardware8graphics6common11PlaneLayoutENS_9allocatorIS6_EEEE",
    "size" : 4,
@@ -5861,7 +5865,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIN4aidl7android8hardware8graphics6common4RectENS_9allocatorIS6_EEEE",
-   "name" : "const std::vector<aidl::android::hardware::graphics::common::Rect, std::allocator<aidl::android::hardware::graphics::common::Rect> > &",
+   "name" : "const std::vector<aidl::android::hardware::graphics::common::Rect, std::allocator<aidl::android::hardware::graphics::common::Rect>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorIN4aidl7android8hardware8graphics6common4RectENS_9allocatorIS6_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIN4aidl7android8hardware8graphics6common4RectENS_9allocatorIS6_EEEE",
    "size" : 4,
@@ -5870,7 +5874,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>> &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "size" : 4,
@@ -5897,7 +5901,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIhNS_9allocatorIhEEEEEE",
-   "name" : "const std::optional<std::vector<unsigned char, std::allocator<unsigned char> > > &",
+   "name" : "const std::optional<std::vector<unsigned char, std::allocator<unsigned char>>> &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIhNS_9allocatorIhEEEEEE",
    "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIhNS_9allocatorIhEEEEEE",
    "size" : 4,
@@ -6800,7 +6804,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char>> *",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
@@ -6809,7 +6813,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__16vectorIN4aidl7android8hardware8graphics6common11PlaneLayoutENS_9allocatorIS6_EEEE",
-   "name" : "std::vector<aidl::android::hardware::graphics::common::PlaneLayout, std::allocator<aidl::android::hardware::graphics::common::PlaneLayout> > *",
+   "name" : "std::vector<aidl::android::hardware::graphics::common::PlaneLayout, std::allocator<aidl::android::hardware::graphics::common::PlaneLayout>> *",
    "referenced_type" : "_ZTINSt3__16vectorIN4aidl7android8hardware8graphics6common11PlaneLayoutENS_9allocatorIS6_EEEE",
    "self_type" : "_ZTIPNSt3__16vectorIN4aidl7android8hardware8graphics6common11PlaneLayoutENS_9allocatorIS6_EEEE",
    "size" : 4,
@@ -6818,7 +6822,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__16vectorIN4aidl7android8hardware8graphics6common4RectENS_9allocatorIS6_EEEE",
-   "name" : "std::vector<aidl::android::hardware::graphics::common::Rect, std::allocator<aidl::android::hardware::graphics::common::Rect> > *",
+   "name" : "std::vector<aidl::android::hardware::graphics::common::Rect, std::allocator<aidl::android::hardware::graphics::common::Rect>> *",
    "referenced_type" : "_ZTINSt3__16vectorIN4aidl7android8hardware8graphics6common4RectENS_9allocatorIS6_EEEE",
    "self_type" : "_ZTIPNSt3__16vectorIN4aidl7android8hardware8graphics6common4RectENS_9allocatorIS6_EEEE",
    "size" : 4,
@@ -6845,7 +6849,7 @@
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__18optionalINS_6vectorIhNS_9allocatorIhEEEEEE",
-   "name" : "std::optional<std::vector<unsigned char, std::allocator<unsigned char> > > *",
+   "name" : "std::optional<std::vector<unsigned char, std::allocator<unsigned char>>> *",
    "referenced_type" : "_ZTINSt3__18optionalINS_6vectorIhNS_9allocatorIhEEEEEE",
    "self_type" : "_ZTIPNSt3__18optionalINS_6vectorIhNS_9allocatorIhEEEEEE",
    "size" : 4,
@@ -7543,7 +7547,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
@@ -7813,7 +7817,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorIN4aidl7android8hardware8graphics6common11PlaneLayoutENS_9allocatorIS6_EEEE",
-   "name" : "const std::vector<aidl::android::hardware::graphics::common::PlaneLayout, std::allocator<aidl::android::hardware::graphics::common::PlaneLayout> >",
+   "name" : "const std::vector<aidl::android::hardware::graphics::common::PlaneLayout, std::allocator<aidl::android::hardware::graphics::common::PlaneLayout>>",
    "referenced_type" : "_ZTINSt3__16vectorIN4aidl7android8hardware8graphics6common11PlaneLayoutENS_9allocatorIS6_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorIN4aidl7android8hardware8graphics6common11PlaneLayoutENS_9allocatorIS6_EEEE",
    "size" : 12,
@@ -7823,7 +7827,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorIN4aidl7android8hardware8graphics6common4RectENS_9allocatorIS6_EEEE",
-   "name" : "const std::vector<aidl::android::hardware::graphics::common::Rect, std::allocator<aidl::android::hardware::graphics::common::Rect> >",
+   "name" : "const std::vector<aidl::android::hardware::graphics::common::Rect, std::allocator<aidl::android::hardware::graphics::common::Rect>>",
    "referenced_type" : "_ZTINSt3__16vectorIN4aidl7android8hardware8graphics6common4RectENS_9allocatorIS6_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorIN4aidl7android8hardware8graphics6common4RectENS_9allocatorIS6_EEEE",
    "size" : 12,
@@ -7833,7 +7837,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > >",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *>> *)>>>",
    "referenced_type" : "_ZTINSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "size" : 12,
@@ -7863,7 +7867,7 @@
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__18optionalINS_6vectorIhNS_9allocatorIhEEEEEE",
-   "name" : "const std::optional<std::vector<unsigned char, std::allocator<unsigned char> > >",
+   "name" : "const std::optional<std::vector<unsigned char, std::allocator<unsigned char>>>",
    "referenced_type" : "_ZTINSt3__18optionalINS_6vectorIhNS_9allocatorIhEEEEEE",
    "self_type" : "_ZTIKNSt3__18optionalINS_6vectorIhNS_9allocatorIhEEEEEE",
    "size" : 16,
